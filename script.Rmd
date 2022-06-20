@@ -1,0 +1,60 @@
+---
+title: "簡易版名錄產生器"
+author: "JokerK"
+date: "2019/12/7"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+require(stringr)
+#### creat the basic table of the survey result
+x <- "aves" #check the species class
+namelist <- fread(paste0("database/",x,".csv"),encoding = "UTF-8")
+namelist[,cname:=gsub("台灣","臺灣",cname)]
+surv_list <- fread("Survey_list/sp_list.csv",encoding = "UTF-8")
+
+namelist <- namelist[order(family)]
+nlist <- namelist[surv_list,on=.(cname==sp)]
+miss_value <- nlist[is.na(id),cname]
+tb <- unique(nlist[!is.na(id)])
+tb[,author:=str_remove(fullname,pattern = name)]
+tb[,cbname:=paste0("*",name,"* ",author," ",
+                   cname," ",iucn_category," ",source)]
+tb[,Genus:=str_extract(name,"^[A-Z][a-z]+")]
+tb[,cfamily:=paste(family,family_cname)]
+######## set up the parameters for the text
+fam_number <- length(unique(tb[,family]))
+genus_number <- length(unique(tb[,Genus]))
+sp_number <- nrow(tb)
+source <- tb[,.N,by=source]
+iucn <- tb[,.N,by=iucn_category]
+tb <- tb[order(family,name)]
+######## creat the checklist
+list <- NULL
+fam_oName <- 0
+j=1
+for (i in c(1:nrow(tb))){
+  fam_name <- tb[i,cfamily]
+  sci_name <- tb[i,cbname]
+      if(fam_oName==fam_name){
+        list <- paste0(list,"\n","\t",i,". ",sci_name)
+      }else{
+        fam_oName <- fam_name
+        list <- paste0(list,"\n",j,". ",fam_name,"")
+        list <- paste0(list,"\n","\t",i,". ",sci_name)
+        j=j+1
+        }
+}
+getwd()
+write.csv(miss_value,"/result/missing_value.xlsx")
+writexl::write_xlsx(tb,"/result/checklist_table.xlsx")
+write.csv(iucn,"/result/iucn_count.csv")
+
+```
+
+本研究共調查到`r fam_number`科`r genus_number`屬`r sp_number`種。其中，`r as.character(source[1,1])`種為`r as.character(source[1,2])`種, `r as.character(source[2,1])`種為`r as.character(source[2,2])`種。  
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```
