@@ -9,7 +9,7 @@ output: word_document
 require(data.table)
 require(stringr)
 #### creat the basic table of the survey result
-x <- "animalia" #check the species class
+x <- "aves" #check the species class
 namelist <- fread(paste0("database/",x,".csv"),encoding = "UTF-8")
 namelist[,cname:=gsub("台灣","臺灣",cname)]
 surv_list <- fread("Survey_list/sp_list.csv",encoding = "UTF-8")
@@ -55,7 +55,7 @@ write.csv(iucn,"result/iucn_count.csv")
 
 ```
 
-本研究共調查到`r fam_number`科`r genus_number`屬`r sp_number`種。其中，`r as.character(source[1,1])`種為`r as.character(source[1,2])`種, `r as.character(source[2,1])`種為`r as.character(source[2,2])`種,`r as.character(source[3,1])`種為`r as.character(source[3,2])`種。  
+本研究共調查到`r fam_number`科`r genus_number`屬`r sp_number`種。其中，`r as.character(source[1,1])`種為`r as.character(source[1,2])`種， `r as.character(source[2,1])`種為`r as.character(source[2,2])`種，`r as.character(source[3,1])`種為`r as.character(source[3,2])`種。  
 
 ```{r,echo=FALSE,results='asis',message=FALSE}
 cat(list)
