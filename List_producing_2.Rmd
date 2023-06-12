@@ -1,0 +1,105 @@
+---
+title: "雪霸植物名錄"
+author: "JokerK"
+date: "2023/06/10"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+
+######## creat the checklist
+##### 邏輯
+####  比對門、綱、目、科四層
+tb <- fread("Survey_list/other_species_list.csv",encoding = "UTF-8")
+#### 有兩筆資料高位分類階層沒有中文名，手動填入
+### 兩筆資料屬於同一科，故僅填入相同數值
+tb[is.na(kingdom_c)]
+tb[is.na(kingdom_c),c("kingdom_c","phylum_c","class_c","order_c"):=
+     .("真菌界","子囊菌門","錘舌菌綱","柔膜菌目")]
+
+#### 處理學名中sp. 斜體的問題
+tb[rank=="Genus",scientificName_i:=gsub(" sp\\._","_ sp\\.",scientificName_i)]
+
+#### 組合名
+
+tb[,king_name:=paste0(kingdom," ",kingdom_c)][
+  ,phy_name:=paste0(phylum," ",phylum_c)][,
+  fam_name:= paste0(family," ",family_c)][,
+   sci_name:= paste(scientificName_i,common_name_c,sep = " ")]
+#### 排序
+tb <- tb[order(kingdom,phylum,class,order,family,name)]
+
+
+
+list <- NULL
+king_oName <- 0
+phy_oName <- 0
+fam_oName <- 0
+j <- 1
+k <- 1
+
+for (i in c(1:nrow(tb))){
+  king_name <- tb[i,king_name]
+  phy_name <- tb[i,phy_name]
+  fam_name <- tb[i,fam_name]
+  sci_name <- tb[i,sci_name]
+  if(king_name==king_oName){
+      if(phy_oName==phy_name){
+          if(fam_oName==fam_name){
+              if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+              list <- paste0(list,"####",k,". ",sci_name)
+              k=k+1
+              }else{next}
+          }else{
+            fam_oName <- fam_name
+            if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+                list <- paste0(list,"###",j,". ",fam_name)
+                list <- paste0(list,"####",k,". ",sci_name)
+                k=k+1
+                j=j+1}else{
+                list <- paste0(list,"###",j,". ",fam_name)
+                j=j+1
+              }
+          }
+      }else{
+        list <- paste0(list,"##","**",phy_name,"**")
+        list <- paste0(list,"###",j,". ",fam_name)
+        list <- paste0(list,"####",k,". ",sci_name)
+        j=j+1
+        k=k+1
+        fam_oName <- fam_name
+        phy_oName <- phy_name
+      }
+  }else{
+    j=1
+    k=1
+    list <- paste0(list,"#","**",king_name,"**")
+    list <- paste0(list,"##","**",phy_name,"**")
+    list <- paste0(list,"###",j,". ",fam_name)
+    list <- paste0(list,"####",k,". ",sci_name)
+    king_oName <- king_name
+    fam_oName <- fam_name
+    phy_oName <- phy_name
+    j=j+1
+    k=k+1
+  }
+}
+list <- gsub(" NA","",list)
+list <- gsub("####","\n\t ",list)
+list <- gsub("###","\n\n",list)
+list <- gsub("##","\n\n",list)
+list <- gsub("#","\n\n",list)
+list <- gsub("  "," ",list)
+writexl::write_xlsx(tb,"result/checklist_table_for_other.xlsx")
+cat(list, file = "namelist.txt")
+
+```
+
+ 
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```

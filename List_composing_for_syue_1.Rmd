@@ -1,0 +1,46 @@
+---
+title: "雪霸排序用"
+author: "JokerK"
+date: "2019/12/7"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+require(stringr)
+#### creat the basic table of the survey result
+
+nlst <- fread("雪霸_昆蟲魚貝兩爬.csv",header=TRUE)
+
+
+######## set up the parameters for the text
+
+nlst <- nlst[order(phylum,class,order,family,name)]
+######## creat the checklist
+list <- NULL
+fam_oName <- 0
+j=1
+for (i in c(1:nrow(tb))){
+  fam_name <- tb[i,cfamily]
+  sci_name <- tb[i,cbname]
+      if(fam_oName==fam_name){
+        list <- paste0(list,"\n","\t",i,". ",sci_name)
+      }else{
+        fam_oName <- fam_name
+        list <- paste0(list,"\n",j,". ",fam_name,"")
+        list <- paste0(list,"\n","\t",i,". ",sci_name)
+        j=j+1
+        }
+}
+list <- gsub(" NA "," ",list)
+write.csv(miss_value,"result/missing_value.csv")
+writexl::write_xlsx(tb,"result/checklist_table.xlsx")
+write.csv(iucn,"result/iucn_count.csv")
+
+```
+
+本研究共調查到`r fam_number`科`r genus_number`屬`r sp_number`種。其中，`r as.character(source[1,1])`種為`r as.character(source[1,2])`種， `r as.character(source[2,1])`種為`r as.character(source[2,2])`種，`r as.character(source[3,1])`種為`r as.character(source[3,2])`種。  
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```

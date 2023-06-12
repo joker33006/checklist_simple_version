@@ -1,0 +1,82 @@
+---
+title: "雪霸植物名錄"
+author: "JokerK"
+date: "2019/12/7"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+require(stringr)
+#### creat the basic table of the survey result
+nlist <- fread("list_composing/total_name_list.csv",header=TRUE,encoding = "UTF-8")
+### 刪除無用的欄位
+colnames(nlist)
+nlist <- nlist[,c("author","author2","name_author","formatted_name",
+         "latin_genus","latin_s1","s2_rank","s3_rank","latin_s3","usage_status",
+         "original_name_id","is_hybrid","hybrid_parent",
+         "protologue","type_name_id","created_at",
+         "updated_at","is_fossil","is_terrestrial","is_freshwater",
+         "is_brackish","is_marine","cites","occurrenceId",
+         "verbatimScientificName","authorship","taicol"):=NULL]
+
+### data arranged
+nlist <-nlist[kingdom!="Animalia"]
+unique(nlist[,kingdom])
+nlist[,kingdom:=factor(kingdom,
+                       levels =c("Plantae","Fungi","Chromista",
+                               "Bacteria","Protozoa"))]
+##### 學名斜體
+nlist[,scientificName:=gsub("ssp\\.","subsp\\.",scientificName)]
+nlist[,scientificName_i:=gsub("(^[A-Z][a-z]+ \\S+)","_\\1_",scientificName)]
+nlist[,scientificName_i:=gsub("var\\. ([a-z]\\S+)","var\\. _\\1_",scientificName_i)]
+nlist[,scientificName_i:=gsub("fo\\. ([a-z]\\S+)","fo\\. _\\1_",scientificName_i)]
+nlist[,scientificName_i:=gsub("subsp\\. ([a-z]\\S+)","subsp\\. _\\1_",scientificName_i)]
+####處理sp.不用斜體
+nlist[rank=="Genus",scientificName_i:=gsub(" sp\\._","_ sp\\.",scientificName_i)]
+
+#### 處理作者年分
+nlist[,scientificName_i:=gsub(", \\d{4}","",scientificName_i)]
+nlist[,scientificName_i:=gsub(",\\d{4}","",scientificName_i)]
+nlist[,scientificName_i:=gsub("\\[\\d{4}\\]","",scientificName_i)]
+nlist[,scientificName_i:=gsub("-\\d{4}","",scientificName_i)]
+nlist[,scientificName_i:=gsub(" \\d{4}","",scientificName_i)]
+
+### 處理rank
+unique(nlist[,rank])
+nlist[rank=="SPECIES",rank:="Species"]
+### 處理原生、特有、歸化
+nlist[alien_type=="cultured",source:="栽培"]
+nlist[grep("naturalized",alien_type),source:="歸化"]
+nlist[alien_type=="native",source:="原生"]
+nlist[grep("invasive",alien_type),source:="入侵"]
+nlist[is_endemic=="TRUE",source:="特有"]
+nlist[rank=="Species"&is.na(source),source:="原生"]
+
+readr::write_excel_csv(nlist, "/result/third_report_total_list.csv")
+### 切分植物與非植物
+nlist_np <- nlist[kingdom!="Plantae"]
+######## deal with the plantae
+nlist_plant <- nlist[kingdom=="Plantae"]
+nlist_plant[,phylum:=factor(phylum,
+                            levels = c("Chlorophyta","Marchantiophyta",
+                                        "Bryophyta","Tracheophyta"))]
+nlist_plant[,class:=factor(class,
+                            levels = c("Chlorophyceae","Jungermanniopsida",
+                                       "Marchantiopsida",NA,
+                                       "Bryopsida","Polytrichopsida",
+                                       "Lycopodiopsida","Polypodiopsida",
+                                       "Pinopsida","Magnoliopsida"))]
+np_1 <- nlist_plant[order(phylum,class,order,family,scientificName)]
+np_1[,redlist_2:=sub("^N","",redlist)]
+readr::write_excel_csv(np_1,"Survey_list/plant_list.csv")
+#### 處理非植物
+unique(nlist_np[,class])
+readr::write_excel_csv(nlist_np,"Survey_list/other_species_list.csv")
+```
+
+本研究共調查到`r fam_number`科`r genus_number`屬`r sp_number`種。其中，`r as.character(source[1,1])`種為`r as.character(source[1,2])`種， `r as.character(source[2,1])`種為`r as.character(source[2,2])`種，`r as.character(source[3,1])`種為`r as.character(source[3,2])`種。  
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```
