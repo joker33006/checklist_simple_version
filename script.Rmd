@@ -31,7 +31,7 @@ genus_number <- length(unique(tb[,Genus]))
 sp_number <- nrow(tb)
 source <- tb[,.N,by=source]
 iucn <- tb[,.N,by=iucn_category]
-tb <- tb[order(family,name)]
+tb <- tb[order(class,order,family,name)]
 ######## creat the checklist
 list <- NULL
 fam_oName <- 0

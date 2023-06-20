@@ -1,0 +1,2303 @@
+
+**Chlorophyta 綠藻植物門**
+1. Scenedesmaceae 柵藻科
+	1. _Scenedesmus_ sp. 柵藻屬 
+**Marchantiophyta 地錢門**
+2. Jungermanniaceae 葉蘚科
+	2. _Jungermannia atrovirens_ Dumort. 葉蘚  原生
+3. Lepidoziaceae 指葉蘚科
+	3. _Bazzania tridens_ (Reinw., Blume & Nees) Trevis. 三裂鞭蘚  原生
+	4. _Neolepidozia wallichiana_ (Gottsche) Fulford & J.Taylor 瓦氏指葉苔 原生
+4. Lophocoleaceae 齒萼蘚科
+	5. _Heteroscyphus bescherellei_ (Stephani) S.Hatt. 雙齒異萼苔 原生
+5. Plagiochilaceae 
+	6. _Plagiochila ovalifolia_ Mitt. 卵葉羽蘚  原生
+6. Porellaceae 光萼蘚科
+	7. _Porella perrottetiana_ (Mont.) Trevis. 毛邊光萼蘚  原生
+7. Metzgeriaceae 叉蘚科
+8. Frullaniaceae 耳葉蘚科
+	8. _Frullania tamarisci_ (L.) Dumort. 歐耳葉蘚  原生
+9. Lejeuneaceae 細鱗蘚科
+	9. _Ptychanthus striatus_ (Lehm. & Lindenb.) Nees 皺萼蘚  原生
+**Marchantiophyta**
+10. Cleveaceae
+	10. _Sauteria yatsuensis_ S.Hatt. 星孔苔 原生
+**Marchantiophyta 地錢門**
+11. Conocephalaceae 蛇蘚科
+	11. _Conocephalum conicum_ (L.) Dumort. 蛇蘚  原生
+**Bryophyta 苔類植物門**
+12. Bartramiaceae 珠苔科
+	12. _Bartramia halleriana_ Hedw. 珠苔  原生
+13. Bryaceae 真苔科
+	13. _Brachymenium nepalense_ Hook. 短月苔  原生
+	14. _Bryum argenteum_ Hedw. 真苔  原生
+	15. _Bryum billarderii_ Schwaegr. 大真苔  原生
+	16. _Bryum capillare_ Hedw. 細葉真苔  原生
+	17. _Bryum_ sp. 真苔屬 
+	18. _Pohlia longicollis_ (Hedw.) Lindb. 擬長蒴絲瓜苔  原生
+	19. _Pohlia nutans_ (Hedw.) Lindb. 黃絲瓜苔  原生
+	20. _Pohlia_ sp. 絲瓜苔屬 
+14. Mniaceae 提燈苔科
+	21. _Mnium lycopodioides_ Schwaegr. 長尖提燈苔  原生
+	22. _Plagiomnium confertidens_ (Lindb. & Arnell) T.J. Kop. 密集走燈苔  原生
+	23. _Plagiomnium succulentum_ (Mitt.) T.J. Kop. 大葉走燈苔  原生
+	24. _Rhizomnium hattorii_ T.Koponen 扇葉毛燈苔 原生
+	25. _Trachycystis ussuriensis_ (Maack & Regel) T.J. Kop. 樹形疣燈苔  原生
+15. Rhizogoniaceae 檜苔科
+	26. _Pyrrhobryum spiniforme_ (Hedwig) Mitt. 刺葉燄苔  原生
+16. Dicranaceae 曲尾苔科
+	27. _Aongstroemia orientalis_ Mitt. 東亞昂氏苔  原生
+	28. _Campylopus japonicus_ Broth. 日本曲柄苔  原生
+	29. _Campylopus umbellatus_ (Schwagr. & Gaudich. ex Arn.) Paris 節莖曲柄苔  原生
+	30. _Dicranodontium denudatum_ (Brid.) Britt. 青毛苔  原生
+	31. _Dicranum scoparium_ Hedw. 曲尾苔  原生
+	32. _Dicranum_ sp. 曲尾苔屬 
+	33. _Oncophorus wahlenbergii_ Brid. 曲背苔  原生
+	34. _Paraleucobryum longifolium_ (Hedw.) Loeske 長葉擬白髮苔  原生
+17. Leucobryaceae 白髮苔科
+	35. _Leucobryum bowringii_ Mitt. 包氏白髮苔  原生
+18. Fissidentaceae 鳳尾苔科
+	36. _Fissidens dubius_ P. Beauv. 卷葉鳳尾苔  原生
+19. Grimmiaceae 紫萼苔科
+	37. _Grimmia elongata_ G. Kaulf. 長枝紫萼苔  原生
+	38. _Grimmia_ sp. 紫萼苔屬 
+	39. _Racomitrium barbuloides_ Card. 硬葉砂苔  原生
+	40. _Racomitrium ericoides_ (Brid.) Brid. 長枝砂苔  原生
+	41. _Racomitrium_ sp. 砂苔屬 
+20. Hookeriaceae 油苔科
+	42. _Hookeria acutifolia_ Hook. & Grev. 尖葉油苔  原生
+21. Hypopterygiaceae 孔雀苔科
+	43. _Cyathophorella hookeriana_ (Griff.) Fleisch. 短肋雉尾苔  原生
+	44. _Lopidium nazeense_ (Ther.) Broth. 東亞雀尾苔  原生
+22. Amblystegiaceae 柳葉苔科
+	45. _Platyhypnidium riparioides_ (Hedw.) Dixon 圓葉平灰苔  原生
+23. Brachytheciaceae 青苔科
+	46. _Brachythecium buchananii_ (Hook.) A. Jaeg. 細枝青苔  原生
+	47. _Brachythecium moriense_ Bescherelle 柔葉青苔 原生
+	48. _Brachythecium rivulare_ B. S. G. 溪邊青苔  原生
+	49. _Brachythecium_ sp. 青苔屬 
+	50. _Eurhynchium angustirete_ (Broth.) T. Kop. 狹網美喙苔  原生
+	51. _Eurhynchium hians_ (Hedw.) Lac. 美喙苔  原生
+	52. _Stokesiella arbuscula_ (Broth.) Robins. 樹形王苔  原生
+24. Entodontaceae 絹苔科
+	53. _Entodon viridulus_ Card. 綠葉絹苔  原生
+25. Fabroniaceae 碎米苔科
+	54. _Fauriella tenuis_ (Mitt.) Card. 粗疣苔  原生
+26. Hylocomiaceae 塔苔科
+	55. _Hylocomium splendens_ (Hedw.) Schimp. 塔苔  原生
+	56. _Pleurozium schreberi_ (Brid.) Mitt. 赤莖苔  原生
+27. Hypnaceae 灰苔科
+	57. _Ctenidium andoi_ Nishimura 安藤梳苔  原生
+	58. _Ectropothecium zollingeri_ (C. Muell.) Jaeg. 平葉偏蒴苔  原生
+	59. _Gollania philippinensis_ (Broth.) Nog. 菲律賓粗枝苔  原生
+	60. _Gollania_ sp. 粗枝苔屬 
+	61. _Hypnum pallescens_ (Hedw.) P. Beauv. 黃灰苔  原生
+	62. _Hypnum_ sp. 灰苔屬 
+	63. _Hypnum tristo-viride_ (Broth.) Par. 暗綠灰苔  原生
+	64. _Pseudotaxiphyllum pohliaecarpum_ (Sull. & Lesq.) Z. Iwats. 紅色假鱗葉苔  原生
+	65. _Ptilium crista-castrensis_ (Hedw.) De Not. 毛梳苔  原生
+28. Plagiotheciaceae 棉苔科
+	66. _Plagiothecium denticulatum_ (Hedw.) Schimp. 棉苔  原生
+	67. _Plagiothecium neckeroideum_ Schimp. 扁枝棉苔  原生
+	68. _Plagiothecium_ sp. 棉苔屬 
+29. Rhytidiaceae 垂枝苔科
+	69. _Rhytidium rugosum_ (Hedw.) Kindb. 垂枝苔  原生
+30. Sematophyllaceae 錦苔科
+	70. _Brotherella henonii_ (Duby) Fleisch. 南方比賴苔  原生
+	71. _Pylaisiadelpha tenuirostris_ (Bruch & Schimp ex. Sull.) Buck 扁枝毛綿苔  原生
+	72. _Sematophyllum subhumile_ (C. Muell.) Fleisch. 短錦苔  原生
+	73. _Wijkia deflexifolia_ (Ren. & Card.) Crum 背仰刺枝苔  原生
+31. Theliaceae 鱗苔科
+	74. _Myurella julacea_ (Schwaegr.) B. S. G. 鈍葉小鼠尾苔  原生
+32. Thuidiaceae 羽苔科
+	75. _Thuidium glaucinoides_ Broth. 羽苔  原生
+	76. _Thuidium glaucinum_ (Mitt.) Bosch & Lac. 灰羽苔  原生
+	77. _Thuidium pristocalyx_ (C. Muell.) Jaeg. 苞葉羽苔  原生
+33. Trachypodaceae 扭葉苔科
+	78. _Duthiella speciosissima_ Broth. 美綠鋸苔  原生
+34. Hedwigiaceae 虎尾苔科
+	79. _Hedwigia ciliata_ (Hedw.) Ehrh. 虎尾苔  原生
+35. Leucodontaceae 白齒苔科
+	80. _Antitrichia curtipendula_ (Hedw.) Brid.. 逆毛苔  原生
+	81. _Leucodon_ sp. 白齒苔屬 
+36. Meteoriaceae 蔓苔科
+	82. _Aerobryidium filamentosum_ (Hook.) Fleisch. 毛扭粗苔  原生
+	83. _Barbella flagellifera_ (Card.) Nog. 鞭枝懸苔  原生
+	84. _Meteoriopsis reclinata_ (C. Muell.) Fleisch. ex Broth. var. _subreclinata_ Fleisch. 亞反葉反葉粗蔓苔  原生
+37. Neckeraceae 平苔科
+	85. _Homaliodendron flabellatum_ (Sm.) Fleisch. 樹平苔  原生
+	86. _Homaliodendron microdendron_ (Mont.) Fleisch. 鈍葉樹平苔  原生
+	87. _Thamnobryum plicatulum_ (Lac.) Iwatsuki 摺葉木苔  原生
+38. Orthotrichaceae 木靈苔科
+	88. _Ulota crispa_ (Hedw.)Brid. 北方捲葉苔  原生
+	89. _Zygodon viridissimus_ (Dicks.) Brid. 綠色變齒苔  原生
+39. Encalyptaceae 大帽苔科
+	90. _Encalypta ciliata_ Hedw. 大帽苔  原生
+40. Pottiaceae 叢苔科
+	91. _Barbula unguiculata_ Hedw. 扭口苔  原生
+	92. _Bryoerythrophyllum recurvirostrum_ (Hedw.) Chen 紅葉苔  原生
+	93. _Didymodon_ sp. 對齒苔屬 
+41. Polytrichaceae 土馬騣科
+	94. _Pogonatum neesii_ (C. muell.) Dozy 長瓶小金髮苔  原生
+	95. _Pogonatum_ sp. 小金髮苔屬 
+	96. _Polytrichastrum formosum_ (Hedw.) Smith 美姿野馬騣  原生
+	97. _Polytrichum commune_ L. ex Hedw. 土馬騣  原生
+42.  
+**Tracheophyta 維管束植物門**
+43. Lycopodiaceae 石松科
+	98. _Huperzia javanica_ (Sw.) C.Y.Yang 長柄千層塔 DD 原生
+	99. _Huperzia quasipolytrichoides_ (Hayata) Ching 反捲葉石杉 LC 原生
+	100. _Huperzia selago_ (L.) Bernh. ex Schrank & Mart. 小杉葉石杉 VU 原生
+	101. _Huperzia serrata_ (Thunb. ex Murray) Trev. 千層塔 DD 原生
+	102. _Huperzia somae_ (Hayata) Ching 相馬氏石杉 LC 原生
+	103. _Lycopodiastrum casuarinoides_ (Spring) Holub 木賊葉石松 LC 原生
+	104. _Lycopodiella cernua_ (L.) Pic.Serm. 過山龍 LC 原生
+	105. _Lycopodium annotinum_ L. 杉葉蔓石松 VU 原生
+	106. _Lycopodium clavatum_ L. 石松 LC 原生
+	107. _Lycopodium complanatum_ L. 地刷子 DD 原生
+	108. _Lycopodium obscurum_ L. 玉柏 LC 原生
+	109. _Lycopodium veitchii_ Christ 玉山石松 LC 原生
+	110. _Phlegmariurus cryptomerinus_ (Maxim.) Satou 柳杉葉馬尾杉 NT 原生
+	111. _Phlegmariurus fargesii_ (Herter) Ching 銳葉馬尾杉 EN 原生
+	112. _Phlegmariurus fordii_ (Baker) Ching 福氏馬尾杉 LC 原生
+	113. _Phlegmariurus sieboldii_ (Miq.) Ching 鱗葉馬尾杉 EN 原生
+	114. _Phlegmariurus squarrosus_ (G. Forst.) A. Love & D. Love 杉葉馬尾杉 EN 原生
+44. Selaginellaceae 卷柏科
+	115. _Selaginella delicatula_ (Desv.) Alston 全緣卷柏 LC 原生
+	116. _Selaginella doederleinii_ Hieron. 生根卷柏  原生
+	117. _Selaginella doederleinii_ subsp. _doederleinii_ Hieron. 生根卷柏  原生
+	118. _Selaginella involvens_ (Sw.) Spring 密葉卷柏 LC 原生
+	119. _Selaginella labordei_ Hieron. ex H. Christ 玉山卷柏 LC 原生
+	120. _Selaginella moellendorffii_ Hieron. 異葉卷柏 LC 原生
+	121. _Selaginella remotifolia_ Spring 疏葉卷柏 LC 原生
+	122. _Selaginella stauntoniana_ Spring 擬密葉卷柏 LC 原生
+	123. _Selaginella tamariscina_ (Beauv.) Spring 萬年松 LC 原生
+45. Cibotiaceae 金狗毛蕨科
+	124. _Cibotium barometz_ (L.) J. Sm. 金狗毛蕨 LC 原生
+	125. _Cibotium taiwanense_ Kuo 臺灣金狗毛蕨 LC 特有
+46. Cyatheaceae 桫欏科
+	126. _Alsophila podophylla_ Hook. 鬼桫欏 LC 原生
+	127. _Alsophila spinulosa_ (Wall. ex Hook.) R.M. Tryon 臺灣桫欏 LC 原生
+	128. _Sphaeropteris lepifera_ (J. Sm. ex Hook.) R.M. Tryon 筆筒樹 LC 原生
+47. Plagiogyriaceae 瘤足蕨科
+	129. _Plagiogyria adnata_ (Blume) Bedd. 瘤足蕨 LC 原生
+	130. _Plagiogyria euphlebia_ (Kunze) Mett. 華中瘤足蕨 LC 原生
+	131. _Plagiogyria falcata_ Copel. 倒葉瘤足蕨 LC 原生
+	132. _Plagiogyria glauca_ (Blume) Mett. 臺灣瘤足蕨 LC 原生
+	133. _Plagiogyria stenoptera_ (Hance) Diels 耳形瘤足蕨 LC 原生
+48. Equisetaceae 木賊科
+	134. _Equisetum ramosissimum_ Desf. 木賊 LC 原生
+49. Dipteridaceae 雙扇蕨科
+	135. _Cheiropleuria integrifolia_ (D. C. Eaton ex Hook) M, Kato 燕尾蕨 LC 原生
+50. Gleicheniaceae 裏白科
+	136. _Dicranopteris linearis_ (Burm. f.) Underw. 芒萁 LC 原生
+	137. _Dicranopteris tetraphylla_ (Rosenst) C. M. Kuo 蔓芒萁 LC 原生
+	138. _Diplopterygium blotianum_ (C. Chr.) Nakai 逆羽裏白 LC 原生
+	139. _Diplopterygium chinensis_ (Rosenst.) DeVol 中華裏白 LC 原生
+	140. _Diplopterygium glaucum_ (Houtt.) Nakai 裏白 LC 原生
+51. Hymenophyllaceae 膜蕨科
+	141. _Crepidomanes bilabiatum_ (Nees & Blume) Copel 圓唇假脈蕨 EN 原生
+	142. _Crepidomanes minutum_ (Blume) K. Iwats. 團扇蕨 LC 原生
+	143. _Crepidomanes minutum_ (Blume) K.Iwats. subsp. _minutum_ 團扇蕨  原生
+	144. _Crepidomanes schmidtianum_ (Zenker ex Taschner) K. Iwats. var. _latifrons_ (Bosch) K. Iwats. 寬葉假脈蕨  原生
+	145. _Hymenophyllum badium_ Hook. & Grev. 蕗蕨 LC 原生
+	146. _Hymenophyllum barbatum_ (v. d. Bosch) Bak. 華東膜蕨 LC 原生
+	147. _Hymenophyllum devolii_ Lai 棣氏膜蕨 LC 特有
+	148. _Hymenophyllum fujisanense_ Nakai 細葉蕗蕨 LC 原生
+	149. _Hymenophyllum polyanthos_ (Sw.) Sw. 細葉蕗蕨  原生
+	150. _Vandenboschia auriculata_ (Blume) Copel. 瓶蕨 LC 原生
+	151. _Vandenboschia striata_ (D. Don) Ebihara 南海瓶蕨 LC 原生
+52. Marattiaceae 合囊蕨科
+	152. _Angiopteris lygodiifolia_ Rosenst. 觀音座蓮 LC 原生
+53. Ophioglossaceae 瓶爾小草科
+	153. _Botrychium lunaria_ (L.) Sw. 扇羽陰地蕨 NT 原生
+	154. _Ophioglossum austroasiaticum_ M. Nishida 高山瓶爾小草 LC 原生
+	155. _Sceptridium formosanum_ (Tagawa) Holub 臺灣大陰地蕨 NT 原生
+	156. _Sceptridium ternatum_ (Thunb.) Lyon 大陰地蕨 EN 原生
+54. Osmundaceae 紫萁科
+	157. _Claytosmunda claytoniana_ (L.) Metzgar & Rouhan 絨紫萁 VU 原生
+	158. _Osmunda japonica_ Thunb. 紫萁 LC 原生
+55. Aspleniaceae 鐵角蕨科
+	159. _Asplenium adiantum-nigrum_ L. 深山鐵角蕨 LC 原生
+	160. _Asplenium antiquum_ Makino 山蘇花 LC 原生
+	161. _Asplenium australasicum_ (J. Sm.) Hook. 南洋山蘇花  栽培
+	162. _Asplenium bullatum_ Wall. ex Mett. 大鐵角蕨 NT 原生
+	163. _Asplenium cuneatiforme_ Christ 大蓬萊鐵角蕨 LC 特有
+	164. _Asplenium ensiforme_ Wall. ex Hook. & Grev. 劍葉鐵角蕨 LC 原生
+	165. _Asplenium falcatum_ Lam. 革葉鐵角蕨 LC 原生
+	166. _Asplenium griffithianum_ Hook. 叢葉鐵角蕨 LC 原生
+	167. _Asplenium gueinzianum_ Mett. ex Kuhn. 鱗柄鐵角蕨 LC 原生
+	168. _Asplenium incisum_ Thunb. 縮羽鐵角蕨 LC 原生
+	169. _Asplenium nidus_ L. 臺灣山蘇花 LC 原生
+	170. _Asplenium normale_ D.Don var. _normale_ 生芽鐵角蕨  原生
+	171. _Asplenium normale_ Don 生芽鐵角蕨 LC 原生
+	172. _Asplenium oldhamii_ Hance 俄氏鐵角蕨 LC 原生
+	173. _Asplenium polyodon_ G. Forst 革葉鐵角蕨  原生
+	174. _Asplenium prolongatum_ Hook. 長生鐵角蕨 LC 原生
+	175. _Asplenium pseudolaserpitiifolium_ Ching 大黑柄鐵角蕨 LC 原生
+	176. _Asplenium ritoense_ Hayata 尖葉鐵角蕨 LC 原生
+	177. _Asplenium septentrionale_ (L.) Hoffm. 線葉鐵角蕨 NT 原生
+	178. _Asplenium tenuicaule_ Hayata 小葉鐵角蕨 LC 原生
+	179. _Asplenium tenuifolium_ Don 薄葉鐵角蕨 LC 原生
+	180. _Asplenium trichomanes_ L. 鐵角蕨 LC 原生
+	181. _Asplenium tripteropus_ Nakai 三翅鐵角蕨 LC 原生
+	182. _Asplenium viride_ Hudson 綠柄鐵角蕨 LC 原生
+	183. _Asplenium wilfordii_ Mett. ex Kuhn var. _wilfordii_ 威氏鐵角蕨  原生
+	184. _Asplenium wilfordii_ Mett. ex Kuhn. 威氏鐵角蕨 LC 原生
+	185. _Asplenium wrightii_ Eaton 萊氏鐵角蕨 LC 原生
+	186. _Asplenium yoshinagae_ Makino 斜葉鐵角蕨 LC 原生
+	187. _Hymenasplenium cheilosorum_ (Kunze ex Mett.) Tagawa 薄葉孔雀鐵角蕨 LC 原生
+	188. _Hymenasplenium excisum_ (C. Presl) S. Linds. 剪葉膜葉鐵角蕨 LC 原生
+	189. _Hymenasplenium obliquissimum_ (Hayata) Sugim. 陰濕膜葉鐵角蕨 LC 原生
+	190. _Hymenasplenium subnormale_ (Copel.) Nakaike 小膜葉鐵角蕨 DD 原生
+56. Athyriaceae 蹄蓋蕨科
+	191. _Athyrium anisopterum_ Christ 宿蹄蓋蕨 LC 原生
+	192. _Athyrium arisanense_ (Hayata) Tagawa 阿里山蹄蓋蕨 LC 原生
+	193. _Athyrium atkinsonii_ Beddome 亞德氏蹄蓋蕨 LC 原生
+	194. _Athyrium cryptogrammoides_ Hayata 合歡山蹄蓋蕨 LC 原生
+	195. _Athyrium decurrentialatum_ var. _decurrentialatum_ (Hook.) Copel. 貞蕨  原生
+	196. _Athyrium delavayi_ Christ 溪谷蹄蓋蕨  原生
+	197. _Athyrium delavayi_ Christ var. _subrigescens_ (Hayata) Yea C.Liu, W.L.Chiou & H.Y.Liu 姬蹄蓋蕨  原生
+	198. _Athyrium delavayi_ var. _delavayi_ Christ 溪谷蹄蓋蕨  原生
+	199. _Athyrium erythropodum_ Hayata 紅柄蹄蓋蕨 LC 原生
+	200. _Athyrium fluviale_ (Hayata) C. Chr. 大葉貞蕨 LC 原生
+	201. _Athyrium iseanum_ Ros. var. _angustisectum_ Tagawa 細葉蹄蓋蕨  原生
+	202. _Athyrium mupinense_ H. Christ 細裂蹄蓋蕨 LC 原生
+	203. _Athyrium nakanoi_ Makino 紅苞蹄蓋蕨 LC 原生
+	204. _Athyrium oppositipennum_ Hayata 對生蹄蓋蕨  原生
+	205. _Athyrium oppositipennum_ var. _oppositipennum_ Hayata 對生蹄蓋蕨  原生
+	206. _Athyrium oppositipennum_ var. _pubescens_ (Tagawa) Tagawa 逆羽蹄蓋蕨  原生
+	207. _Athyrium purpurascens_ (Tagawa) Sa.Kurata 紫柄蹄蓋蕨  原生
+	208. _Athyrium tozanense_ (Hayata) Hayata 蓬萊蹄蓋蕨 LC 原生
+	209. _Athyrium tripinnatum_ Tagawa 三回蹄蓋蕨 LC 特有
+	210. _Athyrium vidalii_ (Fr. & Sav.) Nakai 山蹄蓋蕨 LC 原生
+	211. _Deparia formosana_ (Rosenst.) R. Sano 假腸蕨 LC 原生
+	212. _Deparia jiulungensis_ (Ching) Z.R.Wang 亞蹄蓋蕨 LC 原生
+	213. _Deparia petersenii_ (Kunze) M.Kato var. _petersenii_ 假蹄蓋蕨 LC 原生
+	214. _Diplazium dilatatum_ Blume 廣葉鋸齒雙蓋蕨 LC 原生
+	215. _Diplazium doederleinii_ (Luerss.) Makino 德氏雙蓋蕨 LC 原生
+	216. _Diplazium donianum_ (Mett.) Tard.-Blot 細柄雙蓋蕨  原生
+	217. _Diplazium donianum_ var. _donianum_ (Mett.) Tardieu 細柄雙蓋蕨  原生
+	218. _Diplazium esculentum_ (Retz.) Sw. 過溝菜蕨  原生
+	219. _Diplazium esculentum_ var. _esculentum_ (Retz.) Sw. 過溝菜蕨  原生
+	220. _Diplazium incomptum_ Tagawa 翅柄雙蓋蕨 EN 原生
+	221. _Diplazium kawakamii_ Hayata 川上氏雙蓋蕨  原生
+	222. _Diplazium kawakamii_ var. _kawakamii_ Hayata 川上氏雙蓋蕨  原生
+	223. _Diplazium laxifrons_ Rosenst 疏葉雙蓋蕨 LC 原生
+	224. _Diplazium mettenianum_ (Miq.) C. Chr. 深山雙蓋蕨 DD 原生
+	225. _Diplazium_ sp. 雙蓋蕨屬 
+	226. _Diplazium virescens_ Kunze var. _taiwanense_ (Tagawa) Sa.Kurata 臺灣雙蓋蕨  原生
+	227. _Diplazium viridissimum_ Christ 擬德氏雙蓋蕨 LC 原生
+	228. _Diplazium wichurae_ (Mett.) Diels 鋸齒雙蓋蕨 LC 原生
+57. Blechnaceae 烏毛蕨科
+	229. _Blechnidium melanopus_ (Hook.) T. Moore 烏木蕨 LC 原生
+	230. _Blechnopsis orientalis_ (L.) J. Presl 擬烏毛蕨 LC 原生
+	231. _Spicantopsis hancockii_ (Hance) Masamune 韓氏羅曼蕨 LC 原生
+	232. _Woodwardia prolifera_ Hook. & Arn. 珠芽狗脊蕨 LC 原生
+	233. _Woodwardia unigemmata_ (Makino) Nakai 頂芽狗脊蕨 LC 原生
+58. Cystopteridaceae 冷蕨科
+	234. _Acystopteris taiwaniana_ (Tagawa) A. Love & D. Love 臺灣亮毛蕨 LC 原生
+	235. _Acystopteris tenuisecta_ (Blume) Tagawa 禾稈亮毛蕨 LC 原生
+	236. _Cystopteris fragilis_ (L.) Bernh. 冷蕨 LC 原生
+	237. _Cystopteris moupinensis_ Franchet 寬葉冷蕨 LC 原生
+	238. _Gymnocarpium remotepinnatum_ (Hayata) Ching 細裂羽節蕨 LC 原生
+59. Davalliaceae 骨碎補科
+	239. _Davallia clarkei_ Baker 小膜蓋蕨 LC 原生
+	240. _Davallia divaricata_ Blume 大葉骨碎補 LC 原生
+	241. _Davallia griffithiana_ Hook. 杯狀蓋骨碎補 LC 原生
+	242. _Davallia repens_ (L. f.) Kuhn 陰石蕨 NT 原生
+	243. _Davallia trichomanoides_ Blume 海洲骨碎補 LC 原生
+60. Dennstaedtiaceae 碗蕨科
+	244. _Dennstaedtia hirsuta_ (Sw.) Mett. ex Miq. 細毛碗蕨 LC 原生
+	245. _Dennstaedtia scabra_ (Wall. ex Hook.) Moore 碗蕨 LC 原生
+	246. _Histiopteris incisa_ (Thunb.) J. Sm. 栗蕨 LC 原生
+	247. _Hypolepis punctata_ (Thunb.) Mett. ex Kuhn 姬蕨 LC 原生
+	248. _Microlepia hookeriana_ (Wall. ex Hook.) Presl 虎克氏鱗蓋蕨 LC 原生
+	249. _Microlepia marginata_ (Panzer) C. Chr. 邊緣鱗蓋蕨 LC 原生
+	250. _Microlepia obtusiloba_ Hayata 團羽鱗蓋蕨 LC 原生
+	251. _Microlepia smithii_ (Hook.) Y.H.Yan 司氏鱗蓋蕨 LC 原生
+	252. _Microlepia speluncae_ (L.) Moore 熱帶鱗蓋蕨 LC 原生
+	253. _Microlepia strigosa_ (Thunb.) Presl 粗毛鱗蓋蕨 LC 原生
+	254. _Microlepia substrigosa_ Tagawa 亞粗毛鱗蓋蕨 LC 原生
+	255. _Microlepia trichocarpa_ Hayata 毛果鱗蓋蕨 NT 原生
+	256. _Microlepia ×_ bipinnata (Makino) Shimura 臺北鱗蓋蕨 LC 原生
+	257. _Monachosorum henryi_ Christ 稀子蕨 LC 原生
+	258. _Monachosorum maximowiczii_ (Bak.) Hayata 岩穴蕨 LC 原生
+	259. _Pteridium aquilinum_ (L.) Kuhn subsp. _japonicum_ (Nakai) A.Love & D.Love 蕨  原生
+	260. _Pteridium aquilinum_ (L.) Kuhn subsp. _wightianum_ (Wall.) Shieh 巒大蕨  原生
+61. Dryopteridaceae 鱗毛蕨科
+	261. _Arachniodes amabilis_ (Blume) Tindale var. _amabilis_ 屋久複葉耳蕨 LC 原生
+	262. _Arachniodes amabilis_ (Blume) Tindale var. _fimbriata_ K.Iwats. 斜方複葉耳蕨  原生
+	263. _Arachniodes aristata_ (G. Forst.) Tindale 細葉複葉耳蕨 LC 原生
+	264. _Arachniodes festina_ (Hance) Ching 臺灣兩面複葉耳蕨 LC 原生
+	265. _Arachniodes pseudoaristata_ (Tagawa) Ohwi 小葉複葉耳蕨 LC 原生
+	266. _Arachniodes quadripinnata_ (Hayata) Serizawa 毛苞擬複葉耳蕨 LC 原生
+	267. _Bolbitis subcordata_ (Copel.) Ching 海南實蕨 LC 原生
+	268. _Ctenitis eatonii_ (Bak.) Ching 愛德氏肋毛蕨 LC 原生
+	269. _Ctenitis subglandulosa_ (Hance) Ching 肋毛蕨 LC 原生
+	270. _Cyrtomium caryotideum_ (Wall. ex Hook. & Grev.) C. Presl 細齒貫眾蕨 LC 原生
+	271. _Cyrtomium falcatum_ (L.f.) C.Presl 全緣貫眾蕨  原生
+	272. _Cyrtomium falcatum_ subsp. _falcatum_ (L.f.) C.Presl 全緣貫眾蕨  原生
+	273. _Cyrtomium taiwanianum_ Tagawa 臺灣貫眾蕨 VU 特有
+	274. _Dryopteris alpestris_ Tagawa 腺鱗毛蕨 LC 原生
+	275. _Dryopteris apiciflora_ (Wall. ex Mett.) Kuntze 頂囊擬鱗毛蕨 LC 原生
+	276. _Dryopteris costalisora_ Tagawa 近中肋鱗毛蕨 LC 原生
+	277. _Dryopteris cycadina_ (Franch. & Sav.) C. Chr. 桫欏鱗毛蕨 LC 原生
+	278. _Dryopteris diffracta_ (Baker) C. Chr. 彎柄假複葉耳蕨 LC 原生
+	279. _Dryopteris enneaphylla_ (Baker) C. Chr. 頂羽鱗毛蕨 LC 原生
+	280. _Dryopteris expansa_ (C. Presl) Fraser-Jenk. & Jermy 廣布鱗毛蕨 LC 原生
+	281. _Dryopteris formosana_ (Christ) C. Chr. 臺灣鱗毛蕨 LC 原生
+	282. _Dryopteris fructuosa_ (H. Christ) C. Chr. 硬果鱗毛蕨 LC 原生
+	283. _Dryopteris hasseltii_ (Blume) C. Chr. 哈氏假複葉耳蕨 LC 原生
+	284. _Dryopteris hendersonii_ (Bedd.) C. Chr. 小苞肉刺蕨 LC 原生
+	285. _Dryopteris kawakamii_ Hayata 川上氏擬鱗毛蕨 LC 原生
+	286. _Dryopteris komarovii_ Kossinsky 近多鱗鱗毛蕨 LC 原生
+	287. _Dryopteris lepidopoda_ Hayata 厚葉鱗毛蕨 LC 原生
+	288. _Dryopteris nidus_ (Baker) Li Bing Zhang 玉山肋毛蕨 LC 特有
+	289. _Dryopteris paleolata_ (Pic. Serm.) Li Bing Zhang 魚鱗蕨 LC 原生
+	290. _Dryopteris peranema_ Li Bing Zhang 柄囊蕨 LC 原生
+	291. _Dryopteris polita_ Rosenst. 臺東鱗毛蕨 LC 原生
+	292. _Dryopteris redactopinnata_ S. K. Basu & Panigr. 藏布鱗毛蕨 DD 原生
+	293. _Dryopteris reflexosquamata_ Hayata 逆鱗鱗毛蕨 LC 原生
+	294. _Dryopteris scottii_ (Beddome) Ching 史氏鱗毛蕨 LC 原生
+	295. _Dryopteris serratodentata_ (Bedd.) Hayata 鋸齒葉鱗毛蕨 LC 原生
+	296. _Dryopteris sordidipes_ Tagawa 落鱗鱗毛蕨 LC 原生
+	297. _Dryopteris sparsa_ (Don) Ktze. 長葉鱗毛蕨 LC 原生
+	298. _Dryopteris squamiseta_ (Hook.) Kuntze 阿里山肉刺蕨 LC 原生
+	299. _Dryopteris subatrata_ Tagawa 細葉鱗毛蕨 LC 特有
+	300. _Dryopteris subtriangularis_ (C. Hope) C. Chr. 亞三角鱗毛蕨 DD 原生
+	301. _Dryopteris transmorrisonensis_ Hayata 玉山擬鱗毛蕨  原生
+	302. _Dryopteris varia_ (L.) Ktze. 南海鱗毛蕨 LC 原生
+	303. _Dryopteris wallichiana_ (Spr.) Alston & Bonner 瓦氏鱗毛蕨  原生
+	304. _Dryopteris wallichiana_ subsp. _wallichiana_ (Spreng.) Hyl. 瓦氏鱗毛蕨  原生
+	305. _Dryopteris woodsiisora_ Hayata 擬岩蕨 LC 原生
+	306. _Dryopteris wuzhaohongii_ Li Bing Zhang 大孢魚鱗蕨 VU 原生
+	307. _Dryopteris ×_ subreflexipinna Ogata 微彎假複葉耳蕨  原生
+	308. _Elaphoglossum commutatum_ Aldrew. 大葉舌蕨 CR 原生
+	309. _Elaphoglossum luzonicum_ Copel. 臺灣舌蕨 VU 原生
+	310. _Elaphoglossum marginatum_ (Wall. ex Fee) T. Moore 垂葉舌蕨 LC 原生
+	311. _Elaphoglossum yoshinagae_ (Yatabe) Makino 舌蕨 LC 原生
+	312. _Polystichum acanthophyllum_ (Franch.) Christ 針葉耳蕨 LC 原生
+	313. _Polystichum atkinsonii_ Bedd. 玉山耳蕨 LC 原生
+	314. _Polystichum formosanum_ Rosenst. 臺灣耳蕨 LC 原生
+	315. _Polystichum hancockii_ (Hance) Diels 韓氏耳蕨 LC 原生
+	316. _Polystichum hecatopterum_ Diels 鋸齒葉耳蕨 LC 原生
+	317. _Polystichum integripinnum_ Hayata 狹葉貫眾蕨 LC 原生
+	318. _Polystichum lachenense_ (Hook.) Bedd. 高山耳蕨 LC 原生
+	319. _Polystichum lepidocaulon_ (Hook.) J. Sm. 鞭葉耳蕨 LC 原生
+	320. _Polystichum manmeiense_ (Christ.) Nakaike 鐮葉耳蕨 LC 原生
+	321. _Polystichum mucronifolium_ (Bl.) Presl 兒玉氏耳蕨 LC 原生
+	322. _Polystichum parvipinnulum_ Tagawa 尖葉耳蕨 LC 特有
+	323. _Polystichum piceopaleaceum_ (Christ) Diels 黑鱗耳蕨 LC 原生
+	324. _Polystichum prescottianum_ (Wall. ex Mett.) Moore 南湖耳蕨 VU 原生
+	325. _Polystichum prionolepis_ Hayata 鋸鱗耳蕨 LC 原生
+	326. _Polystichum scariosum_ (Roxb.) C. V. Morton 阿里山耳蕨 LC 原生
+	327. _Polystichum sinense_ (H. Christ) H. Christ 福山氏耳蕨 LC 原生
+	328. _Polystichum stenophyllum_ Christ 芽孢耳蕨 LC 原生
+	329. _Polystichum tsus-simense_ (Hook.) J. Sm. 馬祖耳蕨 LC 原生
+62. Lindsaeaceae 鱗始蕨科
+	330. _Lindsaea cultrata_ (Willd.) Sw. 網脈鱗始蕨 VU 原生
+	331. _Odontosoria chinensis_ (L.) J. Sm. 烏蕨 LC 原生
+	332. _Osmolindsaea odorata_ (Roxb.) Lehtonen & Christenh. 香鱗始蕨 LC 原生
+63. Nephrolepidaceae 腎蕨科
+	333. _Nephrolepis biserrata_ (Sw.) Schott. 長葉腎蕨 LC 原生
+	334. _Nephrolepis brownii_ (Desv.) Hovenkamp & Miyam. 毛葉腎蕨 LC 原生
+	335. _Nephrolepis cordifolia_ (L.) C. Presl 腎蕨 LC 原生
+64. Oleandraceae 蓧蕨科
+	336. _Oleandra wallichii_ (Hook.) Presl 蓧蕨 LC 原生
+65. Polypodiaceae 水龍骨科
+	337. _Arthromeris lehmannii_ Ching 肢節蕨 LC 原生
+	338. _Drynaria coronans_ (Wall. ex Mett.) J. Sm. ex T. Moore 崖薑蕨 LC 原生
+	339. _Drynaria roosii_ Nakaike 槲蕨 LC 原生
+	340. _Goniophlebium amoenum_ (Wall. ex Mett.) Bedd. 阿里山水龍骨  原生
+	341. _Goniophlebium amoenum_ (Wall. ex Mett.) Bedd. var. _arisanense_ (Hayata) Rodl-Linder 阿里山水龍骨  特有
+	342. _Goniophlebium formosanum_ (Baker) Rodl-Linder 臺灣水龍骨 LC 原生
+	343. _Goniophlebium mengtzeense_ (H. Christ) Rodl-Linder 蒙自水龍骨 LC 原生
+	344. _Goniophlebium raishaense_ (Rosenst.) L.Y. Kuo 大葉水龍骨 LC 特有
+	345. _Lemmaphyllum microphyllum_ C. Presl 伏石蕨 LC 原生
+	346. _Lemmaphyllum rostratum_ (Bedd.) Tagawa 骨牌蕨 LC 原生
+	347. _Lepidomicrosorum ningpoense_ (Baker) L.Y.Kuo 攀援星蕨 LC 原生
+	348. _Lepisorus kawakamii_ (Hayata) Tagawa 川上氏瓦葦 LC 特有
+	349. _Lepisorus miyoshianus_ (Makino) Fraser-Jenk. & Subh. Chandra 二條線蕨 NT 原生
+	350. _Lepisorus monilisorus_ (Hayata) Tagawa 擬芨瓦葦 LC 特有
+	351. _Lepisorus morrisonensis_ (Hayata) H. Ito 玉山瓦葦 LC 原生
+	352. _Lepisorus obscurevenulosus_ (Hayata) Ching 奧瓦葦 LC 原生
+	353. _Lepisorus pseudoussuriensis_ Tagawa 擬烏蘇里瓦葦 LC 特有
+	354. _Lepisorus suboligolepidus_ Ching 擬鱗瓦葦 LC 原生
+	355. _Lepisorus thunbergianus_ (Kaulf.) Ching 瓦葦 LC 原生
+	356. _Lepisorus tosaensis_ (Makino) H. Ito 擬瓦葦 LC 原生
+	357. _Leptochilus ellipticus_ (Thunb.) Noot. 橢圓線蕨 LC 原生
+	358. _Leptochilus hemionitideus_ (C. Presl) Noot. 斷線蕨 LC 原生
+	359. _Leptochilus wrightii_ (Hook. & Baker) X.C. Zhang 萊氏線蕨 LC 原生
+	360. _Loxogramme chinensis_ Ching 中國劍蕨 DD 原生
+	361. _Loxogramme formosana_ Nakai 臺灣劍蕨 LC 原生
+	362. _Loxogramme grammitoides_ (Baker) C. Chr. 小葉劍蕨 NT 原生
+	363. _Loxogramme remotefrondigera_ Hayata 長柄劍蕨 LC 特有
+	364. _Loxogramme salicifolia_ (Makino) Makino 柳葉劍蕨 LC 原生
+	365. _Loxogramme_ sp. 劍蕨屬 
+	366. _Micropolypodium okuboi_ (Yatabe) Hayata 梳葉蕨 LC 原生
+	367. _Microsorum membranaceum_ (D. Don) Ching 膜葉星蕨 LC 原生
+	368. _Microsorum punctatum_ (L.) Copel. 星蕨 LC 原生
+	369. _Neolepisorus ensatus_ (Thunb.) Ching 盾蕨 LC 原生
+	370. _Neolepisorus fortunei_ (T. Moore) L. Wang 大星蕨 LC 原生
+	371. _Oreogrammitis blechnifrons_ (Hayata) T.C.Hsu 蒿蕨 LC 原生
+	372. _Prosaptia contigua_ (Forst.) Presl 穴子蕨 LC 原生
+	373. _Pyrrosia lanceolata_ (L.) Farw. 披針葉石葦 LC 原生
+	374. _Pyrrosia linearifolia_ (Hook.) Ching 絨毛石葦 LC 原生
+	375. _Pyrrosia lingua_ (Thunb.) Farw. 石葦 LC 原生
+	376. _Pyrrosia matsudae_ (Hayata) Tagawa 松田氏石葦 DD 特有
+	377. _Pyrrosia polydactylos_ (Hance) Ching 槭葉石葦 LC 特有
+	378. _Pyrrosia porosa_ (Presl) Hovenkamp 柔軟石葦 DD 原生
+	379. _Pyrrosia sheareri_ (Bak.) Ching 廬山石葦 LC 原生
+	380. _Selliguea echinospora_ (Tagawa) Fraser-Jenk. 大葉玉山茀蕨 LC 特有
+	381. _Selliguea engleri_ (Luerss.) Fraser-Jenk. 恩氏茀蕨 LC 原生
+	382. _Selliguea hastata_ (Thunb.) Fraser-Jenk. 三葉茀蕨 LC 原生
+	383. _Selliguea quasidivaricata_ (Hayata) H. Ohashi & K. Ohashi 玉山茀蕨 LC 原生
+	384. _Selliguea taiwanensis_ (Tagawa) H. Ohashi & K. Ohashi 臺灣茀蕨 DD 特有
+66. Pteridaceae 鳳尾蕨科
+	385. _Adiantum capillus-veneris_ L. 鐵線蕨  原生
+	386. _Adiantum capillus-veneris_ fo. _capillus-veneris_ L. 鐵線蕨  原生
+	387. _Adiantum capillus-veneris_ var. _capillus-veneris_ L. 鐵線蕨  原生
+	388. _Adiantum caudatum_ L. 鞭葉鐵線蕨 LC 原生
+	389. _Adiantum diaphanum_ Bl. 長尾鐵線蕨 LC 原生
+	390. _Adiantum flabellulatum_ L. 扇葉鐵線蕨 LC 原生
+	391. _Adiantum formosanum_ Tagawa 深山鐵線蕨 VU 特有
+	392. _Aleuritopteris agetae_ Saiki 深山粉背蕨  特有
+	393. _Aleuritopteris argentea_ (S.G. Gmel.) Fee 長柄粉背蕨 LC 原生
+	394. _Antrophyum formosanum_ Heron. 臺灣車前蕨 LC 原生
+	395. _Antrophyum obovatum_ Baker 車前蕨 LC 原生
+	396. _Antrophyum sessilifolium_ (Cav.) Spring 無柄車前蕨 NT 原生
+	397. _Coniogramme fraxinea_ (Don) Diels 全緣鳳了蕨 LC 原生
+	398. _Coniogramme intermedia_ Heiron. 華鳳了蕨 LC 原生
+	399. _Coniogramme japonica_ (Thunb.) Diels 日本鳳了蕨 LC 原生
+	400. _Cryptogramma brunoniana_ Wall. ex Hook. & Grev. 高山珠蕨 LC 原生
+	401. _Cryptogramma stelleri_ (Gmel.) Prantl 疏葉珠蕨 NT 原生
+	402. _Doryopteris concolor_ (Langsd. & Fisch.) Kuhn 黑心蕨 LC 原生
+	403. _Haplopteris anguste-elongata_ (Hayata) E. H. Crane 姬書帶蕨 LC 原生
+	404. _Haplopteris elongata_ (Sw.) E.H. Crane 垂葉書帶蕨 LC 原生
+	405. _Haplopteris flexuosa_ (Fee) E.H. Crane 書帶蕨 LC 原生
+	406. _Onychium japonicum_ (Thunb.) Kunze 日本金粉蕨 LC 原生
+	407. _Paragymnopteris vestita_ (Hook.) K. H. Shing 金毛裸蕨 EN 原生
+	408. _Pteris biaurita_ L. 弧脈鳳尾蕨 LC 原生
+	409. _Pteris cretica_ L. 大葉鳳尾蕨 DD 原生
+	410. _Pteris dactylina_ Hook. 掌鳳尾蕨 LC 原生
+	411. _Pteris dimorpha_ Copel. 二形鳳尾蕨  原生
+	412. _Pteris dimorpha_ var. _dimorpha_ Copel. 二形鳳尾蕨  原生
+	413. _Pteris dispar_ Kunze 天草鳳尾蕨  原生
+	414. _Pteris ensiformis_ Burm. 箭葉鳳尾蕨 LC 原生
+	415. _Pteris fauriei_ Hieron. var. _fauriei_ 傅氏鳳尾蕨  原生
+	416. _Pteris fauriei_ Hieron. 傅氏鳳尾蕨 LC 原生
+	417. _Pteris formosana_ Bak. 臺灣鳳尾蕨 LC 原生
+	418. _Pteris kidoi_ Kurata 城戶氏鳳尾蕨 NT 原生
+	419. _Pteris longipes_ Don 蓬萊鳳尾蕨 LC 原生
+	420. _Pteris longipinna_ Hayata 長葉鳳尾蕨 LC 特有
+	421. _Pteris multifida_ Poir. 鳳尾蕨 LC 原生
+	422. _Pteris nipponica_ Shieh 日本鳳尾蕨  歸化
+	423. _Pteris scabristipes_ Tagawa 紅柄鳳尾蕨 LC 特有
+	424. _Pteris semipinnata_ L. 半邊羽裂鳳尾蕨 LC 原生
+	425. _Pteris setulosocostulata_ Hayata 有刺鳳尾蕨 LC 原生
+	426. _Pteris terminalis_ Wall. ex J. Agardh 溪鳳尾蕨  原生
+	427. _Pteris terminalis_ Wall. ex J.Agardh var. _fauriei_ (Christ) Ebihara & Nakato 溪鳳尾蕨  原生
+	428. _Pteris tokioi_ Masam. 鈴木氏鳳尾蕨 LC 原生
+	429. _Pteris wallichiana_ J. Agardh 瓦氏鳳尾蕨 LC 原生
+67. Tectariaceae 三叉蕨科
+	430. _Arthropteris palisotii_ (Desv.) Alston 藤蕨 LC 原生
+	431. _Tectaria simonsii_ (Baker) Ching 紫柄三叉蕨 LC 原生
+	432. _Tectaria subtriphylla_ (Hook. & Arn.) Copel. 三叉蕨 LC 原生
+68. Thelypteridaceae 金星蕨科
+	433. _Amauropelta beddomei_ (Baker) Y.H.Chang 縮羽泛美金星蕨 LC 原生
+	434. _Christella acuminata_ (Houtt.) H. Lev. 小毛蕨 LC 原生
+	435. _Christella dentata_ (Forssk.) Brownsey & Jermy 野小毛蕨 LC 原生
+	436. _Christella parasitica_ (L.) Lev. 密毛小毛蕨 LC 原生
+	437. _Coryphopteris angulariloba_ (Ching) L.J. He & X.C. Zhang 鈍頭泛亞金星蕨 LC 原生
+	438. _Coryphopteris castanea_ (Tagawa) Y.H.Chang, A.Ebihara & L.Y.Kuo 栗柄泛亞金星蕨 LC 原生
+	439. _Cyclosorus interruptus_ (Willd.) H. Ito 毛蕨 NT 原生
+	440. _Glaphyropteridopsis erubescens_ (Wall. ex Hook.) Ching 方桿蕨 LC 原生
+	441. _Leptogramma tottoides_ H. Ito 尾葉茯蕨 LC 原生
+	442. _Metathelypteris gracilescens_ (Blume) Ching 光葉凸軸蕨 LC 原生
+	443. _Pronephrium triphyllum_ (Sw.) Holtt. 三葉新月蕨 LC 原生
+	444. _Pseudocyclosorus esquirolii_ (Christ) Ching 假毛蕨 LC 原生
+69. Woodsiaceae 岩蕨科
+	445. _Woodsia polystichoides_ D. C. Eaton 岩蕨 LC 原生
+70. Psilotaceae 松葉蕨科
+	446. _Psilotum nudum_ (L.) Beauv. 松葉蕨 LC 原生
+71. Lygodiaceae 海金沙科
+	447. _Lygodium japonicum_ (Thunb.) Sw. 海金沙 LC 原生
+72. Podocarpaceae 羅漢松科
+	448. _Podocarpus fasciculus_ de Laub. 叢花百日青 VU 原生
+	449. _Podocarpus macrophyllus_ (Thunb.) Sweet var. _maki_ Siebold & Zucc. 小葉羅漢松  原生
+	450. _Podocarpus macrophyllus_ (Thunb.) Sweet 大葉羅漢松  原生
+73. Cupressaceae 柏科
+	451. _Calocedrus macrolepis_ Kurz var. _formosana_ (Florin) W.C. Cheng & L.K. Fu 臺灣肖楠  特有
+	452. _Chamaecyparis formosensis_ Matsum. 紅檜 NT 特有
+	453. _Chamaecyparis obtusa_ Siebold & Zucc. var. _formosana_ (Hayata) Hayata 臺灣扁柏  特有
+	454. _Cryptomeria japonica_ (Thunb. ex L. f.) D. Don 柳杉  歸化
+	455. _Cunninghamia konishii_ Hayata 巒大杉 VU 原生
+	456. _Cunninghamia lanceolata_ (Lamb.) Hook. 杉木  栽培
+	457. _Juniperus formosana_ Hayata 刺柏  原生
+	458. _Juniperus formosana_ var. _formosana_ Hayata 刺柏  原生
+	459. _Juniperus squamata_ Lamb. 香青 LC 原生
+	460. _Taiwania cryptomerioides_ Hayata 臺灣杉 EN 原生
+74. Taxaceae 紅豆杉科
+	461. _Amentotaxus formosana_ H.L. Li 臺灣穗花杉 EN 特有
+	462. _Cephalotaxus wilsoniana_ Hayata 臺灣粗榧 VU 特有
+	463. _Taxus sumatrana_ (Miq.) de Laub. 南洋紅豆杉 EN 原生
+75. Pinaceae 松科
+	464. _Abies kawakamii_ (Hayata) T. Ito 臺灣冷杉 LC 特有
+	465. _Picea morrisonicola_ Hayata 臺灣雲杉 LC 特有
+	466. _Pinus armandii_ Franch. var. _mastersiana_ (Hayata) Hayata 臺灣華山松  原生
+	467. _Pinus massoniana_ D. Don 馬尾松 LC 原生
+	468. _Pinus morrisonicola_ Hayata 臺灣五葉松 LC 原生
+	469. _Pinus taiwanensis_ Hayata 臺灣二葉松 LC 原生
+	470. _Pseudotsuga wilsoniana_ Hayata 臺灣黃杉 LC 原生
+	471. _Tsuga chinensis_ (Franch.) Pritz. var. _formosana_ (Hayata) H.L. Li & H. Keng 臺灣鐵杉  原生
+76. Araceae 天南星科
+	472. _Alocasia odora_ (Roxb.) K. Koch 姑婆芋 LC 原生
+	473. _Amorphophallus hirtus_ N.E. Br. 密毛魔芋 LC 特有
+	474. _Amorphophallus paeoniifolius_ (Dennst.) Nicolson 疣柄魔芋 EN 歸化
+	475. _Arisaema consanguineum_ Schott 長行天南星 LC 原生
+	476. _Arisaema formosanum_ (Hayata) Hayata 臺灣天南星 LC 原生
+	477. _Arisaema grapsospadix_ Hayata 毛筆天南星 LC 原生
+	478. _Arisaema heterophyllum_ Blume 羽葉天南星 LC 原生
+	479. _Arisaema ilanense_ J.C. Wang 宜蘭天南星 VU 特有
+	480. _Arisaema ringens_ (Thunb.) Schott 申跋 LC 原生
+	481. _Arisaema taiwanense_ J. Murata 蓬萊天南星  原生
+	482. _Arisaema taiwanense_ J. Murata var. _brevipedunculatum_ J. Murata 短梗天南星  特有
+	483. _Arisaema taiwanense_ var. _taiwanense_ J. Murata 蓬萊天南星  特有
+	484. _Colocasia formosana_ Hayata 臺灣青芋 LC 原生
+	485. _Epipremnum pinnatum_ (L.) Engl. 拎樹藤 LC 原生
+	486. _Pothos chinensis_ (Raf.) Merr. 柚葉藤 LC 原生
+	487. _Typhonium blumei_ Nicolson & Sivad. 土半夏 LC 原生
+77. Apiaceae 繖形科
+	488. _Angelica morii_ Hayata 森氏當歸 LC 原生
+	489. _Angelica morrisonicola_ Hayata 玉山當歸  原生
+	490. _Angelica morrisonicola_ Hayata var. _nanhutashanensis_ S.L. Liou, C.Y. Chao & T.I. Chuang 南湖當歸  特有
+	491. _Angelica morrisonicola_ var. _morrisonicola_ Hayata 玉山當歸  特有
+	492. _Anthriscus vulgaris_ Bernh. 竊衣 LC 原生
+	493. _Centella asiatica_ (L.) Urb. 雷公根 LC 原生
+	494. _Chaerophyllum involucratum_ (Hayata) K.F. Chung 山薰香 LC 原生
+	495. _Chaerophyllum nanhuense_ (C.H. Chen & J.C. Wang) K.F. Chung 南湖山薰香 EN 原生
+	496. _Chaerophyllum taiwanianum_ (Masam.) K.F. Chung 臺灣山薰香 VU 特有
+	497. _Conioselinum morrisonense_ Hayata 玉山彎柱芎 LC 特有
+	498. _Cryptotaenia japonica_ Hassk. 鴨兒芹 LC 原生
+	499. _Oenanthe javanica_ (Blume) DC. 水芹菜 LC 原生
+	500. _Peucedanum formosanum_ Hayata 臺灣前胡 LC 特有
+	501. _Pimpinella niitakayamensis_ Hayata 玉山茴香 LC 特有
+	502. _Sanicula lamelligera_ Hance 三葉山芹菜 LC 原生
+	503. _Sanicula petagnioides_ Hayata 五葉山芹菜 LC 特有
+	504. _Sium suave_ Walter 細葉零餘子 CR 原生
+	505. _Torilis scabra_ (Thunb.) DC. 紫花竊衣 LC 原生
+78. Araliaceae 五加科
+	506. _Aralia bipinnata_ Blanco 裡白<U+6964>木 LC 原生
+	507. _Aralia cordata_ Thunb. 食用土當歸 NT 原生
+	508. _Aralia decaisneana_ Hance 鵲不踏 LC 原生
+	509. _Dendropanax dentiger_ (Harms) Merr. 臺灣樹參 LC 原生
+	510. _Dendropanax trifidus_ (Thunb.) Makino ex Hara 三菱果樹參 EN 原生
+	511. _Eleutherococcus trifoliatus_ (L.) S.Y. Hu 三葉五加 LC 原生
+	512. _Fatsia polycarpa_ Hayata 臺灣八角金盤 LC 特有
+	513. _Hedera helix_ L. 常春藤  栽培
+	514. _Hedera rhombea_ (Miq.) Bean var. _formosana_ (Nakai) H.L. Li 臺灣常春藤  原生
+	515. _Heptapleurum ellipticum_ (Blume) Seem. 鵝掌藤 VU 原生
+	516. _Heptapleurum heptaphyllum_ (L.) Y.F.Deng 鵝掌柴 LC 原生
+	517. _Heptapleurum taiwanianum_ (Nakai) G.M.Plunkett & Lowry 臺灣鵝掌柴 LC 特有
+	518. _Hydrocotyle batrachium_ Hance 臺灣天胡荽 LC 原生
+	519. _Hydrocotyle dichondroides_ Makino 毛天胡荽 LC 原生
+	520. _Hydrocotyle pseudoconferta_ Hook. 乞食碗 LC 原生
+	521. _Hydrocotyle ramiflora_ Maxim. 阿里山天胡荽 LC 原生
+	522. _Hydrocotyle sibthorpioides_ Lam. 天胡荽 LC 原生
+	523. _Pentapanax castanopsidicola_ Hayata 臺灣五葉參 NT 原生
+	524. _Sinopanax formosanus_ (Hayata) H.L. Li 華參 VU 原生
+	525. _Tetrapanax papyriferus_ (Hook.) K. Koch 通脫木 LC 原生
+79. Pittosporaceae 海桐科
+	526. _Pittosporum daphniphylloides_ Hayata 大葉海桐 LC 特有
+	527. _Pittosporum illicioides_ Makino var. _angustifolium_ Huang ex S.Y. Lu 細葉疏果海桐  特有
+	528. _Pittosporum illicioides_ Makino var. _illicioides_ Makino 疏果海桐  原生
+	529. _Pittosporum illicioides_ Makino 疏果海桐  原生
+	530. _Pittosporum pentandrum_ (Blanco) Merr. 七里香 LC 原生
+	531. _Pittosporum tobira_ (Thunb.) W.T. Aiton 海桐 LC 原生
+80. Aquifoliaceae 冬青科
+	532. _Ilex arisanensis_ Yamam. 阿里山冬青 LC 特有
+	533. _Ilex asprella_ (Hook. & Arn.) Champ. ex Benth. 燈稱花 LC 原生
+	534. _Ilex bioritsensis_ Hayata 苗栗冬青 LC 原生
+	535. _Ilex cochinchinensis_ (Lour.) Loes. 革葉冬青 LC 原生
+	536. _Ilex crenata_ Thunb. 假黃楊 NT 原生
+	537. _Ilex ficoidea_ Hemsl. 臺灣糊樗 LC 原生
+	538. _Ilex formosana_ Maxim. 糊樗 LC 原生
+	539. _Ilex goshiensis_ Hayata 圓葉冬青 LC 原生
+	540. _Ilex hayatana_ Loes. 早田氏冬青 LC 原生
+	541. _Ilex lonicerifolia_ Hayata 忍冬葉冬青 NT 原生
+	542. _Ilex maximowicziana_ Loes. 倒卵葉冬青 LC 原生
+	543. _Ilex micrococca_ Maxim. 朱紅水木 LC 原生
+	544. _Ilex pedunculosa_ Miq. 刻脈冬青 LC 原生
+	545. _Ilex pubescens_ Hook. & Arn. 密毛假黃楊 NT 原生
+	546. _Ilex rotunda_ Thunb. 鐵冬青 LC 原生
+	547. _Ilex sugerokii_ Maxim. var. _brevipedunculata_ (Maxim.) S.Y. Hu 太平山冬青  原生
+	548. _Ilex suzukii_ S.Y. Hu 鈴木冬青 NT 特有
+	549. _Ilex tugitakayamensis_ Sasaki 雪山冬青 LC 特有
+	550. _Ilex uraiensis_ Mori & Yamamoto 烏來冬青 LC 原生
+	551. _Ilex yunnanensis_ Fr. var. _parvifolia_ (Hayata) S.Y. Hu 雲南冬青  原生
+81. Helwingiaceae 青莢葉科
+	552. _Helwingia japonica_ (Thunb.) Dietr. subsp. _taiwaniana_ Y.P. Yang & H.Y. Liu 臺灣青莢葉  原生
+82. Arecaceae 棕櫚科
+	553. _Arenga engleri_ Baccari 山棕 LC 原生
+	554. _Calamus formosanus_ Becc. 臺灣黃藤 LC 原生
+83. Asparagaceae 天門冬科
+	555. _Asparagus cochinchinensis_ (Lour.) Merr. 天門冬 LC 原生
+	556. _Aspidistra daibuensis_ Hayata 大武蜘蛛抱蛋 LC 特有
+	557. _Disporopsis fuscopicta_ Hance var. _arisanensis_ (Hayata) S.S. Ying 阿里山假寶鐸花  原生
+	558. _Heteropolygonatum alte-lobatum_ (Hayata) Y.H. Tseng,  H.Y. Tzeng, C.T. Chao 臺灣黃精 LC 原生
+	559. _Liriope minor_ (Ohwi) S.S.Ying var. _angustissima_ (Ohwi) S.S. Ying 細葉麥門冬  原生
+	560. _Liriope spicata_ (Thunb.) Lour. 麥門冬 LC 原生
+	561. _Maianthemum formosanum_ (Hayata) La Frankie 臺灣鹿藥 LC 原生
+	562. _Ophiopogon intermedius_ D. Don 間型沿階草 LC 原生
+	563. _Ophiopogon japonicus_ (L. f.) Ker Gawl. 書帶草  栽培
+	564. _Polygonatum odoratum_ (Miller) Druce. var. _pluriflorum_ Ohwi 萎蕤  原生
+	565. _Rohdea fargesii_ (Baill.) Y.F.Deng 萬年青 VU 原生
+84. Asphodelaceae 阿福花科
+	566. _Dianella ensifolia_ (L.) DC. 桔梗蘭 LC 原生
+85. Orchidaceae 蘭科
+	567. _Acanthephippium striatum_ Lindl. 一葉罈花蘭 LC 原生
+	568. _Aeridostachya robusta_ (Blume) Brieger. 細花絨蘭 CR 原生
+	569. _Anoectochilus formosanus_ Hayata 臺灣金線蓮 LC 特有
+	570. _Bletilla formosana_ (Hayata) Schltr. 臺灣白及 LC 原生
+	571. _Bulbophyllum albociliatum_ (Liu & Su) Nackejima 白毛捲瓣蘭  原生
+	572. _Bulbophyllum albociliatum_ var. _albociliatum_ (T.S. Liu & H.J. Su) Nakaj. & K. Nakaj. 白毛捲瓣蘭  原生
+	573. _Bulbophyllum aureolabellum_ T.P. Lin 小豆蘭 LC 原生
+	574. _Bulbophyllum drymoglossum_ Maxim. ex Okubo 狹萼豆蘭 LC 原生
+	575. _Bulbophyllum japonicum_ (Makino) Makino 日本捲瓣蘭 LC 原生
+	576. _Bulbophyllum melanoglossum_ Hayata 紫紋捲瓣蘭 LC 原生
+	577. _Bulbophyllum pectinatum_ Finet 阿里山豆蘭 LC 原生
+	578. _Bulbophyllum retusiusculum_ Rchb. f. 黃萼捲瓣蘭 LC 原生
+	579. _Bulbophyllum rubrolabellum_ T.P. Lin 紅心豆蘭 VU 原生
+	580. _Bulbophyllum sasakii_ (Hayata) J.J. Verm., A. Schuit. & de Vogel 綠花寶石蘭 LC 原生
+	581. _Bulbophyllum setaceum_ T. P. Lin 鸛冠蘭  原生
+	582. _Bulbophyllum setaceum_ var. _setaceum_ T.P. Lin 鸛冠蘭  原生
+	583. _Bulbophyllum taiwanense_ (Fukuy.) K. Nakaj. 臺灣捲瓣蘭 NT 特有
+	584. _Calanthe alismifolia_ Lindl. 細點根節蘭 LC 原生
+	585. _Calanthe alpina_ Hook. f. ex Lindl. 羽唇根節蘭 CR 原生
+	586. _Calanthe arcuata_ Rolfe 尾唇根節蘭 LC 原生
+	587. _Calanthe arisanensis_ Hayata 阿里山根節蘭 LC 原生
+	588. _Calanthe aristulifera_ Rchb. f. 翹距根節蘭 LC 原生
+	589. _Calanthe davidii_ Franch. 長葉根節蘭  原生
+	590. _Calanthe davidii_ var. _davidii_ Franch. 長葉根節蘭  原生
+	591. _Calanthe puberula_ Lindl. 反捲根節蘭 LC 原生
+	592. _Calanthe sieboldii_ Decne. ex Regel 黃根節蘭 NT 原生
+	593. _Calanthe sylvatica_ (Thouars) Lindl. 長距根節蘭 LC 原生
+	594. _Calanthe tricarinata_ Lindl. 三板根節蘭 NT 原生
+	595. _Calanthe triplicata_ (Willemet) Ames 白鶴蘭 LC 原生
+	596. _Cephalanthera alpicola_ Fukuy. 高山頭蕊蘭 LC 原生
+	597. _Cephalantheropsis obcordata_ (Lindl.) Ormerod 綠花肖頭蕊蘭  原生
+	598. _Cephalantheropsis obcordata_ var. _obcordata_ (Lindl.) Ormerod 綠花肖頭蕊蘭  原生
+	599. _Cheirostylis octodactyla_ Ames 羽唇指柱蘭 LC 原生
+	600. _Chrysoglossum ornatum_ Blume 黃唇蘭 LC 原生
+	601. _Cremastra appendiculata_ (D. Don) Makino 馬鞭蘭 LC 原生
+	602. _Cymbidium dayanum_ Rchb. f. 鳳蘭 LC 原生
+	603. _Cymbidium ensifolium_ (L.) Sw. 建蘭 LC 原生
+	604. _Cymbidium faberi_ Rolfe 九華蘭 VU 原生
+	605. _Cymbidium floribundum_ Lindl. 金稜邊蘭 LC 原生
+	606. _Cymbidium formosanum_ var. _formosanum_ Hayata 朵朵香  原生
+	607. _Cymbidium goeringii_ (Rchb. f.) Rchb. f. 春蘭  原生
+	608. _Cymbidium goeringii_ (Rchb. f.) Rchb. f. var. _serratum_ (Schltr.) Y.S. Wu & S.C. Chen 細葉春蘭  原生
+	609. _Cymbidium goeringii_ (Rchb. f.) Rchb. f. var. _tortisepalum_ (Fukuy.) Y.S. Wu & S.C. Chen 菅草蘭  原生
+	610. _Cymbidium lancifolium_ Hook. f. var. _aspidistrifolium_ (Fukuy.) S.S. Ying 綠花竹柏蘭  原生
+	611. _Dactylorhiza viridis_ (L.) R. M. Bateman, Pridgeon & M. Chase 綠花凹舌蘭 LC 原生
+	612. _Dendrobium chryseum_ Rolfe 細幹石斛 LC 原生
+	613. _Dendrobium falconeri_ Hook. f. 新竹石斛 NT 原生
+	614. _Dendrobium fargesii_ Finet 小攀龍 LC 原生
+	615. _Dendrobium furcatopedicellatum_ Hayata 雙花石斛 EN 特有
+	616. _Dendrobium leptocladum_ Hayata 細莖石斛 LC 原生
+	617. _Dendrobium linawianum_ Rchb. f. 櫻石斛 CR 原生
+	618. _Dendrobium moniliforme_ (L.) Sw. 石斛 LC 原生
+	619. _Dendrobium nakaharae_ Schltr. 臘石斛 LC 原生
+	620. _Dendrochilum uncatum_ Rchb. f. 黃穗蘭 VU 原生
+	621. _Epipactis helleborine_ (L.) Grantz subsp. _ohwii_ (Fukuy.) H.J. Su 臺灣鈴蘭  原生
+	622. _Eria corneri_ Rchb. f. 黃絨蘭 LC 原生
+	623. _Gastrochilus formosanus_ (Hayata) Hayata 臺灣松蘭 LC 原生
+	624. _Gastrochilus fuscopunctatus_ (Hayata) Hayata 紅斑松蘭 LC 特有
+	625. _Goodyera biflora_ (Lindl.) Hook. f. 大花斑葉蘭 EN 原生
+	626. _Goodyera daibuzanensis_ Yamam. 大武斑葉蘭 LC 特有
+	627. _Goodyera foliosa_ (Lindl.) Benth. ex C.B. Clarke 厚唇斑葉蘭 LC 原生
+	628. _Goodyera grandis_ (Bl.) Bl. 毛苞斑葉蘭 LC 原生
+	629. _Goodyera henryi_ Rolfe 短穗斑葉蘭 LC 原生
+	630. _Goodyera matsumurana_ Schltr. 銀線蓮 NT 原生
+	631. _Goodyera nankoensis_ Fukuy. 南湖斑葉蘭 LC 特有
+	632. _Goodyera nantoensis_ Hayata 南投斑葉蘭 EN 原生
+	633. _Goodyera nantoensis_ fo. _arisanensis_ (Hayata) T.P.Lin 阿里山斑葉蘭  原生
+	634. _Goodyera pusilla_ Blume 小小斑葉蘭 NT 原生
+	635. _Goodyera robusta_ Hook. f. 滇藏斑葉蘭 LC 原生
+	636. _Goodyera schlechtendaliana_ Rchb. f. 斑葉蘭 LC 原生
+	637. _Goodyera velutina_ Maxim. ex Regel 鳥嘴蓮  原生
+	638. _Haraella retrocalla_ (Hayata) Kudo 香蘭 NT 原生
+	639. _Hemipilia cordifolia_ Lindl. 玉山一葉蘭 VU 原生
+	640. _Herminium lanceum_ (Thunb. ex Sw.) Vuijk 細葉零餘子草 LC 原生
+	641. _Holcoglossum pumilum_ (Hayata) L.J.Chen, X.J.Xiao & G.Q.Zhang 小鹿角蘭 LC 原生
+	642. _Holcoglossum quasipinifolium_ (Hayata) Schltr. 撬唇蘭 NT 原生
+	643. _Liparis bootanensis_ Griff. 一葉羊耳蒜 LC 原生
+	644. _Liparis elliptica_ Wight 扁球羊耳蒜 LC 原生
+	645. _Liparis formosana_ Rchb. f. 寶島羊耳蒜 LC 原生
+	646. _Liparis krameri_ (Hayata) T.Hashim. var. _sasakii_ (Hayata) T. Hashim. 尾唇羊耳蒜  原生
+	647. _Liparis laurisilvatica_ Fukuy. 小花羊耳蘭 LC 特有
+	648. _Liparis nakaharae_ Hayata 長葉羊耳蒜 LC 原生
+	649. _Liparis nervosa_ (Thunb.) Lindl. 紅花羊耳蒜 LC 原生
+	650. _Luisia teres_ (Thunb.) Blume 金釵蘭 LC 原生
+	651. _Mischobulbum cordifolium_ (Hook. f.) Schltr. 心葉葵蘭 LC 原生
+	652. _Myrmechis drymoglossifolia_ Hayata 阿里山全唇蘭 LC 原生
+	653. _Neottia japonica_ (Blume) Szlach. 小雙葉蘭 LC 原生
+	654. _Neottia morrisonicola_ (Hayata) Szlach. 玉山雙葉蘭 LC 原生
+	655. _Neottia suzukii_ (Masam.) Szlach. 三角雙葉蘭 LC 原生
+	656. _Oberonia arisanensis_ Hayata 阿里山莪白蘭 LC 原生
+	657. _Oberonia caulescens_ Lindl. 二裂唇莪白蘭 LC 原生
+	658. _Oberonia japonica_ (Maxim.) Makino 臺灣莪白蘭 LC 原生
+	659. _Odontochilus lanceolatus_ (Lindl.) Blume 雙囊齒唇蘭 LC 原生
+	660. _Pholidota cantonensis_ Rolfe 烏來石山桃 LC 原生
+	661. _Pinalia amica_ (Rchb. f.) Kuntze 小腳筒蘭 LC 原生
+	662. _Pinalia japonica_ (Maxim.) Ormerod 高山絨蘭 LC 原生
+	663. _Platanthera brevicalcarata_ Hayata 短距粉蝶蘭 LC 原生
+	664. _Platanthera devolii_ (T.P. Lin & T.W. Hu) T.P. Lin & K.Inoue 長葉蜻蛉蘭 LC 特有
+	665. _Platanthera longicalcarata_ Hayata 長距粉蝶蘭 VU 特有
+	666. _Platanthera mandarinorum_ (Hayata) T.P.Lin & K.Inoue subsp. _pachyglossa_ (Hayata) T.P. Lin & K.Inoue 厚唇粉蝶蘭  特有
+	667. _Platanthera minor_ (Miq.) Rchb. f. 卵唇粉蝶蘭 LC 原生
+	668. _Platanthera sachalinensis_ F. Schmidt 高山粉蝶蘭 LC 原生
+	669. _Platanthera taiwanensis_ (S.S. Ying) S.C. Chen, S.W. Gale & P.J. Cribb 臺灣蜻蛉蘭 NT 原生
+	670. _Pleione bulbocodioides_ (Franch.) Rolfe 臺灣一葉蘭 NT 原生
+	671. _Ponerorchis alpestris_ (Fukuy.) X.H.Jin, Schuit. & W.T.Ji 南湖雛蘭 LC 原生
+	672. _Ponerorchis kiraishiensis_ (Hayata) Ohwi 紅小蝶蘭 LC 原生
+	673. _Ponerorchis tominagai_ (Hayata) H. J. Su & J. J. Chen 紅班蘭  特有
+	674. _Rhomboda yakusimensis_ (Masam.) Ormerod 白肋角唇蘭 LC 原生
+	675. _Spiranthes sinensis_ (Pers.) Ames 綬草 LC 原生
+	676. _Styloglossum densiflorum_ (Lindl.) T. Yukawa & P.J. Cribb 竹葉根節蘭 LC 原生
+	677. _Styloglossum formosanum_ (Rolfe) T.P. Lin 臺灣根節蘭 LC 原生
+	678. _Thrixspermum formosanum_ (Hayata) Schltr. 臺灣風蘭 LC 原生
+	679. _Tipularia odorata_ Fukuy. 南湖蠅蘭 NT 特有
+	680. _Vanilla albida_ Blume 臺灣梵尼蘭  原生
+	681. _Zeuxine strateumatica_ (L.) Schltr. 線柱蘭  原生
+	682. _Zeuxine strateumatica_ var. _strateumatica_ (L.) Schltr. 線柱蘭  原生
+86. Asteraceae 菊科
+	683. _Adenostemma lavenia_ (L.) Kuntze 下田菊 LC 原生
+	684. _Ageratum conyzoides_ L. 藿香薊  歸化
+	685. _Ageratum houstonianum_ Mill. 紫花藿香薊  入侵
+	686. _Ainsliaea latifolia_ (D. Don) Sch. Bip. subsp. _henryi_ (Diels) H. Koyama 臺灣鬼督郵  原生
+	687. _Ainsliaea macroclinidioides_ Hayata 阿里山鬼督郵 LC 原生
+	688. _Anaphalis morrisonicola_ Hayata 玉山抱莖籟簫 LC 原生
+	689. _Anaphalis nepalensis_ (Spreng.) Hand.-Mazz. 尼泊爾籟簫 LC 原生
+	690. _Artemisia anomala_ S. Moore 珍珠蒿 NT 原生
+	691. _Artemisia capillaris_ Thunb. 茵陳蒿 LC 原生
+	692. _Artemisia indica_ Willd. 艾 LC 原生
+	693. _Artemisia japonica_ Thunb. 牡蒿 LC 原生
+	694. _Artemisia kawakamii_ Hayata 山艾 LC 特有
+	695. _Artemisia morrisonensis_ Hayata 細葉山艾 LC 原生
+	696. _Artemisia niitakayamensis_ Hayata 玉山艾 LC 特有
+	697. _Artemisia oligocarpa_ Hayata 高山艾 LC 特有
+	698. _Artemisia somae_ Hayata var. _batakensis_ (Hayata) Kitam. 太魯閣艾  特有
+	699. _Artemisia tsugitakaensis_ (Kitam.) Y. Ling & Y.-R. Ling 雪山艾 LC 原生
+	700. _Aster ageratoides_ Turcz. 山白蘭 LC 原生
+	701. _Aster formosanus_ Hayata 臺灣山白蘭 LC 特有
+	702. _Aster hispidus_ Thunb. 狗娃花 LC 原生
+	703. _Aster lasiocladus_ Hayata 絨山白蘭 LC 原生
+	704. _Aster ovalifolius_ Kitam. 臺灣紺菊 EN 特有
+	705. _Aster taiwanensis_ Kitam. 臺灣馬蘭 LC 特有
+	706. _Aster takasagomontanus_ Sasaki 雪山馬蘭 NT 特有
+	707. _Bidens bipinnata_ L. 鬼針 LC 歸化
+	708. _Bidens pilosa_ L. var. _minor_ (Blume) Sherff 小白花鬼針  原生
+	709. _Bidens pilosa_ L. var. _pilosa_ L. 白花鬼針  歸化
+	710. _Bidens pilosa_ L. var. _radiata_ Sch. Bip. 大花咸豐草  入侵
+	711. _Blumea aromatica_ DC. 薄葉艾納香 LC 原生
+	712. _Blumea balsamifera_ (L.) DC. 艾納香 LC 原生
+	713. _Blumea laciniata_ DC. 裂葉艾納香 LC 原生
+	714. _Blumea riparia_ (Blume) DC. var. _megacephala_ Randeria 大頭艾納香  原生
+	715. _Carpesium abrotanoides_ L. 天名精 VU 原生
+	716. _Carpesium divaricatum_ Siebold & Zucc. 煙管草 NT 原生
+	717. _Carpesium minus_ Hemsl. 細川氏天名精 LC 原生
+	718. _Carpesium nepalense_ Less. 黃金珠 LC 原生
+	719. _Cirsium arisanense_ Kitam. 阿里山薊 LC 原生
+	720. _Cirsium ferum_ Kitam. 鱗毛薊 LC 特有
+	721. _Cirsium hosokawai_ Kitam. 細川氏薊 LC 原生
+	722. _Cirsium japonicum_ DC. var. _australe_ Kitam. 南國小薊  原生
+	723. _Cirsium kawakamii_ Hayata 玉山薊 LC 特有
+	724. _Cirsium morii_ Hayata 森氏薊 LC 特有
+	725. _Cirsium suzukii_ Kitam. 鈴木氏薊 LC 特有
+	726. _Cirsium taiwanense_ Y.H.Tseng & Chih Y.Chang 臺灣薊  特有
+	727. _Conyza bonariensis_ (L.) Cronquist 美洲假蓬  入侵
+	728. _Conyza canadensis_ (L.) Cronq 加拿大蓬  入侵
+	729. _Conyza canadensis_ (L.) Cronq. var. _pusilla_ (Nutt.) Cronquist 光莖飛蓬  歸化
+	730. _Conyza japonica_ (Thunb.) Less. 日本假蓬 LC 原生
+	731. _Conyza sumatrensis_ (Retz.) E. Walker 野茼蒿  入侵
+	732. _Coreopsis tinctoria_ Nutt. 波斯菊  歸化
+	733. _Cosmos bipinnatus_ Cav. 大波斯菊  歸化
+	734. _Crassocephalum crepidioides_ (Benth.) S. Moore 昭和草  入侵
+	735. _Crepidiastrum taiwanianum_ Nakai 臺灣假黃鵪菜 NT 特有
+	736. _Cyanthillium cinereum_ var. _cinereum_ (L.) H.Rob. 一枝香  原生
+	737. _Cyanthillium cinereum_ var. _parviflorum_ (Reinw. ex Blume) Karthik. & Moorthy 小花斑鳩菊  原生
+	738. _Dahlia hortensis_ Guill. 大理花  栽培
+	739. _Decaneuropsis gratiosa_ (Hance) H.Rob. & Skvarla 過山龍 LC 原生
+	740. _Dendranthema arisanense_ (Hayata) Y. Ling & C. Shih 阿里山油菊 LC 原生
+	741. _Dendranthema indicum_ (L.) Des Moul. 油菊 LC 原生
+	742. _Dendranthema lavandulifolium_ (Fisch. Ex Trautv.) Y. Ling & C. Shih var. _tomentellum_ (Hand.-Mazz.) Y. Ling & C. Shih 新竹油菊  原生
+	743. _Dendranthema morii_ (Hayata) Kitam. 森氏菊 NT 特有
+	744. _Dichrocephala integrifolia_ (L. f.) Kuntze 茯苓菜 LC 原生
+	745. _Elephantopus mollis_ Kunth 地膽草  歸化
+	746. _Emilia fosbergii_ Nicolson 纓絨花  歸化
+	747. _Emilia sonchifolia_ (L.) DC. 紫背草  原生
+	748. _Emilia sonchifolia_ (L.) DC. var. _javanica_ (Burm. f.) Mattf. 紫背草  原生
+	749. _Erechtites hieraciifolius_ var. _hieraciifolius_ (L.) Raf. ex DC. 饑荒草  歸化
+	750. _Erechtites valerianifolius_ (Link ex Spreng.) DC. 飛機草  歸化
+	751. _Erigeron annuus_ (L.) Pers. 白頂飛蓬  歸化
+	752. _Erigeron morrisonensis_ Hayata 玉山飛蓬  原生
+	753. _Erigeron morrisonensis_ Hayata var. _fukuyamae_ (Kitam.) Kitam. 福山氏飛蓬  特有
+	754. _Erigeron morrisonensis_ Hayata var. _morrisonensis_ Hayata 玉山飛蓬  特有
+	755. _Eupatorium chinense_ L. var. _tozanense_ (Hayata) Kitam. 塔山澤蘭  特有
+	756. _Eupatorium clematideum_ (Wall. ex DC.) Sch. Bip. var. _clematideum_ (Wall. ex DC.) Sch. Bip. 田代氏澤蘭  原生
+	757. _Eupatorium formosanum_ Hayata 臺灣澤蘭 LC 原生
+	758. _Eupatorium lindleyanum_ DC. 林氏澤蘭 VU 原生
+	759. _Farfugium japonicum_ (L.) Kitam. 山菊 NT 原生
+	760. _Farfugium japonicum_ (L.) Kitam. var. _formosanum_ (Hayata) Kitam. 臺灣山菊  原生
+	761. _Galinsoga parviflora_ Cav. 小米菊  歸化
+	762. _Galinsoga quadriradiata_ Ruiz & Pav. 粗毛小米菊  入侵
+	763. _Gnaphalium adnatum_ (DC.) Wall. ex Thwaites 紅面番 LC 原生
+	764. _Gnaphalium hypoleucum_ DC. 秋鼠麴草  原生
+	765. _Gnaphalium hypoleucum_ DC. var. _amoyense_ (Hance) Hand.-Mazz. 假秋鼠麴草  原生
+	766. _Gnaphalium hypoleucum_ DC. var. _hypoleucum_ DC. 秋鼠麴草  原生
+	767. _Gnaphalium involucratum_ Forst. var. _ramosum_ DC. 分枝鼠麴草  原生
+	768. _Gnaphalium involucratum_ Forst. var. _simplex_ DC. 細葉鼠麴草  原生
+	769. _Gnaphalium japonicum_ Thunb. 父子草 LC 原生
+	770. _Gnaphalium luteoalbum_ L. 絲綿草  原生
+	771. _Gnaphalium luteoalbum_ L. subsp. _affine_ (D. Don) J. Kost. 鼠麴草  原生
+	772. _Gnaphalium luteoalbum_ L. subsp. _luteoalbum_ L. 絲綿草  原生
+	773. _Gnaphalium pensylvanicum_ Willd. 匙葉鼠麴草  歸化
+	774. _Gnaphalium purpureum_ L. 鼠麴舅  歸化
+	775. _Gynura japonica_ (Thunb.) Juel 黃花三七草 LC 原生
+	776. _Hieracium morii_ Hayata 森氏山柳菊 LC 特有
+	777. _Hypochaeris radicata_ L. 貓兒菊  歸化
+	778. _Ixeridium laevigatum_ (Blume) Pak & Kawano 刀傷草 LC 原生
+	779. _Ixeridium transnokoense_ (Sasaki) Pak & Kawano 能高刀傷草 LC 特有
+	780. _Ixeris chinensis_ (Thunb.) Kitag. 兔仔菜 LC 原生
+	781. _Ixeris stolonifera_ A. Gray 蔓苦<U+8552> LC 原生
+	782. _Lactuca formosana_ Maxim. 臺灣山苦藚 LC 原生
+	783. _Lactuca indica_ L. 鵝仔草 LC 原生
+	784. _Lapsanastrum takasei_ (Sasaki) Pak & K. Bremer 臺灣稻槎草 LC 原生
+	785. _Leontopodium microphyllum_ Hayata 玉山薄雪草 LC 特有
+	786. _Ligularia japonica_ (Thunb.) Less. 大吳風草 VU 原生
+	787. _Ligularia kojimae_ Kitam. 高山橐吾 VU 特有
+	788. _Ligularia stenocephala_ (Maxim.) Matsum. & Koidz. 戟葉橐吾 LC 原生
+	789. _Mikania cordata_ (Burm. f.) B.L. Rob. 蔓澤蘭 LC 原生
+	790. _Myriactis humilis_ Merr. 矮菊 LC 原生
+	791. _Notoseris formosana_ (Kitam.) C. Shih 臺灣福王草 LC 原生
+	792. _Paraprenanthes sororia_ (Miq.) C. Shih 山苦藚 LC 原生
+	793. _Parasenecio morrisonensis_ Y. Liu, C.I Peng & Q.E. Yang 玉山蟹甲草 VU 原生
+	794. _Parasenecio nokoensis_ (Masam. & Suzuki) C.I Peng & S.W. Chung 能高蟹甲草 EN 原生
+	795. _Parasenecio sylviaensis_ S.W. Chung & T.C. Hsu 雪山蟹甲草 VU 特有
+	796. _Parthenium hysterophorus_ L. 銀膠菊  歸化
+	797. _Petasites formosanus_ Kitam. 臺灣款冬 LC 特有
+	798. _Picris hieracioides_ L. subsp. _morrisonensis_ (Hayata) Kitam. 玉山毛連菜  特有
+	799. _Picris hieracioides_ L. subsp. _ohwiana_ (Kitam.) Kitam. 高山毛連菜  特有
+	800. _Pluchea indica_ (L.) Less. 鯽魚膽 LC 原生
+	801. _Prenanthes japonica_ 黃鵪菜  原生
+	802. _Rhynchospermum verticillatum_ Reinw. 秋分草 LC 原生
+	803. _Saussurea deltoidea_ (DC.) Sch. Bip. 臺灣青木香 LC 原生
+	804. _Saussurea glandulosa_ Kitam. 高山青木香 VU 原生
+	805. _Saussurea kiraisiensis_ Masam. 奇萊青木香 VU 原生
+	806. _Senecio crataegifolius_ Hayata 小蔓黃菀 VU 特有
+	807. _Senecio morrisonensis_ Hayata 玉山黃菀 LC 特有
+	808. _Senecio nemorensis_ L. var. _dentatus_ (Kitam.) H. Koyama 黃菀  特有
+	809. _Senecio scandens_ Buch.-Ham. ex D. Don. var. _incisus_ Franch. 裂葉蔓黃菀  原生
+	810. _Senecio scandens_ Buch.-Ham. ex D. Don. var. _scandens_ Buch.-Ham. ex D. Don. 蔓黃菀  原生
+	811. _Senecio scandens_ Buch.-Ham. ex D.Don 蔓黃菀  原生
+	812. _Senecio vulgaris_ L. 歐洲黃菀  歸化
+	813. _Sigesbeckia orientalis_ L. 豨薟  歸化
+	814. _Solidago decurrens_ Lour. 一枝黃花  原生
+	815. _Solidago virgaurea_ L. var. _leiocarpa_ (Benth.) A. Gray 一枝黃花  原生
+	816. _Soliva sessilis_ Ruiz & Pavon 翅果假吐金菊  歸化
+	817. _Sonchus arvensis_ L. 苦苣菜 LC 歸化
+	818. _Sonchus asper_ (L.) Hill 鬼苦苣菜  歸化
+	819. _Sonchus oleraceus_ L. 苦滇菜  歸化
+	820. _Syneilesis hayatae_ Kitam. 臺灣破傘菊 CR 原生
+	821. _Syneilesis subglabrata_ (Yamam. & Sasaki) Kitam. 高山破傘菊 NT 原生
+	822. _Taraxacum formosanum_ Kitam. 臺灣蒲公英 EN 特有
+	823. _Taraxacum officinale_ F.H. Wigg. 西洋蒲公英  歸化
+	824. _Youngia japonica_ (L.) DC. subsp. _formosana_ (Hayata) Kitam. 臺灣黃鵪菜  特有
+	825. _Youngia japonica_ (L.) DC. subsp. _japonica_ (L.) DC. 黃鵪菜  原生
+87. Campanulaceae 桔梗科
+	826. _Adenophora morrisonensis_ Hayata 玉山沙參  原生
+	827. _Adenophora morrisonensis_ Hayata subsp. _morrisonensis_ Hayata 玉山沙參  特有
+	828. _Adenophora morrisonensis_ Hayata subsp. _uehatae_ (Yamam.) Lammers 高山沙參  特有
+	829. _Adenophora triphylla_ (Thunb.) A. DC. 輪葉沙參 LC 原生
+	830. _Codonopsis javanica_ (Blume) Miq. subsp. _japonica_ (Makino) Lammers 金錢豹  原生
+	831. _Codonopsis kawakamii_ Hayata 玉山山奶草 LC 特有
+	832. _Cyclocodon lancifolius_ (Roxb.) Kurz 臺灣土黨參 LC 原生
+	833. _Lobelia nummularia_ Lam. 普剌特草 LC 原生
+	834. _Lobelia seguinii_ H. Lev. & Vaniot 大本山梗菜 LC 原生
+	835. _Peracarpa carnosa_ (Wall.) Hook. f. & Thomson 山桔梗 LC 原生
+	836. _Wahlenbergia marginata_ (Thunb.) A. DC. 細葉蘭花參 LC 原生
+88. Schisandraceae 五味子科
+	837. _Illicium anisatum_ L. 白花八角 LC 原生
+	838. _Illicium arborescens_ Hayata 臺灣八角 LC 特有
+	839. _Kadsura japonica_ (L.) Dunal 南五味子 LC 原生
+	840. _Kadsura oblongifolia_ Merr. 冷飯藤 NT 原生
+	841. _Schisandra arisanensis_ Hayata 阿里山五味子 LC 特有
+89. Boraginaceae 紫草科
+	842. _Bothriospermum zeylanicum_ (J. Jacq.) Druce 細纍子草 LC 原生
+	843. _Cynoglossum alpestre_ Ohwi 高山倒提壺 NT 特有
+	844. _Cynoglossum furcatum_ Wall. 琉璃草 LC 原生
+	845. _Symphytum officinale_ L. 康復力  歸化
+	846. _Trigonotis formosana_ Hayata 臺灣附地草 LC 原生
+	847. _Trigonotis formosana_ Hayata var. _elevatovenosa_ (Hayata) S.D. Shen & J.C. Wang 臺北附地草  原生
+	848. _Trigonotis nankotaizanensis_ (Sasaki) Masam. & Ohwi 南湖附地草 NT 原生
+90. Ehretiaceae 厚殼樹科
+	849. _Ehretia longiflora_ Champ. ex Benth. 長葉厚殼樹 LC 原生
+91. Heliotropiaceae 天芹菜科
+	850. _Heliotropium formosanum_ I.M. Johnst. 山豆根 LC 特有
+92. Brassicaceae 十字花科
+	851. _Arabidopsis halleri_ (L.) O'Kane & Al-Shehbaz subsp. _gemmifera_ (Matsum.) O'Kane & Al-Shehba 葉芽筷子芥  原生
+	852. _Arabidopsis lyrata_ subsp. _kamchatica_ (Fisch. ex DC.) O'Kane & Al-Shehbaz 玉山筷子芥  原生
+	853. _Arabis formosana_ (Masam. ex S. F. Huang) Liu & Ying 臺灣筷子芥  特有
+	854. _Arabis serrata_ Franch. & Sav. 齒葉南芥 NT 原生
+	855. _Barbarea arisanense_ (Hayata) S. S. Ying 高山山芥  特有
+	856. _Barbarea taiwaniana_ Ohwi 臺灣山芥菜 EN 特有
+	857. _Brassica oleracea_ L. 甘藍  栽培
+	858. _Capsella bursa-pastoris_ (L.) Medik. 薺  原生
+	859. _Cardamine flexuosa_ With. 焊菜 LC 原生
+	860. _Cardamine hirsuta_ L. 臺灣碎米薺 LC 原生
+	861. _Cardamine impatiens_ L. 水花菜 LC 原生
+	862. _Cardamine nipponica_ Franch. & Sav. 日本焊菜 DD 原生
+	863. _Draba sekiyana_ Ohwi 臺灣山薺 EN 特有
+	864. _Eutrema japonicum_ (Miq.) Koidz. 山葵  歸化
+	865. _Lepidium virginicum_ L. 獨行菜  入侵
+	866. _Nasturtium officinale_ W.T. Aiton 水芥菜  歸化
+	867. _Rorippa cantoniensis_ (Lour.) Ohwi 廣東葶藶 LC 原生
+	868. _Rorippa indica_ (L.) Hiern 葶藶 LC 原生
+93. Capparaceae 山柑科
+	869. _Capparis acutifolia_ Sweet 銳葉山柑 VU 原生
+	870. _Capparis sikkimensis_ Kurz subsp. _formosana_ (Hemsl.) Jacobs 山柑  原生
+94. Amaranthaceae 莧科
+	871. _Achyranthes aspera_ L. var. _indica_ L. 印度牛膝  原生
+	872. _Achyranthes aspera_ var. _rubrofusca_ (Wight) Hook. f. 臺灣牛膝  原生
+	873. _Achyranthes bidentata_ Bl. var. _japonica_ Miq. 日本牛膝  原生
+	874. _Achyranthes bidentata_ Blume 牛膝 LC 原生
+	875. _Alternanthera philoxeroides_ (Mart.) Griseb. 空心蓮子草  歸化
+	876. _Amaranthus patulus_ Bertol. 青莧  歸化
+	877. _Amaranthus viridis_ L. 野莧菜  歸化
+	878. _Chenopodium glaucum_ L. 灰綠藜 LC 原生
+	879. _Chenopodium serotinum_ L. 小葉藜 LC 原生
+	880. _Dysphania ambrosioides_ (L.) Mosyakin & Clemants 臭杏  入侵
+95. Basellaceae 落葵科
+	881. _Anredera cordifolia_ (Ten.) Steenis 洋落葵  歸化
+96. Caryophyllaceae 石竹科
+	882. _Arenaria subpilosa_ (Hayata) Ohwi 亞毛無心菜 LC 原生
+	883. _Arenaria takasagomontana_ (Masam.) S.S. Ying 高山無心菜 LC 原生
+	884. _Cerastium fontanum_ Baumg subsp. _vulgare_ (Hartm.) Greuter & Burdet 卷耳  原生
+	885. _Cerastium fontanum_ Baumg. var. _angustifolium_ (Franch.) H. Hara 玉山卷耳  原生
+	886. _Cerastium formosanum_ (Ohwi) Ohwi 臺灣卷耳 DD 特有
+	887. _Cucubalus baccifer_ L. 狗筋蔓 LC 原生
+	888. _Dianthus longicalyx_ Miq. 長萼瞿麥 LC 原生
+	889. _Dianthus pygmaeus_ Hayata 玉山石竹 VU 特有
+	890. _Dianthus superbus_ L. var. _taiwanensis_ (Masam.) T.S. Liu & S.S. Ying 臺灣瞿麥  特有
+	891. _Drymaria diandra_ Blume 荷蓮豆草  原生
+	892. _Moehringia trinervia_ (L.) Clairv. 三脈種阜草 LC 原生
+	893. _Nubelaria arisanensis_ (Hayata) M.T.Sharples & E.A.Tripp 阿里山繁縷 LC 特有
+	894. _Sagina japonica_ (Sw.) Ohwi 瓜槌草 LC 原生
+	895. _Silene fissipetala_ var. _fissipetala_ Turcz. 蠅子草  原生
+	896. _Silene morrisonmontana_ (Hayata) Ohwi & Ohashi 玉山蠅子草 VU 特有
+	897. _Silene morrisonmontana_ (Hayata) Ohwi & Ohashi var. _glabella_ (Ohwi) Ohwi & Ohashi 禿玉山蠅子草  特有
+	898. _Silene ohwii_ T.C. Hsu, C.K. Liao & S.W. Chung 南湖大山蠅子草  特有
+	899. _Stellaria aquatica_ (L.) Scop. 鵝兒腸 LC 原生
+	900. _Stellaria media_ (L.) Vill. 繁縷 LC 原生
+	901. _Stellaria media_ (L.) Vill. var. _micrantha_ (Hayata) T.S. Liu & S.S. Ying 小花繁縷  原生
+	902. _Stellaria neglecta_ Weihe ex Bluff & Fingerh. 疏花繁縷 LC 原生
+97. Droseraceae 茅膏菜科
+	903. _Drosera peltata_ Thunb. 茅膏菜 DD 原生
+98. Phytolaccaceae 商陸科
+	904. _Phytolacca americana_ L. 美洲商陸  歸化
+	905. _Phytolacca japonica_ Makino 日本商陸 LC 原生
+99. Polygonaceae 蓼科
+	906. _Fallopia multiflora_ (Thunb.) Haraldson 臺灣何首烏 LC 特有
+	907. _Koenigia filicaulis_ (Wall. ex Meisn.) Hedberg 細莖冰島蓼 NT 原生
+	908. _Persicaria barbata_ var. _barbata_ (L.) H.Hara 毛蓼  原生
+	909. _Persicaria chinensis_ (L.) H. Gross 火炭母草 LC 原生
+	910. _Persicaria lapathifolia_ (L.) Delarbre var. _lanata_ (Roxb.) H. Hara 白苦柱  原生
+	911. _Persicaria longiseta_ (Bruijn) Kitag. 睫穗蓼 LC 原生
+	912. _Persicaria maackiana_ (Regel) Nakai 長戟葉蓼 CR 原生
+	913. _Persicaria maculosa_ Gray 春蓼 LC 原生
+	914. _Persicaria muricata_ (Meisn.) Nemoto 小花蓼 LC 原生
+	915. _Persicaria nepalensis_ (Meisn.) H.Gross 野蕎麥 LC 原生
+	916. _Persicaria orientalis_ (L.) Spach 紅蓼 LC 原生
+	917. _Persicaria pilushanensis_ (Y.C.Liu & C.H.Ou) C.F.Kuo ex T.C.Hsu & S.W.Chung 畢祿山蓼 LC 原生
+	918. _Persicaria posumbu_ (Buch.-Ham. ex D. Don) H. Gross 花蓼 LC 原生
+	919. _Persicaria runcinata_ (Buch.-Ham. ex D. Don) H. Gross 散血丹 LC 原生
+	920. _Persicaria senticosa_ (Meisn.) H. Gross ex Nakai 刺蓼 LC 原生
+	921. _Persicaria thunbergii_ (Siebold & Zucc.) H. Gross 戟葉蓼 LC 原生
+	922. _Reynoutria japonica_ Houtt. 虎杖 LC 原生
+	923. _Rumex acetosa_ L. 酸模 LC 原生
+	924. _Rumex japonica_ Houtt. 羊蹄  原生
+	925. _Rumex obtusifolius_ L. 大羊蹄  歸化
+100. Portulacaceae 馬齒莧科
+	926. _Portulaca oleracea_ L. 馬齒莧 LC 原生
+101. Celastraceae 衛矛科
+	927. _Celastrus hindsii_ Benth. 南華南蛇藤 LC 原生
+	928. _Celastrus kusanoi_ Hayata 大葉南蛇藤 LC 原生
+	929. _Celastrus punctatus_ Thunb. 光果南蛇藤 LC 原生
+	930. _Euonymus carnosus_ Hemsl. 厚葉衛矛 LC 原生
+	931. _Euonymus huangii_ H.Y. Liu & Y.P. Yang 黃氏衛矛 CR 特有
+	932. _Euonymus laxiflorus_ Champ. ex Benth. 大丁黃 LC 原生
+	933. _Euonymus oxyphyllus_ Miq. 垂絲衛矛 NT 原生
+	934. _Euonymus spraguei_ Hayata 刺果衛矛 LC 原生
+	935. _Euonymus tashiroi_ Maxim. 菱葉衛矛 DD 原生
+	936. _Microtropis fokienensis_ Dunn 福建賽衛矛 LC 原生
+	937. _Parnassia palustris_ L. 梅花草 LC 原生
+	938. _Tripterygium wilfordii_ Hook. f. 雷公藤 NT 原生
+102. Chloranthaceae 金粟蘭科
+	939. _Chloranthus oldhamii_ Solms 臺灣及己 LC 原生
+	940. _Sarcandra glabra_ (Thunb.) Nakai 草珊瑚 LC 原生
+103. Commelinaceae 鴨跖草科
+	941. _Amischotolype hispida_ (Less. & A. Rich.) D.Y. Hong 穿鞘花 LC 原生
+	942. _Commelina communis_ L. 鴨跖草 LC 原生
+	943. _Murdannia keisak_ (Hassk.) Hand.-Mazz. 水竹葉 LC 原生
+	944. _Pollia japonica_ Thunb. 杜若 LC 原生
+	945. _Pollia miranda_ (H. Lev.) H. Hara 小杜若 LC 原生
+104. Cornaceae 山茱萸科
+	946. _Alangium chinense_ (Lour.) Harms 華八角楓 LC 原生
+	947. _Swida controversa_ (Hemsl.) Sojak 燈台樹 NT 原生
+	948. _Swida macrophylla_ (Wall.) Sojak 梜木 LC 原生
+105. Hydrangeaceae 八仙花科
+	949. _Deutzia cordatula_ H.L. Li 心基葉溲疏 LC 特有
+	950. _Deutzia pulchra_ S. Vidal 大葉溲疏 LC 原生
+	951. _Deutzia taiwanensis_ (Maxim.) C.K. Schneid. 台灣溲疏 LC 原生
+	952. _Hydrangea angustipetala_ Hayata 狹瓣八仙花 LC 特有
+	953. _Hydrangea anomala_ D. Don 藤繡球 LC 原生
+	954. _Hydrangea aspera_ D. Don 高山藤繡球 LC 原生
+	955. _Hydrangea chinensis_ Maxim. 華八仙 LC 原生
+	956. _Hydrangea fauriei_ (Hayata) Y.De Smet & Granados 圓葉鑽地風 LC 原生
+	957. _Hydrangea integrifolia_ Hayata 大枝掛繡球 LC 原生
+	958. _Hydrangea paniculata_ Siebold 水亞木 LC 原生
+	959. _Hydrangea viburnoides_ (Hook.f. & Thomson) Y.De Smet & Granados 青棉花 LC 原生
+106. Stachyuraceae 旌節花科
+	960. _Stachyurus himalaicus_ Hook. f. & Thomson 通條樹 LC 原生
+107. Staphyleaceae 省沽油科
+	961. _Turpinia formosana_ Nakai 山香圓 LC 原生
+	962. _Turpinia ternata_ Nakai 三葉山香圓 LC 原生
+108. Begoniaceae 秋海棠科
+	963. _Begonia chitoensis_ T.S. Liu & M.J. Lai 溪頭秋海棠 LC 特有
+	964. _Begonia formosana_ (Hayata) Masam. 水鴨腳 LC 原生
+	965. _Begonia laciniata_ Roxb. 巒大秋海棠  原生
+	966. _Begonia longifolia_ Blume 圓果秋海棠 LC 原生
+	967. _Begonia palmata_ D. Don 裂葉秋海棠 LC 原生
+	968. _Begonia taiwaniana_ Hayata 臺灣秋海棠 LC 特有
+109. Coriariaceae 馬桑科
+	969. _Coriaria japonica_ A. Gray subsp. _intermedia_ (Matsum.) T.C. Huang 臺灣馬桑  原生
+110. Cucurbitaceae 葫蘆科
+	970. _Diplocyclos palmatus_ (L.) C. Jeffrey 雙輪瓜 LC 原生
+	971. _Gynostemma pentaphyllum_ (Thunb.) Makino 絞股藍 LC 原生
+	972. _Momordica charantia_ L. var. _abbreviata_ Ser. 短角苦瓜  歸化
+	973. _Thladiantha nudiflora_ Hemsl. 青牛膽 LC 原生
+	974. _Thladiantha punctata_ Hayata 斑花青牛膽 LC 原生
+	975. _Trichosanthes cucumeroides_ (Ser.) Maxim. 王瓜 LC 原生
+	976. _Trichosanthes homophylla_ Hayata 芋葉括樓 LC 特有
+	977. _Trichosanthes laceribractea_ Hayata 槭葉括樓 LC 原生
+	978. _Zehneria japonica_ (Thunb.) H.Y. Liu 馬<U+3F0E>兒 LC 原生
+	979. _Zehneria mucronata_ (Blume) Miq. 黑果馬<U+3F0E>兒 LC 原生
+111. Dioscoreaceae 薯蕷科
+	980. _Dioscorea bulbifera_ L. 山芋 LC 原生
+	981. _Dioscorea collettii_ Hook. f. 華南薯蕷 LC 原生
+	982. _Dioscorea matsudae_ Hayata 裏白葉薯榔 LC 原生
+112. Nartheciaceae 沼金花科
+	983. _Aletris formosana_ (Hayata) Makino & Nemoto 臺灣粉條兒菜 LC 原生
+	984. _Aletris spicata_ (Thunb.) Franch. 束心蘭 LC 原生
+113. Adoxaceae 五福花科
+	985. _Sambucus chinensis_ Lindl. 冇骨消 LC 原生
+	986. _Viburnum arboricolum_ Hayata 著生珊瑚樹 LC 原生
+	987. _Viburnum betulifolium_ Batalin 樺葉莢<U+84BE> LC 原生
+	988. _Viburnum erosum_ Thunb. 松田氏莢<U+84BE> LC 原生
+	989. _Viburnum foetidum_ Wall. var. _rectangulatum_ Rehder 狹葉莢<U+84BE>  原生
+	990. _Viburnum formosanum_ (Hance) Hayata 紅子莢<U+84BE> LC 原生
+	991. _Viburnum integrifolium_ Hayata 玉山糯米樹 LC 特有
+	992. _Viburnum luzonicum_ Rolfe 呂宋莢<U+84BE> LC 原生
+	993. _Viburnum luzonicum_ var. _morrisonense_ (Hayata) S.S. Ying 玉山莢<U+84BE>  原生
+	994. _Viburnum parvifolium_ Hayata 小葉莢<U+84BE> LC 特有
+	995. _Viburnum plicatum_ Thunb. var. _formosanum_ Y.C. Liu & C.H. Ou 臺灣蝴蝶戲珠花  特有
+	996. _Viburnum propinquum_ Hemsl. 高山莢<U+84BE> LC 原生
+	997. _Viburnum sympodiale_ Graebn. 假繡球 LC 原生
+	998. _Viburnum taitoense_ Hayata 臺東莢<U+84BE> LC 特有
+	999. _Viburnum urceolatum_ Siebold & Zucc. 壺花莢<U+84BE> LC 原生
+114. Caprifoliaceae 忍冬科
+	1000. _Lonicera acuminata_ Wall. 阿里山忍冬 LC 原生
+	1001. _Lonicera apodantha_ Ohwi 無梗忍冬 NT 特有
+	1002. _Lonicera hypoglauca_ Miq. 裡白忍冬 LC 原生
+	1003. _Lonicera japonica_ Thunb. 忍冬 LC 原生
+	1004. _Lonicera kawakamii_ (Hayata) Masam. 川上氏忍冬 VU 特有
+	1005. _Lonicera macrantha_ (D. Don) Spreng. 大花忍冬 VU 原生
+	1006. _Scabiosa lacerifolia_ Hayata 玉山山蘿蔔 LC 特有
+	1007. _Triplostegia glandulifera_ Wall. ex DC. 三萼花草 LC 原生
+	1008. _Valeriana fauriei_ Briq. 纈草 LC 原生
+	1009. _Valeriana flaccidissima_ Maxim. 嫩莖纈草 LC 原生
+115. Actinidiaceae 獼猴桃科
+	1010. _Actinidia arguta_ (Siebold & Zucc.) Planch. ex Miq. 軟棗獼猴桃 VU 原生
+	1011. _Actinidia callosa_ Lindl. var. _discolor_ C.F. Liang 異色獼猴桃  原生
+	1012. _Actinidia latifolia_ (Gardner & Champ.) Merr. 闊葉獼猴桃 NT 原生
+	1013. _Actinidia rufa_ (Siebold & Zucc.) Planch. ex Miq. 腺齒獼猴桃 LC 原生
+	1014. _Actinidia setosa_ (H.L. Li) C.F. Liang & A.R. Ferguson 台灣羊桃 LC 特有
+116. Balsaminaceae 鳳仙花科
+	1015. _Impatiens devolii_ T.C. Huang 棣慕華鳳仙花 VU 特有
+	1016. _Impatiens tayemonii_ Hayata 黃花鳳仙花 VU 特有
+	1017. _Impatiens uniflora_ Hayata 紫花鳳仙花 LC 特有
+	1018. _Impatiens walleriana_ Hook. f. 非洲鳳仙花  入侵
+117. Diapensiaceae 岩梅科
+	1019. _Shortia rotundifolia_ (Maxim.) Makino var. _ritoensis_ (Hayata) T.C. Huang & A. Hsiao 李棟山裂緣花  特有
+	1020. _Shortia rotundifolia_ (Maxim.) Makino var. _rotundifolia_ (Maxim.) Makino 倒卵葉裂緣花  原生
+	1021. _Shortia rotundifolia_ (Maxim.) Makino var. _subcordata_ (Hayata) T.C. Huang & A. Hsiao 圓葉裂緣花  特有
+	1022. _Shortia rotundifolia_ Makino 倒卵葉裂緣花  原生
+118. Ebenaceae 柿樹科
+	1023. _Diospyros eriantha_ Champ. ex Benth. 軟毛柿 LC 原生
+	1024. _Diospyros japonica_ Siebold & Zucc. 山柿 LC 原生
+	1025. _Diospyros morrisiana_ Hance 山紅柿 LC 原生
+	1026. _Diospyros oldhamii_ Maxim. 俄氏柿 LC 原生
+119. Ericaceae 杜鵑花科
+	1027. _Chimaphila japonica_ Miq. 日本愛冬葉 LC 原生
+	1028. _Gaultheria cumingiana_ Vidal 白珠樹 LC 原生
+	1029. _Gaultheria itoana_ Hayata 高山白珠樹 LC 原生
+	1030. _Lyonia ovalifolia_ (Wall.) Drude 南燭  原生
+	1031. _Lyonia ovalifolia_ (Wall.) Drude var. _lanceolata_ (Wall.) Hand.-Mazz. 銳葉南燭  原生
+	1032. _Lyonia ovalifolia_ (Wall.) Drude var. _ovalifolia_ (Wall.) Drude 南燭  原生
+	1033. _Moneses uniflora_ (L.) A. Gray 單花鹿蹄草 LC 原生
+	1034. _Monotropa hypopitys_ L. 錫杖花 VU 原生
+	1035. _Monotropa uniflora_ L. 單花錫杖花 DD 原生
+	1036. _Monotropastrum humile_ (D. Don) H. Hara 水晶蘭 LC 原生
+	1037. _Monotropastrum macrocarpum_ Andres 阿里山水晶蘭 LC 原生
+	1038. _Pieris taiwanensis_ Hayata 臺灣馬醉木 LC 原生
+	1039. _Pyrola alboreticulata_ Hayata 斑紋鹿蹄草 LC 原生
+	1040. _Pyrola morrisonensis_ (Hayata) Hayata 玉山鹿蹄草 LC 原生
+	1041. _Rhododendron breviperulatum_ Hayata 南澳杜鵑 LC 原生
+	1042. _Rhododendron formosanum_ Hemsl. 臺灣杜鵑 LC 特有
+	1043. _Rhododendron hyperythrum_ Hayata 南湖杜鵑 LC 原生
+	1044. _Rhododendron kawakamii_ Hayata 著生杜鵑 NT 特有
+	1045. _Rhododendron latoucheae_ Franch. 西施花 LC 原生
+	1046. _Rhododendron mariesii_ Hemsl. & E.H. Wilson 守城滿山紅 LC 原生
+	1047. _Rhododendron noriakianum_ Suzuki 細葉杜鵑 DD 原生
+	1048. _Rhododendron oldhamii_ Maxim. 金毛杜鵑 LC 原生
+	1049. _Rhododendron ovatum_ Maxim. 馬銀花  原生
+	1050. _Rhododendron ovatum_ Planch. var. _lamprophyllum_ (Hayata) Y.C. Liu 長卵葉馬銀花  特有
+	1051. _Rhododendron ovatum_ Planch. var. _ovatum_ Planch. 馬銀花  原生
+	1052. _Rhododendron pseudochrysanthum_ Hayata 玉山杜鵑 LC 原生
+	1053. _Rhododendron rubropilosum_ Hayata 紅毛杜鵑  原生
+	1054. _Rhododendron rubropilosum_ Hayata var. _rubropilosum_ Hayata 紅毛杜鵑  特有
+	1055. _Rhododendron rubropilosum_ Hayata var. _taiwanalpinum_ (Ohwi) S.Y. Lu, Y.P. Yang & Y.H. Tseng 臺灣高山杜鵑  特有
+	1056. _Vaccinium bracteatum_ Thunb. 米飯花 LC 原生
+	1057. _Vaccinium dunalianum_ Wight var. _caudatifolium_ (Hayata) H.L. Li 珍珠花  原生
+	1058. _Vaccinium emarginatum_ Hayata 凹葉越橘 LC 特有
+	1059. _Vaccinium japonicum_ Miq. var. _lasiostemon_ Hayata 毛蕊花  原生
+	1060. _Vaccinium kengii_ C.E. Chang 鞍馬山越橘 NT 特有
+	1061. _Vaccinium merrillianum_ Hayata 高山越橘 LC 特有
+	1062. _Vaccinium randaiense_ Hayata 巒大越橘 LC 特有
+	1063. _Vaccinium wrightii_ A.Gray 大葉越橘  原生
+	1064. _Vaccinium wrightii_ Gray var. _formosanum_ (Hayata) H.L. Li 臺灣大葉越橘  原生
+	1065. _Vaccinium wrightii_ Gray var. _wrightii_ Gray 大葉越橘  原生
+120. Pentaphylacaceae 五列木科
+	1066. _Adinandra formosana_ Hayata var. _formosana_ Hayata 臺灣楊桐  原生
+	1067. _Adinandra formosana_ Hayata var. _obtusissima_ (Hayata ex Yamam.) H. Keng 鈍葉楊桐  特有
+	1068. _Adinandra formosana_ Hayata 臺灣楊桐  原生
+	1069. _Adinandra lasiostyla_ Hayata 毛柱楊桐 LC 特有
+	1070. _Cleyera japonica_ Thunb. var. _japonica_ Thunb. 紅淡比  原生
+	1071. _Cleyera japonica_ Thunb. var. _longicarpa_ P.P. Ling & Hsien 長果紅淡比  特有
+	1072. _Cleyera japonica_ Thunb. var. _morii_ (Yamam.) Masam. 森氏紅淡比  特有
+	1073. _Cleyera japonica_ Thunb. var. _taipinensis_ H. Keng 太平紅淡比  特有
+	1074. _Cleyera japonica_ Thunb. 紅淡比  原生
+	1075. _Eurya acuminata_ DC. 銳葉柃木  原生
+	1076. _Eurya chinensis_ R. Br. 米碎柃木 LC 原生
+	1077. _Eurya crenatifolia_ (Yamam.) Kobuski 假柃木 LC 特有
+	1078. _Eurya glaberrima_ Hayata 厚葉柃木 LC 原生
+	1079. _Eurya gnaphalocarpa_ Hayata 毛果柃木 LC 原生
+	1080. _Eurya hayatae_ Yamam. 早田氏柃木 LC 特有
+	1081. _Eurya leptophylla_ Hayata 薄葉柃木 LC 特有
+	1082. _Eurya loquaiana_ Dunn 細枝柃木 LC 原生
+	1083. _Eurya nitida_ Korthals var. _nitida_ Korthals 光葉柃木  原生
+	1084. _Eurya nitida_ Korthals 光葉柃木  原生
+	1085. _Eurya septata_ C.C. Wu, Z.F.Hsu & C.H. Tsou 臺灣格柃 LC 特有
+	1086. _Eurya strigillosa_ Hayata 粗毛柃木 LC 特有
+	1087. _Ternstroemia gymnanthera_ (Wight & Arn.) Bedd. 厚皮香 LC 原生
+121. Primulaceae 報春花科
+	1088. _Ardisia brevicaulis_ Diels 屯鹿紫金牛 LC 原生
+	1089. _Ardisia cornudentata_ Mez 雨傘仔  原生
+	1090. _Ardisia cornudentata_ Mez subsp. _morrisonensis_ (Hayata) Y.P. Yang 玉山紫金牛  特有
+	1091. _Ardisia cornudentata_ subsp. _cornudentata_ Mez 雨傘仔  特有
+	1092. _Ardisia crenata_ Sims 硃砂根 LC 原生
+	1093. _Ardisia crispa_ (Thunb.) A. DC. 百兩金 LC 原生
+	1094. _Ardisia japonica_ (Thunb.) Blume 紫金牛 LC 原生
+	1095. _Ardisia maclurei_ Merr. 麥氏紫金牛 VU 原生
+	1096. _Ardisia pusilla_ A. DC. 輪葉紫金牛 LC 原生
+	1097. _Ardisia sieboldii_ Miq. 樹杞 LC 原生
+	1098. _Ardisia stenosepala_ 阿里山紫金牛  特有
+	1099. _Ardisia violacea_ (T. Suzuki) W.Z. Fang & K. Yao 裡菫紫金牛 NT 原生
+	1100. _Ardisia virens_ Kurz 黑星紫金牛 LC 原生
+	1101. _Embelia laeta_ (L.) Mez 正藤木槲  歸化
+	1102. _Embelia laeta_ (L.) Mez var. _papilligera_ (Nakai) E. Walker 藤毛木槲  原生
+	1103. _Embelia lenticellata_ Hayata 賽山椒 LC 特有
+	1104. _Embelia rudis_ Hand.-Mazz. 野山椒 LC 原生
+	1105. _Lysimachia ardisioides_ Masam. 臺灣排香 LC 原生
+	1106. _Lysimachia capillipes_ Hemsl. 排香草 LC 原生
+	1107. _Lysimachia decurrens_ G. Forst. 異葉珍珠菜 LC 原生
+	1108. _Lysimachia japonica_ Thunb. 小茄 LC 原生
+	1109. _Maesa japonica_ (Thunb.) Moritzi & Zoll. 山桂花 LC 原生
+	1110. _Maesa perlaria_ (Lour.) Merr. 鯽魚膽 DD 原生
+	1111. _Maesa perlaria_ (Lour.) Merr. var. _formosana_ (Mez) Y.P. Yang 臺灣山桂花  原生
+	1112. _Myrsine africana_ L. 小葉鐵仔 LC 原生
+	1113. _Myrsine seguinii_ H. Lev. 大明橘 LC 原生
+	1114. _Myrsine stolonifera_ (Koidz.) E. Walker 蔓竹杞 LC 原生
+	1115. _Primula miyabeana_ T. Ito & Kawak. 玉山櫻草 LC 特有
+122. Styracaceae 安息香科
+	1116. _Alniphyllum pterospermum_ Matsum. 假赤楊 LC 原生
+	1117. _Styrax formosanus_ Matsum. 烏皮九芎  原生
+	1118. _Styrax formosanus_ var. _formosanus_ Matsum. 烏皮九芎  原生
+	1119. _Styrax formosanus_ var. _hayataianus_ (Perkins) H.L. Li 恆春野茉莉  特有
+	1120. _Styrax suberifolius_ Hook. & Arn. 紅皮 LC 原生
+123. Symplocaceae 灰木科
+	1121. _Symplocos acuminata_ Miq. 大里力灰木 LC 原生
+	1122. _Symplocos arisanensis_ Hayata 阿里山灰木 LC 原生
+	1123. _Symplocos caudata_ Wall. ex G. Don 尾葉灰木 LC 原生
+	1124. _Symplocos chinensis_ (Lour.) Druce 灰木 LC 原生
+	1125. _Symplocos congesta_ Benth. 楊桐葉灰木 LC 原生
+	1126. _Symplocos eriostroma_ Hayata 薄葉灰木 LC 特有
+	1127. _Symplocos formosana_ Brand 臺灣灰木 LC 原生
+	1128. _Symplocos glauca_ (Thunb.) Koidz. 山羊耳 LC 原生
+	1129. _Symplocos grandis_ Hand.-Mazz. 大葉灰木 VU 原生
+	1130. _Symplocos heishanensis_ Hayata 平遮那灰木 LC 原生
+	1131. _Symplocos juiyenensis_ C. C. Wang & C. H. Ou 瑞岩灰木 DD 原生
+	1132. _Symplocos konishii_ Hayata 小西氏灰木 LC 原生
+	1133. _Symplocos lucida_ (Thunb.) Siebold & Zucc. 日本灰木  原生
+	1134. _Symplocos migoi_ Nagarn. 擬日本灰木 LC 特有
+	1135. _Symplocos modesta_ Brand 小葉白筆 LC 特有
+	1136. _Symplocos morrisonicola_ Hayata 玉山灰木 LC 特有
+	1137. _Symplocos setchuensis_ Brand 四川灰木 LC 原生
+	1138. _Symplocos sonoharae_ Koidz. 南嶺灰木 LC 原生
+	1139. _Symplocos stellaris_ Brand 枇杷葉灰木 LC 原生
+	1140. _Symplocos theophrastifolia_ Siebold & Zucc. 山豬肝 LC 原生
+	1141. _Symplocos wikstroemiifolia_ Hayata 月桂葉灰木 LC 原生
+124. Theaceae 茶科
+	1142. _Camellia brevistyla_ (Hayata) Cohen-Stuart 短柱山茶 LC 原生
+	1143. _Camellia formosensis_ (Masam. & Suzuki) M.H. Su, C.F. Hsieh & C.H. Tsou 台灣山茶 NT 特有
+	1144. _Camellia nokoensis_ Hayata 能高山茶 VU 特有
+	1145. _Camellia salicifolia_ Champ. ex Benth. 柳葉山茶 NT 原生
+	1146. _Camellia transarisanensis_ (Hayata) Cohen-Stuart 阿里山茶 LC 原生
+	1147. _Camellia transnokoensis_ Hayata 泛能高山茶 LC 特有
+	1148. _Polyspora axillaris_ (Roxb. ex Ker Gawl.) Sweet 大頭茶 LC 原生
+	1149. _Schima superba_ Gard. & Champ. 木荷  原生
+	1150. _Schima superba_ var. _superba_ Gardner & Champ. 木荷  原生
+	1151. _Thea shinkoensis_ 烏皮茶 LC 特有
+125. Fabaceae 豆科
+	1152. _Abrus precatorius_ L. 雞母珠 LC 原生
+	1153. _Acacia confusa_ Merr. 相思樹 LC 原生
+	1154. _Albizia julibrissin_ Durazz. 合歡 LC 原生
+	1155. _Apios taiwaniana_ Hosok. 臺灣土圞兒 EN 特有
+	1156. _Archidendron lucidum_ (Benth.) I.C. Nielsen 頷垂豆 LC 原生
+	1157. _Astragalus nankotaizanensis_ Sasaki 南湖大山紫雲英 EN 特有
+	1158. _Astragalus nokoensis_ Sasaki 能高大山紫雲英 VU 特有
+	1159. _Derris elliptica_ (Roxb.) Benth. 魚藤  歸化
+	1160. _Desmodium microphyllum_ (Thunb.) DC. 小葉山螞蝗 LC 原生
+	1161. _Desmodium multiflorum_ DC. 多花山螞蝗 LC 原生
+	1162. _Desmodium sequax_ Wall. 波葉山螞蝗 LC 原生
+	1163. _Desmodium uncinatum_ (Jacq.) DC. 銀葉藤  歸化
+	1164. _Dumasia miaoliensis_ Y.C. Liu & F.Y. Lu 苗栗野豇豆 VU 特有
+	1165. _Dumasia villosa_ DC. subsp. _bicolor_ (Hayata) H. Ohashi & Tateishi 臺灣山黑扁豆  特有
+	1166. _Euchresta horsfieldii_ var. _formosana_ Hayata 臺灣山豆根 LC 原生
+	1167. _Hylodesmum laterale_ (Schindl.) H. Ohashi & R.R. Mill 琉球山螞蝗 LC 原生
+	1168. _Hylodesmum podocarpum_ (DC.) H. Ohashi & R. R. Mill subsp. _oxyphyllum_ (DC.) H. Ohashi & R.R. Mill 小山螞蝗  原生
+	1169. _Hylodesmum podocarpum_ (DC.) H. Ohashi & R. R. Mill 圓菱葉山螞蝗 VU 原生
+	1170. _Indigofera hendecaphylla_ Jacq. 穗花木藍  原生
+	1171. _Lespedeza bicolor_ Turcz. 山胡枝子  原生
+	1172. _Lespedeza cuneata_ (Dum. Cours.) G. Don 鐵掃帚 LC 原生
+	1173. _Lespedeza thunbergii_ (DC.) Nakai subsp. _formosa_ (Vogel) H. Ohashi 毛胡枝子  原生
+	1174. _Leucaena leucocephala_ (Lam.) de Wit 銀合歡  入侵
+	1175. _Medicago lupulina_ L. 天藍苜蓿  歸化
+	1176. _Mucuna macrocarpa_ Wall. 血藤 LC 原生
+	1177. _Ohwia caudata_ (Thunb.) H. Ohashi 小槐花 DD 原生
+	1178. _Phanera championii_ Benth. 菊花木 LC 原生
+	1179. _Pueraria montana_ (Lour.) Merr. 山葛 LC 原生
+	1180. _Pueraria montana_ (Lour.) Merr. var. _lobata_ (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep 葛藤  原生
+	1181. _Pueraria montana_ var. _montana_ (Lour.) Merr. 山葛  原生
+	1182. _Trifolium dubium_ Sibth. 黃菽草  歸化
+	1183. _Trifolium pratense_ L. 紅菽草  歸化
+	1184. _Trifolium repens_ L. 菽草  歸化
+	1185. _Vicia hirsuta_ (L.) Gray 小巢豆  歸化
+126. Polygalaceae 遠志科
+	1186. _Polygala japonica_ Houtt. 瓜子金 LC 原生
+127. Betulaceae 樺木科
+	1187. _Alnus formosana_ (Burkill) Makino 臺灣赤楊 LC 原生
+	1188. _Carpinus kawakamii_ Hayata 阿里山千金榆 LC 特有
+	1189. _Carpinus rankanensis_ Hayata 蘭邯千金榆 LC 特有
+128. Fagaceae 殼斗科
+	1190. _Castanopsis cuspidata_ fo. _sessilis_ (Nakai) J. C. Liao 單刺苦櫧  特有
+	1191. _Castanopsis cuspidata_ var. _carlesii_ (Hemsl.) T. Yamaz. 長尾尖葉櫧  原生
+	1192. _Castanopsis fargesii_ Franch. 火燒栲 LC 原生
+	1193. _Castanopsis kawakamii_ Hayata 大葉苦櫧 NT 原生
+	1194. _Lithocarpus amygdalifolius_ (Skan) Hayata 杏葉石櫟 LC 原生
+	1195. _Lithocarpus brevicaudatus_ (Skan) Hayata 短尾葉石櫟  原生
+	1196. _Lithocarpus hancei_ (Benth.) Rehder 阿里山三斗石櫟 LC 原生
+	1197. _Lithocarpus kawakamii_ (Hayata) Hayata 大葉石櫟 LC 特有
+	1198. _Lithocarpus lepidocarpus_ (Hayata) Hayata 鬼櫟 LC 特有
+	1199. _Quercus gilva_ Blume 赤皮 LC 原生
+	1200. _Quercus glauca_ Thunb. 青剛櫟  原生
+	1201. _Quercus glauca_ var. _glauca_ Thunb. 青剛櫟  原生
+	1202. _Quercus globosa_ (T.P. Lin & T.S. Liu) J.C. Liao 圓果青剛櫟 LC 原生
+	1203. _Quercus longinux_ Hayata 錐果櫟  原生
+	1204. _Quercus longinux_ var. _longinux_ Hayata 錐果櫟  原生
+	1205. _Quercus morii_ Hayata 森氏櫟 LC 特有
+	1206. _Quercus pachyloma_ Seemen 捲斗櫟 LC 原生
+	1207. _Quercus repandifolia_ J.C. Liao 波緣葉櫟 VU 原生
+	1208. _Quercus salicina_ Blume 狹葉櫟 LC 原生
+	1209. _Quercus sessilifolia_ Blume 毽子櫟 LC 原生
+	1210. _Quercus spinosa_ David ex Franch. 高山櫟 LC 原生
+	1211. _Quercus tatakaensis_ Tomiya 塔塔加櫟 LC 原生
+	1212. _Quercus variabilis_ Blume 栓皮櫟 LC 原生
+129. Juglandaceae 胡桃科
+	1213. _Engelhardia roxburghiana_ Wall. 黃杞 LC 原生
+	1214. _Juglans cathayensis_ Dode 野核桃 LC 原生
+	1215. _Platycarya strobilacea_ Siebold & Zucc. 化香樹 LC 原生
+130. Myricaceae 楊梅科
+	1216. _Myrica rubra_ (Lour.) Siebold & Zucc. 楊梅 LC 原生
+131. Garryaceae 絲纓花科
+	1217. _Aucuba chinensis_ Benth. 桃葉珊瑚 LC 原生
+	1218. _Aucuba japonica_ Thunb. 東瀛珊瑚 LC 原生
+132. Apocynaceae 夾竹桃科
+	1219. _Anodendron benthamianum_ Hemsl. 大錦蘭 LC 原生
+	1220. _Catharanthus roseus_ (L.) G. Don 長春花  歸化
+	1221. _Cynanchum boudieri_ H. Lev. & Vaniot 薄葉牛皮消 LC 原生
+	1222. _Cynanchum formosanum_ (Maxim.) Hemsl. 臺灣牛皮消 LC 原生
+	1223. _Dischidia formosana_ Maxim. 風不動 LC 特有
+	1224. _Hoya carnosa_ (L. f.) R. Br. 毬蘭 LC 原生
+	1225. _Marsdenia formosana_ Masam. 臺灣牛彌菜 LC 原生
+	1226. _Marsdenia tinctoria_ R. Br. 絨毛芙蓉蘭 LC 原生
+	1227. _Trachelospermum asiaticum_ (Siebold & Zucc.) Nakai 細梗絡石 LC 原生
+	1228. _Trachelospermum formosanum_ Y.C. Liu & C.H. Ou 臺灣絡石 LC 特有
+	1229. _Trachelospermum jasminoides_ (Lindl.) Lem. 絡石 LC 原生
+	1230. _Urceola micrantha_ (Wall. ex G. Don) D.J. Middleton 乳藤 LC 原生
+	1231. _Urceola rosea_ (Hook. & Arn.) D.J. Middleton 酸藤 LC 原生
+	1232. _Vincetoxicum hirsutum_ 鷗蔓 LC 原生
+133. Gentianaceae 龍膽科
+	1233. _Gentiana arisanensis_ Hayata 阿里山龍膽 LC 原生
+	1234. _Gentiana davidii_ Franch. var. _formosana_ (Hayata) T.N. Ho 臺灣龍膽  原生
+	1235. _Gentiana flavomaculata_ Hayata 黃斑龍膽  原生
+	1236. _Gentiana flavomaculata_ Hayata var. _yuanyanghuensis_ C.H. Chen & J.C. Wang 鴛鴦湖龍膽  特有
+	1237. _Gentiana flavomaculata_ var. _flavomaculata_ Hayata 黃斑龍膽  原生
+	1238. _Gentiana horaimontana_ Masam. 高山龍膽 EN 特有
+	1239. _Gentiana itzershanensis_ Liu & Kuo 伊澤山龍膽 NT 特有
+	1240. _Gentiana scabrida_ Hayata var. _punctulata_ S.S. Ying 黑斑龍膽  特有
+	1241. _Gentiana scabrida_ Hayata var. _scabrida_ Hayata 玉山龍膽  原生
+	1242. _Gentiana_ sp. 龍膽屬 
+	1243. _Lomatogonium chilaiensis_ C.H. Chen & J.C. Wang 奇萊肋柱花 CR 特有
+	1244. _Swertia macrosperma_ (C.B. Clarke) C.B. Clarke 大籽當藥 LC 原生
+	1245. _Swertia shintenensis_ Hayata 新店當藥 NT 特有
+	1246. _Swertia tozanensis_ Hayata 高山當藥 VU 原生
+	1247. _Tripterospermum cordifolium_ (Yamam.) Satake 高山肺形草 VU 特有
+	1248. _Tripterospermum lanceolatum_ (Hayata) H. Hara ex Satake 玉山肺形草 LC 原生
+	1249. _Tripterospermum luzonense_ (Vidal) J. Murata 高山雙蝴蝶 LC 原生
+	1250. _Tripterospermum microphyllum_ Harry Sm. 小葉雙蝴蝶 NT 原生
+	1251. _Tripterospermum taiwanense_ (Masam.) Satake 臺灣肺形草 LC 原生
+134. Loganiaceae 馬錢科
+	1252. _Gardneria multiflora_ Makino 多花蓬萊葛 LC 原生
+	1253. _Gardneria nutans_ Siebold & Zucc. 垂花蓬萊葛 EN 原生
+135. Rubiaceae 茜草科
+	1254. _Coptosapelta diffusa_ (Champ. ex Benth.) Steenis 瓢簞藤 LC 原生
+	1255. _Damnacanthus angustifolius_ Hayata 無刺伏牛花 LC 原生
+	1256. _Damnacanthus indicus_ C.F. Gaertn. 伏牛花 LC 原生
+	1257. _Diplospora dubia_ (Lindl.) Masam. 狗骨仔 LC 原生
+	1258. _Galium echinocarpum_ Hayata 刺果豬殃殃 LC 特有
+	1259. _Galium formosense_ Ohwi 圓葉豬殃殃 LC 原生
+	1260. _Galium gracilens_ (A. Gray) Makino 琉球豬殃殃 LC 原生
+	1261. _Galium morii_ Hayata 森氏豬殃殃 VU 原生
+	1262. _Galium nankotaizanum_ Ohwi 南湖大山豬殃殃 EN 原生
+	1263. _Galium spurium_ L. 豬殃殃 LC 原生
+	1264. _Galium spurium_ L. f. vaillantii (DC.) R. J. Moore fo. _vaillantii_ (DC.) R.J. Moore 豬殃殃  原生
+	1265. _Galium spurium_ Walt. var. _echinospermum_ (Waltr.) N. H. F. Desp. 豬殃殃  原生
+	1266. _Gardenia jasminoides_ J. Ellis 山黃梔 LC 原生
+	1267. _Gynochthodes umbellata_ (L.) Razafim. & B.Bremer 羊角藤 LC 原生
+	1268. _Lasianthus curtisii_ King & Gamble 柯氏雞屎樹 LC 原生
+	1269. _Lasianthus fordii_ Hance 琉球雞屎樹 LC 原生
+	1270. _Lasianthus henryi_ Hutch. 密毛雞屎樹 LC 原生
+	1271. _Lasianthus japonicus_ Miq. 日本雞屎樹  原生
+	1272. _Lasianthus japonicus_ Miq. var. _japonicus_ Miq. 日本雞屎樹  原生
+	1273. _Lasianthus microstachys_ Hayata 薄葉雞屎樹 LC 原生
+	1274. _Lasianthus obliquinervis_ Merr. var. _obliquinervis_ Merr. 雞屎樹  原生
+	1275. _Lasianthus wallichii_ (Wight & Arn.) Wight 圓葉雞屎樹 LC 原生
+	1276. _Mussaenda parviflora_ Miq. 玉葉金花 LC 原生
+	1277. _Mussaenda pubescens_ W.T. Aiton 毛玉葉金花 VU 原生
+	1278. _Nertera granadensis_ (Mutis ex L. f.) Druce 紅果深柱夢草 LC 原生
+	1279. _Nertera nigricarpa_ Hayata 黑果深柱夢草 LC 原生
+	1280. _Ophiorrhiza hayatana_ Ohwi 早田氏蛇根草 LC 原生
+	1281. _Ophiorrhiza japonica_ Blume 蛇根草 LC 原生
+	1282. _Ophiorrhiza pumila_ Champ. ex Benth. 白花蛇根草 LC 原生
+	1283. _Paederia cavaleriei_ H. Lev. 毛雞屎藤 LC 原生
+	1284. _Paederia foetida_ L. 雞屎藤 LC 原生
+	1285. _Psychotria rubra_ (Lour.) Poir. 九節木 LC 原生
+	1286. _Psychotria serpens_ L. 拎壁龍 LC 原生
+	1287. _Randia cochinchinensis_ (Lour.) Merr. 茜草樹 LC 原生
+	1288. _Rubia akane_ Nakai var. _akane_ Nakai 紅藤仔草  原生
+	1289. _Rubia lanceolata_ Hayata 金劍草 LC 原生
+	1290. _Rubia linii_ C.Y. Chao 林氏茜草 LC 特有
+	1291. _Sinoadina racemosa_ (Siebold & Zucc.) Ridsdale 水冬瓜 NT 原生
+	1292. _Uncaria rhynchophylla_ (Miq.) Miq. ex Havil. 嘴葉鉤藤 VU 原生
+	1293. _Wendlandia formosana_ Cowan 水金京 LC 原生
+136. Geraniaceae 牻牛兒苗科
+	1294. _Erodium moschatum_ (L.) L'Her. 麝香牻牛兒苗  歸化
+	1295. _Geranium carolinianum_ L. 野老鸛草  歸化
+	1296. _Geranium hayatanum_ Ohwi 單花牻牛兒苗 LC 原生
+	1297. _Geranium nepalense_ Sweet subsp. _thunbergii_ (Sieb. & Zucc.) Hara 牻牛兒苗  原生
+	1298. _Geranium robertianum_ L. 漢紅魚腥草 LC 原生
+	1299. _Geranium wilfordii_ Maxim. 老鸛草 NT 原生
+137. Dipentodontaceae 十齒花科
+	1300. _Perrottetia arisanensis_ Hayata 佩羅特木 LC 特有
+138. Acanthaceae 爵床科
+	1301. _Codonacanthus pauciflorus_ (Nees) Nees 針刺草 LC 原生
+	1302. _Dicliptera chinensis_ (L.) Juss. 華九頭獅子草 LC 原生
+	1303. _Justicia procumbens_ L. 爵床  原生
+	1304. _Justicia procumbens_ L. var. _hayatae_ (Yamam.) Ohwi 早田氏爵床  特有
+	1305. _Justicia procumbens_ L. var. _procumbens_ L. 爵床  原生
+	1306. _Peristrophe japonica_ (Thunb.) Bremek. 九頭獅子草 LC 原生
+	1307. _Ruellia repens_ L. 蘆利草 LC 原生
+	1308. _Strobilanthes cusia_ (Nees) Kuntze 馬藍 LC 原生
+	1309. _Strobilanthes flexicaulis_ Hayata 曲莖馬藍 LC 原生
+	1310. _Strobilanthes formosanus_ S. Moore 臺灣馬藍 LC 特有
+	1311. _Strobilanthes penstemonoides_ (Nees) T. Anderson 腺萼馬藍 LC 原生
+	1312. _Strobilanthes rankanensis_ Hayata 蘭崁馬藍 LC 特有
+139. Gesneriaceae 苦苣苔科
+	1313. _Aeschynanthus acuminatus_ Wall. ex A. DC. 芒毛苣苔 LC 原生
+	1314. _Conandron ramondioides_ Siebold & Zucc. 苦苣苔 NT 原生
+	1315. _Hemiboea bicornuta_ (Hayata) Ohwi 臺灣半蒴苣苔 LC 原生
+	1316. _Lysionotus pauciflorus_ Maxim. 吊石苣苔  原生
+	1317. _Lysionotus pauciflorus_ Maxim. var. _ikedae_ (Hatus.) W.T. Wang 蘭嶼吊石苣苔  原生
+	1318. _Lysionotus pauciflorus_ Maxim. var. _pauciflorus_ Maxim. 吊石苣苔  原生
+	1319. _Rhynchotechum discolor_ (Maxim.) B.L. Burtt 異色線柱苣苔 LC 原生
+	1320. _Rhynchotechum discolor_ (Maxim.) Burtt var. _incisum_ (Ohwi) Hatus. & J.C. Wang in J.C. Wang & C.C. Wang 羽裂線柱苣苔  原生
+140. Lamiaceae 唇形科
+	1321. _Ajuga taiwanensis_ Nakai ex Murata 臺灣筋骨草 LC 原生
+	1322. _Anisomeles indica_ (L.) Kuntze 金劍草 LC 原生
+	1323. _Callicarpa formosana_ Rolfe 杜虹花  原生
+	1324. _Callicarpa formosana_ Rolfe var. _formosana_ Rolfe 杜虹花  原生
+	1325. _Callicarpa formosana_ Rolfe var. _glabrata_ T.T. Chen, Chaw & Y.P. Yang 六龜粗糠樹  特有
+	1326. _Callicarpa longissima_ (Hemsl.) Merr. 長葉紫珠 NT 原生
+	1327. _Callicarpa pilosissima_ Maxim. 細葉紫珠 LC 原生
+	1328. _Callicarpa randaiensis_ Hayata 巒大紫珠 LC 特有
+	1329. _Caryopteris incana_ (Thunb. ex Houtt.) Miq. 灰葉蕕 LC 原生
+	1330. _Clerodendrum canescens_ Wall. ex Walp. 白毛臭牡丹 LC 原生
+	1331. _Clerodendrum cyrtophyllum_ Turcz. 大青 LC 原生
+	1332. _Clerodendrum trichotomum_ Thunb. 海州常山 LC 原生
+	1333. _Clinopodium chinense_ (Benth.) Kuntze 風輪菜 LC 原生
+	1334. _Clinopodium gracile_ (Benth.) Kuntze 光風輪 LC 原生
+	1335. _Clinopodium laxiflorum_ (Hayata) K. Mori 疏花風輪菜 LC 特有
+	1336. _Comanthosphace formosana_ Ohwi 臺灣白木草 VU 特有
+	1337. _Gomphostemma callicarpoides_ (Yamam.) Masam. 臺灣錐花 LC 原生
+	1338. _Lamium tuberiferum_ (Makino) Ohwi 塊莖小野芝麻 LC 原生
+	1339. _Melissa axillaris_ (Benth.) Bakh. f. 蜜蜂花 LC 原生
+	1340. _Mesona chinensis_ Benth. 仙草 LC 原生
+	1341. _Mosla scabra_ (Thunb.) C.Y. Wu & H.W. Li 石薺薴 LC 原生
+	1342. _Origanum vulgare_ L. 野薄荷 LC 原生
+	1343. _Paraphlomis gracilis_ (Hemsl.) Kudo 纖細假糙蘇  栽培
+	1344. _Paraphlomis javanica_ (Blume) Prain 假糙蘇 LC 原生
+	1345. _Perilla frutescens_ (L.) Britton 紫蘇  歸化
+	1346. _Premna serratifolia_ L. 臭娘子 LC 原生
+	1347. _Salvia arisanensis_ Hayata 阿里山紫花鼠尾草 LC 特有
+	1348. _Salvia formosana_ Hayata 臺灣紫花鼠尾草 DD 特有
+	1349. _Salvia hayatae_ Makino ex Hayata 早田氏鼠尾草 VU 原生
+	1350. _Salvia japonica_ Thunb. 日本紫花鼠尾草 LC 原生
+	1351. _Salvia nipponica_ Miq. var. _formosana_ (Hayata) Kudo 黃花鼠尾草  特有
+	1352. _Teucrium bidentatum_ Hemsl. 二齒香科科 LC 原生
+	1353. _Teucrium viscidum_ Blume 血見愁 LC 原生
+141. Linderniaceae 母草科
+	1354. _Torenia concolor_ Lindl. 倒地蜈蚣 LC 原生
+142. Mazaceae 通泉草科
+	1355. _Mazus alpinus_ Masam. 高山通泉草 LC 特有
+	1356. _Mazus fauriei_ Bonati 佛氏通泉草 LC 原生
+	1357. _Mazus goodenifolius_ Pennell 阿里山通泉草 LC 原生
+	1358. _Mazus miquelii_ Makino 匍莖通泉草 LC 原生
+	1359. _Mazus pumilus_ (Burm. f.) Steenis 通泉草 LC 原生
+143. Oleaceae 木犀科
+	1360. _Fraxinus griffithii_ C.B. Clarke 白雞油 LC 原生
+	1361. _Fraxinus insularis_ Hemsl. 臺灣梣 LC 原生
+	1362. _Jasminum lanceolarium_ Roxb. 披針葉茉莉花 LC 原生
+	1363. _Jasminum nervosum_ Lour. 山素英 LC 原生
+	1364. _Jasminum sinense_ Hemsl. 華素馨 LC 原生
+	1365. _Jasminum urophyllum_ Hemsl. 川素馨 LC 原生
+	1366. _Ligustrum liukiuense_ Koidz. 日本女貞 LC 原生
+	1367. _Ligustrum morrisonense_ Kaneh. & Sasaki 玉山女貞 NT 特有
+	1368. _Ligustrum pricei_ Hayata 阿里山女貞 LC 原生
+	1369. _Ligustrum sinense_ Lour. 小實女貞 LC 原生
+	1370. _Osmanthus enervius_ Masam. & K. Mori 無脈木犀 LC 原生
+	1371. _Osmanthus heterophyllus_ (G. Don) P.S. Green 異葉木犀 LC 原生
+	1372. _Osmanthus kaoi_ (T.S. Liu & J.C. Liao) S.Y. Lu 高氏木犀 LC 特有
+	1373. _Osmanthus lanceolatus_ Hayata 銳葉木犀 LC 原生
+	1374. _Osmanthus matsumuranus_ Hayata 大葉木犀 LC 原生
+144. Orobanchaceae 列當科
+	1375. _Boschniakia himalaica_ Hook. f. & Thomson 丁座草 LC 原生
+	1376. _Euphrasia nankotaizanensis_ Yamam. 南湖碎雪草 NT 特有
+	1377. _Euphrasia transmorrisonensis_ Hayata 玉山小米草  原生
+	1378. _Euphrasia transmorrisonensis_ Hayata var. _durietziana_ (Ohwi) T.C. Huang & M.J. Wu 臺灣碎雪草  特有
+	1379. _Euphrasia transmorrisonensis_ Hayata var. _transmorrisonensis_ Hayata 玉山小米草  特有
+	1380. _Orobanche coerulescens_ Stephan 列當 EN 原生
+	1381. _Pedicularis ikomae_ Sasaki 高山馬先蒿 NT 原生
+	1382. _Pedicularis refracta_ Maxim. var. _transmorrisonensis_ (Hayata) Hurus. 馬先蒿  特有
+145. Paulowniaceae 泡桐科
+	1383. _Paulownia ×_ taiwaniana T. W. Hu. & H. J. Chang 臺灣泡桐  原生
+146. Plantaginaceae 車前科
+	1384. _Digitalis purpurea_ L. 毛地黃  歸化
+	1385. _Ellisiophyllum pinnatum_ (Wall. ex Benth.) Makino 海螺菊 LC 原生
+	1386. _Hemiphragma heterophyllum_ Wall. 腰只花 LC 原生
+	1387. _Plantago asiatica_ L. 車前草 LC 原生
+	1388. _Plantago lanceolata_ L. 長葉車前草  歸化
+	1389. _Plantago major_ L. 大車前草 LC 原生
+	1390. _Plantago virginica_ L. 毛車前草  歸化
+	1391. _Veronica javanica_ Blume 爪哇水苦<U+8552> LC 原生
+	1392. _Veronica linariifolia_ Pall. ex Link 追風草 LC 原生
+	1393. _Veronica morrisonicola_ Hayata 玉山水苦<U+8552> LC 原生
+	1394. _Veronica oligosperma_ Hayata 貧子水苦<U+8552> LC 特有
+	1395. _Veronica persica_ Poir. 阿拉伯婆婆納  歸化
+	1396. _Veronica taiwanica_ T. Yamaz. 臺灣水苦<U+8552> LC 特有
+	1397. _Veronica undulata_ Wall. 水苦<U+8552> LC 原生
+147. Scrophulariaceae 玄參科
+	1398. _Buddleja asiatica_ Lour. 揚波 LC 原生
+	1399. _Scrophularia yoshimurae_ T. Yamaz. 雙鋸齒玄參 LC 特有
+148. Verbenaceae 馬鞭草科
+149. Lauraceae 樟科
+	1400. _Beilschmiedia erythrophloia_ Hayata 瓊楠 LC 原生
+	1401. _Camphora micrantha_ (Hayata) Y.Yang, Bing Liu & Zhi Yang 冇樟 LC 原生
+	1402. _Camphora officinarum_ Nees 樟樹  原生
+	1403. _Cinnamomum camphora_ (L.) Presl. var. _camphora_ (L.) Presl. 樟樹  原生
+	1404. _Cinnamomum insularimontanum_ Hayata 臺灣肉桂 LC 原生
+	1405. _Cinnamomum macrostemon_ Hayata 胡氏肉桂 DD 特有
+	1406. _Cinnamomum osmophloeum_ Kaneh. 土肉桂 NT 特有
+	1407. _Cinnamomum subavenium_ Miq. 香桂 LC 原生
+	1408. _Cryptocarya chinensis_ (Hance) Hemsl. 厚殼桂 LC 原生
+	1409. _Lindera akoensis_ Hayata 內苳子 LC 特有
+	1410. _Lindera communis_ Hemsl. 香葉樹 LC 原生
+	1411. _Lindera megaphylla_ Hemsl. 大香葉樹 LC 原生
+	1412. _Litsea acuminata_ (Blume) Kurata 長葉木薑子 LC 原生
+	1413. _Litsea akoensis_ Hayata var. _akoensis_ Hayata 屏東木薑子  特有
+	1414. _Litsea akoensis_ Hayata var. _sasakii_ (Kamik.) J.C. Liao 狹葉木薑子  原生
+	1415. _Litsea akoensis_ Hayata 屏東木薑子  原生
+	1416. _Litsea coreana_ H. Lev. 鹿皮斑木薑子 LC 原生
+	1417. _Litsea cubeba_ (Lour.) Pers. 山胡椒 LC 原生
+	1418. _Litsea elongata_ (Wall. ex Nees) Benth. & Hook. f. var. _mushaensis_ (Hayata) J.C. Liao 霧社木薑子  原生
+	1419. _Litsea hypophaea_ Hayata 黃肉樹 LC 原生
+	1420. _Litsea morrisonensis_ Hayata 玉山木薑子 LC 特有
+	1421. _Machilus kusanoi_ Hayata 大葉楠 LC 特有
+	1422. _Machilus mushaensis_ F.Y.Lu 霧社楨楠 LC 特有
+	1423. _Machilus pseudolongifolia_ Hayata 假長葉楠 LC 原生
+	1424. _Machilus thunbergii_ Siebold & Zucc. 豬腳楠 LC 原生
+	1425. _Machilus zuihoensis_ Hayata 香楠 LC 原生
+	1426. _Neolitsea aciculata_ (Bl.) Koidz. var. _variabillima_ J.C. Liao 變葉新木薑子  原生
+	1427. _Neolitsea aciculata_ (Blume) Koidz. var. _aciculata_ (Blume) Koidz. 銳葉新木薑子  原生
+	1428. _Neolitsea acuminatissima_ (Hayata) Kaneh. & Sasaki 高山新木薑子 LC 特有
+	1429. _Neolitsea konishii_ (Hayata) Kaneh. & Sasaki 五掌楠 LC 原生
+	1430. _Neolitsea parvigemma_ (Hayata) Kaneh. & Sasaki 小芽新木薑子 LC 特有
+	1431. _Neolitsea sericea_ (Blume) Koidz. var. _sericea_ (Blume) Koidz. 白新木薑子  原生
+	1432. _Phoebe formosana_ (Hayata) Hayata 臺灣雅楠 LC 原生
+	1433. _Sassafras randaiense_ (Hayata) Rehder 臺灣<U+6AAB>樹 NT 特有
+150. Colchicaceae 秋水仙科
+	1434. _Disporum kawakamii_ Hayata 臺灣寶鐸花 LC 特有
+151. Liliaceae 百合科
+	1435. _Lilium brownii_ F. E. Brown<U+00A0>ex Miellez 野百合  原生
+	1436. _Lilium longiflorum_ var. _formosanum_ Baker 臺灣百合  特有
+	1437. _Smilacina japonica_ A. Gray. 鹿藥  原生
+	1438. _Tricyrtis formosana_ Baker 臺灣油點草  原生
+	1439. _Tricyrtis formosana_ Baker var. _formosana_ Baker 臺灣油點草  特有
+	1440. _Tricyrtis formosana_ Baker var. _lasiocarpa_ (Matsum.) Masam. 毛果油點草  原生
+152. Melanthiaceae 黑葯花科
+	1441. _Helonias umbellata_ (Baker) N. Tanaka 臺灣胡麻花 LC 原生
+	1442. _Paris lancifolia_ Hayata 高山七葉一枝花  特有
+	1443. _Paris polyphylla_ Smith var. _stenophylla_ Franch. 狹葉七葉一枝花  原生
+	1444. _Paris polyphylla_ Smith 七葉一枝花 LC 原生
+	1445. _Veratrum formosanum_ Loes. 臺灣藜蘆 LC 原生
+	1446. _Veratrum shuehshanarum_ S.S. Ying 雪山藜蘆 DD 原生
+153. Smilacaceae 菝<U+845C>科
+	1447. _Smilax arisanensis_ Hayata 阿里山菝<U+845C> LC 原生
+	1448. _Smilax bracteata_ C.Presl 假菝<U+845C>  原生
+	1449. _Smilax bracteata_ Presl var. _bracteata_ Presl 假菝<U+845C>  原生
+	1450. _Smilax bracteata_ Presl var. _verruculosa_ (Merr.) T. Koyama 糙莖菝<U+845C>  原生
+	1451. _Smilax china_ L. 菝<U+845C> LC 原生
+	1452. _Smilax corbularia_ Kunth 裡白菝<U+845C> LC 原生
+	1453. _Smilax discotis_ Warb. 宜蘭菝<U+845C> LC 原生
+	1454. _Smilax elongato-umbellata_ Hayata 細葉菝<U+845C> LC 原生
+	1455. _Smilax glabra_ Roxb. 光滑菝<U+845C> LC 原生
+	1456. _Smilax lanceifolia_ Roxb. 臺灣菝<U+845C> LC 原生
+	1457. _Smilax menispermoidea_ A. DC. 巒大菝<U+845C> LC 原生
+	1458. _Smilax nantoensis_ T. Koyama 南投菝<U+845C> LC 特有
+	1459. _Smilax ocreata_ A. DC. 耳葉菝<U+845C> LC 原生
+	1460. _Smilax odoratissima_ Blume 糙莖菝<U+845C>  原生
+	1461. _Smilax planipeduncula_ var. _planipeduncula_ Hayata 平柄菝<U+845C>  特有
+	1462. _Smilax riparia_ A. DC. 烏蘇里山馬薯 LC 原生
+	1463. _Smilax seisuiensis_ (Hayata) P.Li & C.X.Fu 臺中假土茯苓 LC 原生
+	1464. _Smilax sieboldii_ Miq. 臺灣山馬薯 LC 原生
+	1465. _Smilax vaginata_ Decne. 玉山菝<U+845C> LC 原生
+154. Annonaceae 番荔枝科
+	1466. _Fissistigma oldhamii_ (Hemsl.) Merr. 瓜馥木 LC 原生
+155. Magnoliaceae 木蘭科
+	1467. _Magnolia compressa_ Maxim. var. _formosana_ (Kaneh.) C.F.Chen 臺灣烏心石  特有
+	1468. _Magnolia compressa_ Maxim. var. _lanyuensis_ (S.Y.Lu) C.F.Chen 蘭嶼烏心石  特有
+	1469. _Magnolia compressa_ var. _compressa_ Maxim. 烏心石  原生
+	1470. _Michelia compressa_ var. _compressa_ (Maxim.) Sargent 烏心石  原生
+156. Euphorbiaceae 大戟科
+	1471. _Acalypha australis_ L. 鐵莧菜 LC 原生
+	1472. _Croton cascarilloides_ Raeusch. 裏白巴豆 LC 原生
+	1473. _Mallotus japonicus_ (Spreng.) Mull. Arg. 野桐 LC 原生
+	1474. _Mallotus paniculatus_ (Lam.) Muell.-Arg. 白匏子  原生
+	1475. _Mallotus paniculatus_ var. _paniculatus_ (Lam.) Mull.Arg. 白匏子  原生
+	1476. _Mallotus repandus_ (Rottler) Mull. Arg. 扛香藤 LC 原生
+	1477. _Mercurialis leiocarpa_ Siebold & Zucc. 山靛 LC 原生
+	1478. _Triadica cochinchinensis_ Lour. 白<U+6855> LC 原生
+	1479. _Triadica sebifera_ (L.) Small 烏<U+6855>  原生
+157. Hypericaceae 金絲桃科
+	1480. _Hypericum ascyron_ L. 連翹 LC 原生
+	1481. _Hypericum erectum_ Thunb. 小連翹 DD 原生
+	1482. _Hypericum formosanum_ Maxim. 臺灣金絲桃 NT 特有
+	1483. _Hypericum japonicum_ Thunb. 地耳草 LC 原生
+	1484. _Hypericum monogynum_ L. 金絲桃  歸化
+	1485. _Hypericum nagasawae_ Hayata 玉山金絲桃 LC 原生
+	1486. _Hypericum nokoense_ Ohwi 能高金絲桃 DD 特有
+	1487. _Hypericum taihezanense_ Sasaki ex S. Suzuki 短柄金絲桃 LC 原生
+158. Malpighiaceae 黃褥花科
+	1488. _Hiptage benghalensis_ (L.) Kurz 猿尾藤 LC 原生
+159. Passifloraceae 西番蓮科
+	1489. _Passiflora edulis_ Sims 西番蓮  歸化
+	1490. _Passiflora suberosa_ L. 三角葉西番蓮  歸化
+	1491. _Passiflora suberosa_ L. subsp. _litoralis_ (Kunth) K.Port.-Utl. ex M.A.M.Azevedo, Baumbratz, & Gonc.-Estev. 三角葉西番蓮  歸化
+160. Phyllanthaceae 葉下珠科
+	1492. _Antidesma japonicum_ Siebold & Zucc. var. _acutisepalum_ (Hayata) Hurus. 南投五月茶  原生
+	1493. _Bischofia javanica_ Blume 茄苳 LC 原生
+	1494. _Breynia officinalis_ var. _officinalis_ Hemsl. 紅仔珠  原生
+	1495. _Bridelia balansae_ Tutcher 刺杜密 LC 原生
+	1496. _Bridelia tomentosa_ Blume 土密樹 LC 原生
+	1497. _Glochidion philippicum_ (Cav.) C.B. Rob. 菲律賓饅頭果 LC 原生
+	1498. _Glochidion rubrum_ Blume 細葉饅頭果 LC 原生
+	1499. _Glochidion triandrum_ (Blanco) C. B. Rob. 裏白饅頭果 LC 原生
+	1500. _Glochidion zeylanicum_ (Gaertn.) A. Juss. 錫蘭饅頭果  原生
+	1501. _Glochidion zeylanicum_ var. _zeylanicum_ (Gaertn.) A.Juss. 錫蘭饅頭果  原生
+161. Salicaceae 楊柳科
+	1502. _Idesia polycarpa_ Maxim. 山桐子 LC 原生
+	1503. _Salix fulvopubescens_ Hayata var. _fulvopubescens_ Hayata 褐毛柳  原生
+	1504. _Salix fulvopubescens_ Hayata 褐毛柳  原生
+	1505. _Salix okamotoana_ Koidz. 關山嶺柳 EN 特有
+	1506. _Salix taiwanalpina_ Kimura var. _takasagoalpina_ (Koidz.) S.S. Ying 高山柳  特有
+	1507. _Scolopia oldhamii_ Hance 魯花樹 LC 原生
+162. Violaceae 堇菜科
+	1508. _Viola adenothrix_ Hayata var. _tsugitakaensis_ (Masam.) J.C. Wang & T.C. Huang 雪山堇菜  特有
+	1509. _Viola adenothrix_ Hayata 喜岩堇菜  原生
+	1510. _Viola adenothrix_ var. _adenothrix_ Hayata 喜岩菫菜  特有
+	1511. _Viola arcuata_ Blume 如意草 LC 原生
+	1512. _Viola betonicifolia_ Sm. 箭葉堇菜 LC 原生
+	1513. _Viola biflora_ L. 雙黃花堇菜 NT 原生
+	1514. _Viola confusa_ Champ. ex Benth. 短毛堇菜 LC 原生
+	1515. _Viola diffusa_ Ging. 茶匙黃 LC 原生
+	1516. _Viola formosana_ Hayata var. _stenopetala_ (Hayata) J.C. Wang, T.C. Huang & T. Hashim. 川上氏堇菜  特有
+	1517. _Viola formosana_ Hayata 臺灣堇菜 LC 原生
+	1518. _Viola grypoceras_ A. Gray 紫花堇菜 LC 原生
+	1519. _Viola inconspicua_ Blume subsp. _nagasakiensis_ (W. Becker) J.C. Wang & T.C. Huang 小堇菜  原生
+	1520. _Viola mandshurica_ W. Becker 紫花地丁 LC 原生
+	1521. _Viola nagasawae_ Makino & Hayata var. _pricei_ (W. Becker) J.C. Wang & T.C. Huang 普萊氏堇菜  特有
+	1522. _Viola senzanensis_ Hayata 尖山堇菜 LC 特有
+	1523. _Viola shinchikuensis_ Yamam. 新竹堇菜 LC 特有
+	1524. _Viola_ sp. 菫菜屬 
+	1525. _Viola tenuis_ Benth. 心葉茶匙黃 LC 原生
+163. Malvaceae 錦葵科
+	1526. _Abutilon striatum_ Dicks. ex Lindl. 風鈴花  歸化
+	1527. _Heritiera littoralis_ Aiton 銀葉樹 EN 原生
+	1528. _Hibiscus taiwanensis_ S.Y. Hu 山芙蓉 LC 特有
+	1529. _Malva cathayensis_ M.G. Gilbert, Y. Tang & Dorr 華錦葵  歸化
+	1530. _Malva neglecta_ Wallr. 圓葉錦葵  歸化
+	1531. _Malva verticillata_ L. 冬寒菜  歸化
+	1532. _Sida rhombifolia_ L. 金午時花 LC 原生
+	1533. _Urena lobata_ L. 野棉花 LC 原生
+164. Thymelaeaceae 瑞香科
+	1534. _Daphne arisanensis_ Hayata 臺灣瑞香 LC 特有
+	1535. _Daphne kiusiana_ Miq. var. _atrocaulis_ (Rehder) F. Maek. 白花瑞香  原生
+	1536. _Daphne morrisonensis_ C.E. Chang 玉山瑞香 NT 原生
+	1537. _Wikstroemia indica_ (L.) C.A. Mey. 南嶺蕘花 LC 原生
+165. Lythraceae 千屈菜科
+	1538. _Cuphea carthagenensis_ (Jacq.) J.F. Macbr. 克菲亞草  歸化
+	1539. _Lagerstroemia subcostata_ Koehne 九芎 LC 原生
+166. Melastomataceae 野牡丹科
+	1540. _Barthea barthei_ (Hance ex Benth.) Krasser 深山野牡丹 LC 原生
+	1541. _Blastus cochinchinensis_ Lour. 柏拉木 LC 原生
+	1542. _Bredia oldhamii_ Hook. f. 金石榴 LC 特有
+	1543. _Bredia scandens_ (Ito & Matsum.) Hayata 布勒德藤 LC 特有
+	1544. _Medinilla taiwaniana_ Yuen P.Yang & H.Y.Liu 臺灣厚距花 LC 原生
+	1545. _Melastoma septemnervium_ Lour. 野牡丹 LC 原生
+	1546. _Sarcopyramis napalensis_ Wall. var. _bodinieri_ (H. Lev. & Vaniot) H. Lev. 肉穗野牡丹  原生
+	1547. _Sarcopyramis napalensis_ Wall. var. _delicata_ (C.B. Rob.) S.F. Huang & T.C. Huang 東方肉穗野牡丹  原生
+167. Myrtaceae 桃金孃科
+	1548. _Syzygium buxifolium_ Hook. & Arn. 小葉赤楠 LC 原生
+	1549. _Syzygium formosanum_ (Hayata) Mori 臺灣赤楠 LC 原生
+168. Onagraceae 柳葉菜科
+	1550. _Circaea alpina_ L. subsp. _imaicola_ (Asch. & Magn.) Kitam. 高山露珠草  原生
+	1551. _Circaea cordata_ Royle 心葉露珠草 LC 原生
+	1552. _Circaea erubescens_ Franch. & Sav. 臺灣露珠草 LC 原生
+	1553. _Epilobium amurense_ Hausskn. 黑龍江柳葉菜 LC 原生
+	1554. _Epilobium brevifolium_ D. Don subsp. _trichoneurum_ (Hausskn.) P.H. Raven 短葉柳葉菜  原生
+	1555. _Epilobium hohuanense_ S.S. Ying 合歡柳葉菜 LC 特有
+	1556. _Epilobium nankotaizanense_ Yamam. 南湖柳葉菜 VU 特有
+	1557. _Epilobium pengii_ C.J. Chen, Hoch & P.H. Raven 彭氏柳葉菜 VU 特有
+	1558. _Epilobium platystigmatosum_ C.B. Rob. 闊柱柳葉菜 LC 原生
+	1559. _Epilobium taiwanianum_ C.J. Chen, Hoch & P.H. Raven 臺灣柳葉菜 VU 特有
+	1560. _Oenothera glazioviana_ Micheli 黃花月見草  入侵
+	1561. _Oenothera laciniata_ Hill 裂葉月見草  入侵
+	1562. _Oenothera stricta_ Ledeb. ex Link 待宵草  歸化
+	1563. _Oenothera tetraptera_ Cav. 四翅月見草  歸化
+169. Elaeocarpaceae 杜英科
+	1564. _Elaeocarpus decipiens_ Hemsl. ex F.B. Forbes & Hemsl. 杜英 LC 原生
+	1565. _Elaeocarpus japonicus_ Siebold 薯豆 LC 原生
+	1566. _Sloanea formosana_ H.L. Li 猴歡喜 LC 特有
+170. Oxalidaceae 酢漿草科
+	1567. _Oxalis acetosella_ L. subsp. _griffithii_ (Edgew. & Hook f.) Hara var. _formosana_ (Terao) Huang & Huang 臺灣山酢漿草  原生
+	1568. _Oxalis acetosella_ L. subsp. _taemoni_ (Yamam.) S.F. Huang & T.C. Huang 大霸尖山酢漿草  特有
+	1569. _Oxalis corniculata_ L. 酢漿草 LC 原生
+	1570. _Oxalis corymbosa_ DC. 紫花酢漿草  歸化
+171. Stemonaceae 百部科
+	1571. _Stemona tuberosa_ Lour. 百部 LC 原生
+172. Aristolochiaceae 馬兜鈴科
+	1572. _Aristolochia cucurbitifolia_ Hayata 瓜葉馬兜鈴 VU 特有
+	1573. _Aristolochia heterophylla_ Hemsl. 異葉馬兜鈴 LC 原生
+	1574. _Aristolochia kaempferi_ Willd. 大葉馬兜鈴  原生
+	1575. _Aristolochia shimadae_ Hayata 臺灣馬兜鈴  原生
+	1576. _Asarum caudigerum_ Hance 薄葉細辛 LC 原生
+	1577. _Asarum crassisepalum_ S.F. Huang, T.H. Hsieh & T.C. Huang 鴛鴦湖細辛 VU 特有
+	1578. _Asarum hypogynum_ Hayata 下花細辛 VU 原生
+	1579. _Asarum macranthum_ Hook. f. 大花細辛 LC 原生
+173. Piperaceae 胡椒科
+	1580. _Peperomia japonica_ Makino 椒草 LC 原生
+	1581. _Peperomia leptostachya_ Hook. & Arn. 紅莖椒草 LC 原生
+	1582. _Peperomia nakaharae_ Hayata 山椒草 LC 原生
+	1583. _Peperomia tetraphylla_ Hook. & Arn. 小椒草 LC 原生
+	1584. _Piper kadsura_ (Choisy) Ohwi 風藤 LC 原生
+	1585. _Piper sintenense_ Hatus. 薄葉風藤 LC 原生
+	1586. _Piper taiwanense_ Lin & Lu 臺灣荖藤 LC 特有
+174. Cyperaceae 莎草科
+	1587. _Bulbostylis densa_ (Wall.) Hand.-Mazz. subsp. _afromontana_ (Lye) R.W. Haines 球柱草  原生
+	1588. _Carex alopecuroides_ D. Don ex Tilloch & Taylor 川上氏薹 LC 原生
+	1589. _Carex atrata_ L. 南湖扁果薹 LC 原生
+	1590. _Carex baccans_ Nees 紅果薹 LC 原生
+	1591. _Carex bilateralis_ Hayata 短葉二柱薹 LC 原生
+	1592. _Carex brachyanthera_ Ohwi 垂穗薹 LC 原生
+	1593. _Carex breviculmis_ R. Br. 短莖宿柱薹 LC 原生
+	1594. _Carex breviscapa_ C.B. Clarke 寬果宿柱薹 LC 原生
+	1595. _Carex brunnea_ Thunb. 束草 LC 原生
+	1596. _Carex caucasica_ Steven 大井氏扁果薹 NT 原生
+	1597. _Carex chrysolepis_ Franch. & Sav. 黃花薹 LC 原生
+	1598. _Carex cruciata_ Wahl. var. _argocarpus_ C.B. Clarke 煙火薹  原生
+	1599. _Carex doniana_ Spreng. 芒尖薹 LC 原生
+	1600. _Carex filicina_ Nees 紅鞘薹 LC 原生
+	1601. _Carex fulvorubescens_ Hayata 茶色扁果薹 LC 特有
+	1602. _Carex ligulata_ Nees var. _glabriutriculata_ Q.S. Wang 舌葉薹  原生
+	1603. _Carex liui_ T. Koyama & T.I. Chuang 劉氏薹 LC 特有
+	1604. _Carex morii_ Hayata 森氏薹 LC 特有
+	1605. _Carex nubigena_ D. Don ex Tilloch & Taylor 聚生穗序薹 LC 原生
+	1606. _Carex orthostemon_ Hayata 直蕊宿柱薹 LC 原生
+	1607. _Carex oxyandra_ (Franch. & Sav.) Kudo 球穗薹 LC 原生
+	1608. _Carex perakensis_ C.B. Clarke 黃穗薹 LC 原生
+	1609. _Carex rafflesiana_ Boott 紅頭薹 NT 原生
+	1610. _Carex rhynchachaenium_ C.B. Clarke 初島氏宿柱薹 LC 原生
+	1611. _Carex satzumensis_ Franch. & Sav. 油薹 LC 原生
+	1612. _Carex_ sp. 薹屬 
+	1613. _Carex tristachya_ Thunb. var. _pocilliformis_ (Boott) Kuk. 抱鱗宿柱薹  原生
+	1614. _Carex urelytra_ Ohwi 扁果薹 LC 特有
+	1615. _Eleocharis congesta_ D. Don subsp. _japonica_ (Miq.) T. Koyama 針藺  原生
+	1616. _Pycreus sanguinolentus_ (Vahl) Nees ex C.B. Clarke 紅鱗扁莎 LC 原生
+	1617. _Scirpus ternatanus_ Reinw. ex Miq. 大莞草 LC 原生
+	1618. _Scleria terrestris_ (L.) Fassett 陸生珍珠茅 LC 原生
+	1619. _Trichophorum subcapitatum_ (Thwaites & Hook.) D.A. Simpson 玉山針藺 LC 原生
+175. Juncaceae 燈心草科
+	1620. _Juncus effusus_ L. var. _decipiens_ Buchenau 燈心草  原生
+	1621. _Juncus leschenaultii_ J. Gay ex Laharpe 錢蒲 LC 原生
+	1622. _Juncus triflorus_ Ohwi 玉山燈心草 LC 原生
+	1623. _Luzula effusa_ Buchenau 中國地楊梅 LC 原生
+	1624. _Luzula multiflora_ (Ehrh.) Lej. 山間地楊梅 NT 原生
+	1625. _Luzula plumosa_ E. Mey. 臺灣糖星草 LC 原生
+	1626. _Luzula taiwaniana_ Satake 臺灣地楊梅 LC 特有
+176. Poaceae 禾本科
+	1627. _Agropyron formosanum_ Honda 臺灣鵝觀草 LC 原生
+	1628. _Agrostis clavata_ Trin. 翦股穎 LC 原生
+	1629. _Agrostis infirma_ Buse 玉山翦股穎  原生
+	1630. _Agrostis infirma_ Miq. var. _arisan-montana_ (Ohwi) Veldkamp 阿里山翦股穎  原生
+	1631. _Agrostis infirma_ Miq. var. _infirma_ Miq. 玉山翦股穎  原生
+	1632. _Alloteropsis semialata_ (R. Br.) Hitchc. 毛穎草 EN 原生
+	1633. _Alopecurus aequalis_ Sobalewski 看麥娘  原生
+	1634. _Alopecurus aequalis_ Sobol. var. _amurensis_ (Kom.) Ohwi 看麥娘  原生
+	1635. _Aniselytron agrostoides_ Merr. 小穎溝稃草 LC 原生
+	1636. _Aniselytron treutleri_ (Kuntze) Sojak 溝稃草 DD 原生
+	1637. _Anthoxanthum horsfieldii_ (Kunth ex Benn.) Mez var. _formosanum_ (Honda) Veldkamp 臺灣黃花茅  原生
+	1638. _Arthraxon hispidus_ (Thunb.) Makino 藎草 LC 原生
+	1639. _Arundinella setosa_ Trin. 刺芒野古草 LC 原生
+	1640. _Arundo donax_ L. 蘆竹 LC 原生
+	1641. _Arundo formosana_ Hack. 臺灣蘆竹 LC 原生
+	1642. _Axonopus compressus_ (Sw.) P. Beauv. 地毯草  歸化
+	1643. _Brachiaria mutica_ (Forssk.) Stapf 巴拉草  入侵
+	1644. _Brachypodium kawakamii_ Hayata 川上短柄草 LC 原生
+	1645. _Brachypodium sylvaticum_ (Huds.) P. Beauv. 基隆短柄草 LC 原生
+	1646. _Bromus catharticus_ Vahl 大扁雀麥  入侵
+	1647. _Bromus diandrus_ Roth 硬雀麥  歸化
+	1648. _Bromus formosanus_ Honda 臺灣雀麥 NT 特有
+	1649. _Bromus hordeaceus_ L. 毛雀麥  歸化
+	1650. _Bromus morrisonensis_ Honda 玉山雀麥 LC 原生
+	1651. _Calamagrostis arundinacea_ (L.) Roth 類蘆野青茅 LC 原生
+	1652. _Calamagrostis epigeios_ (L.) Roth 拂子茅 LC 原生
+	1653. _Chrysopogon aciculatus_ (Retz.) Trin. 竹節草 LC 原生
+	1654. _Cynodon dactylon_ (L.) Pers. 狗牙根 LC 原生
+	1655. _Cyrtococcum patens_ (L.) A. Camus 弓果黍 LC 原生
+	1656. _Cyrtococcum patens_ var. _latifolium_ (Honda) Ohwi 散穗弓果黍  原生
+	1657. _Deschampsia cespitosa_ (L.) P. Beauv. var. _festucifolia_ Honda 髮草  歸化
+	1658. _Deschampsia flexuosa_ (L.) Trin. 曲芒髮草 LC 原生
+	1659. _Deyeuxia pyramidalis_ (Host) Veldkamp 野青茅  原生
+	1660. _Deyeuxia suizanensis_ (Hayata) Ohwi 水山野青茅 NT 特有
+	1661. _Dichanthium annulatum_ (Forssk.) Stapf 雙花草  歸化
+	1662. _Digitaria sanguinalis_ (L.) Scop. 馬唐  歸化
+	1663. _Eleusine coracana_ (L.) Gaertn. 穇子  歸化
+	1664. _Eleusine indica_ (L.) Gaertn. 牛筋草 LC 原生
+	1665. _Elymus tsukushiensis_ Honda 膜緣披鹼草 LC 原生
+	1666. _Eragrostis amabilis_ (L.) Wight & Arn. ex Nees 鯽魚草 LC 原生
+	1667. _Eragrostis cilianensis_ (All.) Vignolo ex Janch. 大畫眉草  歸化
+	1668. _Eragrostis ferruginea_ (Thunb.) P. Beauv. 知風草 LC 原生
+	1669. _Eragrostis japonica_ (Thunb.) Trin. 日本鯽魚草 NT 原生
+	1670. _Eragrostis multicaulis_ Steud. 多稈畫眉草 LC 原生
+	1671. _Eremochloa ophiuroides_ (Munro) Hack. 假儉草 LC 原生
+	1672. _Eulalia speciosa_ (Debeaux) Kuntze 金茅 CR 原生
+	1673. _Festuca arundinacea_ Schreb. 葦狀羊茅  歸化
+	1674. _Festuca formosana_ Honda 臺灣羊茅 DD 特有
+	1675. _Festuca japonica_ Makino 日本羊茅 EN 原生
+	1676. _Festuca leptopogon_ Stapf 高砂羊茅 LC 原生
+	1677. _Festuca ovina_ L. 羊茅 LC 原生
+	1678. _Festuca parvigluma_ Steud. 小穎羊茅 CR 原生
+	1679. _Festuca rubra_ L. 紫羊茅 LC 原生
+	1680. _Helictotrichon abietetorum_ (Ohwi) Ohwi 冷杉異燕麥 LC 特有
+	1681. _Holcus lanatus_ L. 絨毛草  歸化
+	1682. _Imperata cylindrica_ (L.) P. Beauv. var. _major_ (Nees) C.E. Hubb. 白茅  原生
+	1683. _Isachne albens_ Trin. 白花柳葉箬 LC 原生
+	1684. _Isachne globosa_ (Thunb.) Kuntze 柳葉箬 LC 原生
+	1685. _Leersia hexandra_ Sw. 李氏禾 LC 原生
+	1686. _Lolium multiflorum_ Lam. 多花黑麥草  歸化
+	1687. _Lolium perenne_ L. 黑麥草  歸化
+	1688. _Lophatherum gracile_ Brongn. 淡竹葉 LC 原生
+	1689. _Melica onoei_ Franch. & Sav. 小野臭草 NT 原生
+	1690. _Microstegium ciliatum_ (Trin.) A. Camus 剛莠竹 LC 原生
+	1691. _Microstegium dilatatum_ Koidz. 大穗莠竹 LC 原生
+	1692. _Microstegium geniculatum_ (Hayata) Honda 曲膝莖莠竹 LC 原生
+	1693. _Miscanthus floridulus_ (Labill.) Warb. ex K. Schum. & Lauterb. 五節芒 LC 原生
+	1694. _Miscanthus sinensis_ Andersson 芒 LC 原生
+	1695. _Muhlenbergia huegelii_ Trin. 亂子草 LC 原生
+	1696. _Oplismenus compositus_ (L.) P. Beauv. 竹葉草 LC 原生
+	1697. _Oplismenus undulatifolius_ (Ard.) Roemer & Schultes 求米草  原生
+	1698. _Oplismenus undulatifolius_ var. _undulatifolius_ (Ard.) Roem. & Schult. 求米草  原生
+	1699. _Panicum dichotomiflorum_ Michx. 洋野黍  歸化
+	1700. _Paspalum conjugatum_ P.J. Bergius 兩耳草  歸化
+	1701. _Paspalum dilatatum_ Poir. 毛花雀稗  歸化
+	1702. _Paspalum urvillei_ Steud. 吳氏雀稗  歸化
+	1703. _Phalaris canariensis_ L. 加拿麗鷸草  歸化
+	1704. _Phleum alpinum_ L. 高山梯牧草 LC 原生
+	1705. _Phragmites australis_ (Cav.) Trin. ex Steud. 蘆葦 LC 原生
+	1706. _Poa acroleuca_ Steud. 白頂早熟禾 LC 原生
+	1707. _Poa annua_ L. 早熟禾 LC 原生
+	1708. _Poa taiwanicola_ Ohwi 高山早熟禾 LC 特有
+	1709. _Poa takasagomontana_ Ohwi 高砂早熟禾 LC 特有
+	1710. _Poa tenuicula_ Ohwi 細桿早熟禾 NT 特有
+	1711. _Polypogon fugax_ Nees ex Steud. 棒頭草 LC 原生
+	1712. _Setaria faberi_ R.A.W. Herrm. 法氏狗尾草 NT 原生
+	1713. _Setaria italica_ (L.) P. Beauv. 小米  歸化
+	1714. _Setaria pallidefusca_ (Schumach.) Stapf & C. E. Hubb. 褐毛狗尾草  原生
+	1715. _Setaria palmifolia_ (J. Koenig) Stapf 棕葉狗尾草 LC 原生
+	1716. _Setaria parviflora_ (Poir.) Kerguelen 莠狗尾草  原生
+	1717. _Setaria pumila_ (Poir.) Roem. & Schult. 金色狗尾草 LC 原生
+	1718. _Setaria viridis_ (L.) P. Beauv. 狗尾草 LC 原生
+	1719. _Sinobambusa kunishii_ (Hayata) Nakai 臺灣矢竹 DD 原生
+	1720. _Sporobolus indicus_ (L.) R. Br. var. _flaccidus_ (Roth) Veldkamp 雙蕊鼠尾粟  原生
+	1721. _Trisetum bifidum_ (Thunb.) Ohwi 三毛草 VU 原生
+	1722. _Trisetum spicatum_ (L.) Rich. var. _formosanum_ (Honda) Ohwi 臺灣三毛草  特有
+	1723. _Vulpia myuros_ (L.) C.C. Gmel. 鼠茅  歸化
+	1724. _Yushania niitakayamensis_ (Hayata) Keng f. 玉山箭竹 LC 原生
+177. Proteaceae 山龍眼科
+	1725. _Helicia cochinchinensis_ Lour. 紅葉樹 LC 原生
+	1726. _Helicia formosana_ Hemsl. 山龍眼 LC 原生
+	1727. _Helicia rengetiensis_ Masam. 蓮花池山龍眼 LC 原生
+178. Sabiaceae 清風藤科
+	1728. _Meliosma callicarpifolia_ Hayata 紫珠葉泡花 LC 原生
+	1729. _Meliosma rhoifolia_ Maxim. 山豬肉 LC 原生
+	1730. _Meliosma squamulata_ Hance 綠樟 LC 原生
+	1731. _Sabia swinhoei_ Hemsl. 臺灣清風藤 LC 原生
+	1732. _Sabia transarisanensis_ Hayata 阿里山清風藤 LC 特有
+179. Berberidaceae 小檗科
+	1733. _Berberis brevisepala_ Hayata 高山小檗 NT 特有
+	1734. _Berberis kawakamii_ Hayata 臺灣小檗 NT 原生
+	1735. _Berberis morrisonensis_ Hayata 玉山小檗 LC 特有
+	1736. _Berberis nantoensis_ C.K. Schneid. 南投小檗 VU 特有
+	1737. _Dysosma pleiantha_ (Hance) Woodson 八角蓮 NT 原生
+	1738. _Mahonia fortunei_ (Lindl.) Fedde 十大功勞  栽培
+	1739. _Mahonia japonica_ (Thunb.) DC. 十大功勞  原生
+	1740. _Mahonia oiwakensis_ Hayata 阿里山十大功勞 EN 原生
+180. Lardizabalaceae 木通科
+	1741. _Akebia longeracemosa_ Matsum. 長序木通 LC 原生
+	1742. _Akebia trifoliata_ (Thunb.) Koidz.   原生
+	1743. _Akebia trifoliata_ (Thunb.) Koidz. subsp. _australis_ (Diels) T. Shimizu 白木通  原生
+	1744. _Stauntonia obovata_ Hemsl. 鈍藥野木瓜 LC 原生
+	1745. _Stauntonia obovatifoliola_ Hayata 石月  原生
+	1746. _Stauntonia purpurea_ Y.C. Liu & F.Y. Lu 紫花野木瓜 LC 特有
+181. Menispermaceae 防己科
+	1747. _Cocculus orbiculatus_ (L.) DC. 木防己 LC 原生
+	1748. _Cyclea gracillima_ Diels 土防己 LC 原生
+	1749. _Cyclea ochiaiana_ (Yamam.) S.F. Huang & T.C. Huang 臺灣土防己 LC 特有
+	1750. _Pericampylus formosanus_ Diels 蓬萊藤 LC 原生
+	1751. _Sinomenium acutum_ (Thunb.) Rehder & E.H. Wilson 漢防己 EN 原生
+	1752. _Stephania japonica_ (Thunb. ex Murray) Miers var. _japonica_ (Thunb. ex Murray) Miers 千金藤  原生
+	1753. _Stephania japonica_ Miers 千金藤  原生
+182. Papaveraceae 罌粟科
+	1754. _Corydalis ochotensis_ Turcz. 疏花黃菫 LC 原生
+	1755. _Corydalis ophiocarpa_ Hook. f. & Thomson 彎果黃菫 LC 原生
+	1756. _Corydalis pallida_ (Thunb.) Pers. 黃菫  原生
+	1757. _Corydalis pallida_ (Thunb.) Pers. var. _pallida_ (Thunb.) Pers. 黃菫  原生
+	1758. _Corydalis pallida_ (Thunb.) Pers. var. _sparsimamma_ (Ohwi) Ohwi 凹子黃菫  原生
+	1759. _Corydalis tashiroi_ Makino 臺灣黃菫 LC 原生
+	1760. _Macleaya cordata_ (Willd.) R. Br. 博落迴 NT 原生
+183. Ranunculaceae 毛茛科
+	1761. _Aconitum fukutomei_ Hayata 臺灣烏頭  原生
+	1762. _Aconitum fukutomei_ Hayata var. _formosanum_ (Tamura) T.Y.A. Yang & T.C. Huang 蔓烏頭  特有
+	1763. _Aconitum fukutomei_ Hayata var. _fukutomei_ Hayata 臺灣烏頭  特有
+	1764. _Anemone stolonifera_ Maxim. 匍枝銀蓮花 VU 原生
+	1765. _Anemone vitifolia_ Buch. Ham. ex DC. var. _matsudae_ Yamamoto 小白頭翁  原生
+	1766. _Clematis chinensis_ Osbeck 威靈仙  原生
+	1767. _Clematis chinensis_ var. _chinensis_ Osbeck 威靈仙  原生
+	1768. _Clematis crassifolia_ Benth. 厚葉鐵線蓮 LC 原生
+	1769. _Clematis formosana_ Kuntze 臺灣鐵線蓮 NT 原生
+	1770. _Clematis gouriana_ Roxb. ex DC. subsp. _lishanensis_ T.Y. Yang & T.C. Huang 梨山小蓑衣藤  特有
+	1771. _Clematis grata_ Wall. 串鼻龍 LC 原生
+	1772. _Clematis henryi_ Oliv. var. _henryi_ Oliv. 亨利氏鐵線蓮  原生
+	1773. _Clematis henryi_ Oliv. var. _morii_ (Hayata) T.Y. Yang & T.C. Huang 森氏鐵線蓮  特有
+	1774. _Clematis henryi_ Oliv. 亨利氏鐵線蓮  原生
+	1775. _Clematis henryi_ var. _leptophylla_ Hayata 薄單葉鐵線蓮  原生
+	1776. _Clematis lasiandra_ Maxim. 小木通 LC 原生
+	1777. _Clematis meyeniana_ Walp. 麥氏鐵線蓮 LC 原生
+	1778. _Clematis montana_ Buch.-Ham. ex DC. 繡球藤 LC 原生
+	1779. _Clematis parviloba_ Gard. ex Champ. subsp. _bartlettii_ (Yamam.) T.Y.A. Yang & T.C. Huang 巴氏鐵線蓮  原生
+	1780. _Clematis tashiroi_ Maxim. 田代氏鐵線蓮  原生
+	1781. _Clematis tashiroi_ var. _tashiroi_ Maxim. 田代氏鐵線蓮  原生
+	1782. _Clematis tsugetorum_ Ohwi 高山鐵線蓮 VU 特有
+	1783. _Clematis uncinata_ Champ. ex Benth. var. _okinawensis_ (Ohwi) Ohwi 毛果鐵線蓮  原生
+	1784. _Clematis uncinata_ Champ. ex Benth. var. _uncinata_ Champ. ex Benth. 柱果鐵線蓮  原生
+	1785. _Clematis uncinata_ Champ. ex Benth. 柱果鐵線蓮  原生
+	1786. _Coptis quinquefolia_ Miq. 五葉黃連 LC 原生
+	1787. _Dichocarpum arisanensis_ (Hayata) W. T. Wang & Hsiao 鐵線蕨葉人字果 NT 特有
+	1788. _Ranunculus cantoniensis_ DC. 禺毛茛 LC 原生
+	1789. _Ranunculus cheirophyllus_ Hayata 掌葉毛茛 NT 原生
+	1790. _Ranunculus formosa-montanus_ Ohwi 蓬萊毛茛 LC 特有
+	1791. _Ranunculus japonicus_ Thunb. 毛茛 NT 原生
+	1792. _Ranunculus junipericola_ Ohwi 高山毛茛 NT 原生
+	1793. _Ranunculus morii_ (Yamam.) Ohwi 森氏毛茛 EN 原生
+	1794. _Ranunculus silerifolius_ H. Lev. 鉤柱毛茛 LC 原生
+	1795. _Ranunculus taisanensis_ Hayata 鹿場毛茛 LC 原生
+	1796. _Thalictrum javanicum_ Bl. var. _puberulum_ W.T. Wang 微毛爪哇唐松草  原生
+	1797. _Thalictrum myriophyllum_ Ohwi 密葉唐松草 VU 特有
+	1798. _Thalictrum rubescens_ Ohwi 南湖唐松草 VU 特有
+	1799. _Thalictrum sessile_ Hayata 玉山唐松草 NT 特有
+	1800. _Thalictrum urbaini_ Hayata var. _urbaini_ Hayata 傅氏唐松草  原生
+	1801. _Thalictrum urbaini_ Hayata 傅氏唐松草  原生
+	1802. _Thalictrum urbainii_ Hayata 傅氏唐松草  原生
+184. Cannabaceae 大麻科
+	1803. _Aphananthe aspera_ (Thunb.) Planch. 糙葉樹 LC 原生
+	1804. _Celtis sinensis_ Pers. 朴樹 LC 原生
+	1805. _Celtis tetrandra_ Roxb. 石朴 LC 原生
+	1806. _Trema orientalis_ (L.) Blume 山黃麻 LC 原生
+185. Elaeagnaceae 胡頹子科
+	1807. _Elaeagnus formosana_ Nakai 臺灣胡頹子 LC 原生
+	1808. _Elaeagnus glabra_ Thunb. 藤胡頹子 LC 原生
+	1809. _Elaeagnus grandifolia_ Hayata 慈恩胡頹子 LC 特有
+	1810. _Elaeagnus oldhamii_ Maxim. <U+692C>梧 DD 原生
+	1811. _Elaeagnus thunbergii_ Servett. 鄧氏胡頹子 LC 原生
+	1812. _Elaeagnus triflora_ Roxb. 菲律賓胡頹子 NT 原生
+	1813. _Elaeagnus umbellata_ Thunb. 小葉胡頹子 LC 原生
+186. Moraceae 桑科
+	1814. _Broussonetia kazinoki_ Siebold 小構樹  原生
+	1815. _Broussonetia monoica_ Hance 小構樹 LC 原生
+	1816. _Broussonetia papyrifera_ (L.) L'Her. ex Vent. 構樹 LC 原生
+	1817. _Fatoua villosa_ (Thunb.) Nakai 小蛇麻 LC 原生
+	1818. _Ficus erecta_ Thunb. var. _beecheyana_ (Hook. & Arn.) King 牛奶榕  原生
+	1819. _Ficus fistulosa_ Reinw. ex Blume 豬母乳 LC 原生
+	1820. _Ficus formosana_ Maxim. 天仙果 LC 原生
+	1821. _Ficus formosana_ Maxim. fo. _formosana_ 天仙果  原生
+	1822. _Ficus irisana_ Elmer 澀葉榕 LC 原生
+	1823. _Ficus microcarpa_ L. f. 榕樹 LC 原生
+	1824. _Ficus nervosa_ B. Heyne ex Roth 九重吹 LC 原生
+	1825. _Ficus pumila_ L. var. _awkeotsang_ (Makino) Corner 愛玉子  特有
+	1826. _Ficus pumila_ L. var. _pumila_ L. 薜荔  原生
+	1827. _Ficus pumila_ L. 薜荔  原生
+	1828. _Ficus sarmentosa_ B. Ham. ex J. E. Sm. var. _henryi_ (King ex Oliv.) Corner 阿里山珍珠蓮  原生
+	1829. _Ficus sarmentosa_ B. Ham. ex J. E. Sm. var. _nipponica_ (Franch. & Sav.) Corner 珍珠蓮  原生
+	1830. _Ficus superba_ (Miq.) Miq. var. _japonica_ Miq. 雀榕 LC 原生
+	1831. _Ficus tinctoria_ G. Forst. 山豬枷 LC 原生
+	1832. _Ficus variegata_ Blume var. _garciae_ (Elmer) Corner 幹花榕  原生
+	1833. _Maclura cochinchinensis_ (Lour.) Corner 柘樹 LC 原生
+	1834. _Malaisia scandens_ (Lour.) Planch. 盤龍木 LC 原生
+	1835. _Morus alba_ L. 桑  歸化
+	1836. _Morus australis_ Poir. 小桑樹 LC 原生
+187. Rhamnaceae 鼠李科
+	1837. _Berchemia formosana_ C.K. Schneid. 臺灣黃鱔藤 LC 原生
+	1838. _Berchemia lineata_ (L.) DC. 小葉黃鱔藤 LC 原生
+	1839. _Rhamnus crenata_ Siebold & Zucc. 鈍齒鼠李 LC 原生
+	1840. _Rhamnus formosana_ Matsum. 桶鉤藤 LC 特有
+	1841. _Rhamnus kanagusuki_ Makino 變葉鼠李 LC 原生
+	1842. _Rhamnus nakaharae_ (Hayata) Hayata 中原氏鼠李 LC 特有
+	1843. _Rhamnus parvifolia_ Bunge 小葉鼠李 LC 原生
+	1844. _Rhamnus pilushanensis_ Y.C.Liu & C.M.Wang 畢祿山鼠李 LC 特有
+	1845. _Sageretia randaiensis_ Hayata 巒大雀梅藤 LC 特有
+	1846. _Sageretia thea_ (Osbeck) Johnst. var. _taiwaniana_ (Hosok. ex Masam.) Y.C.Liu & C.M.Wang 臺灣雀梅藤  原生
+	1847. _Sageretia thea_ var. _thea_ (Osbeck) Johnst. 雀梅藤  原生
+188. Rosaceae 薔薇科
+	1848. _Agrimonia pilosa_ Ledeb. 龍牙草 LC 原生
+	1849. _Cotoneaster konishii_ Hayata 臺灣舖地蜈蚣 LC 特有
+	1850. _Cotoneaster morrisonensis_ Hayata 玉山舖地蜈蚣 LC 特有
+	1851. _Cotoneaster rokujodaisanensis_ Hayata 樂山舖地蜈蚣 LC 特有
+	1852. _Cotoneaster rosiflorus_ Kun C. Chang & F.Y. Lu 粉紅花舖地蜈蚣 NT 特有
+	1853. _Duchesnea chrysantha_ (Zoll. & Moritzi) Miq. 臺灣蛇莓 LC 原生
+	1854. _Duchesnea indica_ (Andrews) Teschem. 蛇莓 LC 原生
+	1855. _Eriobotrya deflexa_ (Hemsl.) Nakai 山枇杷 LC 特有
+	1856. _Eriobotrya deflexa_ (Hemsl.) Nakai fo. _buisanensis_ (Hayata) Nakai 武威山枇杷  特有
+	1857. _Filipendula kiraishiensis_ Hayata 臺灣蚊子草 VU 特有
+	1858. _Fragaria ananassa_ Duch. 草莓  栽培
+	1859. _Fragaria hayatae_ Makino 臺灣草莓 LC 原生
+	1860. _Malus doumeri_ (Bois) A. Chev. 臺灣蘋果 LC 原生
+	1861. _Photinia niitakayamensis_ Hayata 玉山假沙梨 LC 原生
+	1862. _Photinia serratifolia_ (Desf.) Kalkman 石楠 LC 原生
+	1863. _Photinia serratifolia_ (Desf.) Kalkman var. _ardisiifolia_ (Hayata) H. Ohashi 臺東石楠  原生
+	1864. _Photinia serratifolia_ (Desf.) Kalkman var. _lasiopetala_ (Hayata) H. Ohashi 毛瓣石楠  原生
+	1865. _Potentilla leuconota_ D. Don 玉山金梅 LC 原生
+	1866. _Potentilla matsumurae_ Th. Wolf 高山翻白草 LC 原生
+	1867. _Potentilla tugitakensis_ Masam. 雪山翻白草 EN 特有
+	1868. _Pourthiaea beauverdiana_ (C.K. Schneid.) Hatus. var. _notabilis_ (C.K. Schneid.) Hatus. 臺灣老葉兒樹  原生
+	1869. _Pourthiaea lucida_ Decne. 臺灣石楠 LC 原生
+	1870. _Pourthiaea villosa_ (Thunb. ex Murray) Decne. var. _parvifolia_ (E. Pritz.) H. Iketani & H. Ohashi 小葉石楠  原生
+	1871. _Prinsepia scandens_ Hayata 假皂莢 LC 原生
+	1872. _Prunus buergeriana_ Miq. 布氏稠李 LC 原生
+	1873. _Prunus campanulata_ Maxim. 山櫻花 LC 原生
+	1874. _Prunus matuurae_ Sasaki 太平山櫻花 LC 原生
+	1875. _Prunus mume_ (Siebold) Siebold & Zucc. 梅  歸化
+	1876. _Prunus obtusata_ Koehne 臺灣稠李 EN 原生
+	1877. _Prunus persica_ (L.) Batsch 桃  栽培
+	1878. _Prunus phaeosticta_ (Hance) Maxim. var. _ilicifolia_ Yamam. 冬青葉桃仁  原生
+	1879. _Prunus phaeosticta_ (Hance) Maxim. 黑星櫻  原生
+	1880. _Prunus phaeosticta_ var. _phaeosticta_ (Hance) Maxim. 墨點櫻桃  原生
+	1881. _Prunus spinulosa_ Siebold & Zucc. 刺葉桂櫻 LC 原生
+	1882. _Prunus taiwaniana_ Hayata 霧社山櫻花 LC 特有
+	1883. _Prunus transarisanensis_ Hayata 阿里山櫻花 NT 特有
+	1884. _Prunus zippeliana_ Miq. 黃土樹 LC 原生
+	1885. _Rhaphiolepis indica_ (L.) Lindl. ex Ker var. _tashiroi_ Hayata ex Matsum. & Hayata 石斑木  特有
+	1886. _Rhaphiolepis indica_ (L.) Lindl. ex Ker var. _umbellata_ (Thunb.) H. Ohashi 厚葉石斑木  原生
+	1887. _Rosa bracteata_ Wendl. var. _bracteata_ Wendl. 琉球野薔薇  原生
+	1888. _Rosa cymosa_ Tratt. 小果薔薇 VU 原生
+	1889. _Rosa luciae_ Fr. & Rochebr. ex Crepin 光葉薔薇 DD 特有
+	1890. _Rosa multiflora_ Thunb. ex Murray var. _formosana_ Cardot 臺灣野薔薇  原生
+	1891. _Rosa pricei_ Hayata 太魯閣薔薇 DD 原生
+	1892. _Rosa sambucina_ Koidz. 山薔薇 LC 原生
+	1893. _Rosa sericea_ Lindl. var. _morrisonensis_ (Hayata) Masam. 玉山野薔薇  原生
+	1894. _Rosa_ sp. 薔薇屬 
+	1895. _Rosa taiwanensis_ Nakai 小金櫻 LC 特有
+	1896. _Rosa transmorrisonensis_ Hayata 高山薔薇 LC 原生
+	1897. _Rubus alceifolius_ Poir. 粗葉懸鉤子 LC 原生
+	1898. _Rubus buergeri_ Miq. 寒莓 LC 原生
+	1899. _Rubus cardotii_ Koidz. 紅狹葉懸鉤子 LC 原生
+	1900. _Rubus corchorifolius_ L. f. 變葉懸鉤子 LC 原生
+	1901. _Rubus formosensis_ Kuntze 臺灣懸鉤子 LC 原生
+	1902. _Rubus fraxinifolius_ Poir. 榿葉懸鉤子 LC 原生
+	1903. _Rubus glandulosocalycinus_ 蓬蘲 LC 原生
+	1904. _Rubus incanus_ Sasaki ex T.S.Liu & T.Y.Yang 白絨懸鉤子 LC 原生
+	1905. _Rubus inopertus_ (Focke ex Diels) Focke 紅花懸鉤子 LC 原生
+	1906. _Rubus kawakamii_ Hayata 桑葉懸鉤子  原生
+	1907. _Rubus lambertianus_ Ser. 高梁泡  原生
+	1908. _Rubus lambertianus_ Ser. ex DC. var. _morii_ (Hayata) S.-S. Ying 尾葉懸鉤子  原生
+	1909. _Rubus lambertianus_ var. _lambertianus_ Ser. 高梁泡  原生
+	1910. _Rubus liui_ Y.P. Yang & S.Y. Lu 柳氏懸鉤子 LC 特有
+	1911. _Rubus mesogaeus_ Focke 裡白懸鉤子 LC 原生
+	1912. _Rubus nagasawanus_ Koidz. var. _arachnoideus_ (Y.C. Liu & F.Y. Lu) S.S. Ying 灰葉懸鉤子  原生
+	1913. _Rubus parviaraliifolius_ Hayata 小<U+6964>葉懸鉤子  特有
+	1914. _Rubus parvifolius_ L. var. _parvifolius_ L. 紅梅消  原生
+	1915. _Rubus parvifolius_ L. 紅梅消  原生
+	1916. _Rubus parvifraxinifolius_ Hayata 小梣葉懸鉤子 LC 原生
+	1917. _Rubus pectinellus_ Maxim. 刺萼寒莓 LC 原生
+	1918. _Rubus pentalobus_ Hayata 玉山懸鉤子  特有
+	1919. _Rubus pungens_ Camb. var. _oldhamii_ (Miq.) Maxim. 刺懸鉤子  原生
+	1920. _Rubus pungens_ Camb. 刺懸鉤子  原生
+	1921. _Rubus pyrifolius_ Sm. 梨葉懸鉤子 LC 原生
+	1922. _Rubus rolfei_ S. Vidal 高山懸鉤子 NT 原生
+	1923. _Rubus rosifolius_ Sm. 刺莓 NT 原生
+	1924. _Rubus sumatranus_ Miq. 紅腺懸鉤子 EN 原生
+	1925. _Rubus swinhoei_ Hance 斯氏懸鉤子  原生
+	1926. _Rubus swinhoei_ Hance var. _kawakamii_ (Hayata) S.C. Liu 桑葉懸鉤子  特有
+	1927. _Rubus swinhoei_ var. _swinhoei_ Hance 斯氏懸鉤子  原生
+	1928. _Rubus taitoensis_ Hayata 刺花懸鉤子 LC 原生
+	1929. _Rubus taiwanicola_ Koidz. & Ohwi 臺灣莓 LC 原生
+	1930. _Rubus trianthus_ Focke 苦懸鉤子 LC 原生
+	1931. _Rubus wallichianus_ Wight & Arn. 鬼懸鉤子 LC 原生
+	1932. _Sibbaldia procumbens_ L. 五蕊莓 LC 原生
+	1933. _Sorbus randaiensis_ (Hayata) Koidz. 巒大花楸 LC 原生
+	1934. _Spiraea formosana_ Hayata 臺灣繡線菊 LC 特有
+	1935. _Spiraea hayatana_ H.L. Li 假繡線菊 LC 原生
+	1936. _Spiraea morrisonicola_ Hayata 玉山繡線菊 LC 特有
+	1937. _Spiraea prunifolia_ Sieb. & Zucc. var. _pseudoprunifolia_ (Hayata ex Nakai) H.L. Li 笑靨花  原生
+	1938. _Spiraea thunbergii_ Siebold 珍珠花  栽培
+189. Ulmaceae 榆科
+	1939. _Ulmus parvifolia_ Jacq. 榔榆 NT 原生
+	1940. _Ulmus uyematsui_ Hayata 阿里山榆 LC 特有
+	1941. _Zelkova serrata_ (Thunb.) Makino 櫸 LC 原生
+190. Urticaceae 蕁麻科
+	1942. _Boehmeria densiflora_ Hook. & Arn. 密花苧麻 LC 原生
+	1943. _Boehmeria nivea_ (L.) Gaudich. var. _tenacissima_ (Gaudich.) Miq. 青苧麻  原生
+	1944. _Boehmeria pilosiuscula_ (Blume) Hassk. 華南苧麻 LC 原生
+	1945. _Boehmeria pilushanensis_ Y.C. Liu & F.Y. Lu 畢祿山苧麻 VU 特有
+	1946. _Boehmeria sieboldiana_ Blume 草苧麻 LC 原生
+	1947. _Boehmeria wattersii_ B.L.Shih & Y.P. Yang 長葉苧麻 LC 原生
+	1948. _Debregeasia orientalis_ C.J. Chen 水麻 LC 原生
+	1949. _Elatostema cyrtandrifolium_ (Zoll. & Moritzi) Miq. 臺灣樓梯草 LC 原生
+	1950. _Elatostema hirtellipedunculatum_ B.L. Shih & Y.P. Yang 糙梗樓梯草 LC 特有
+	1951. _Elatostema lineolatum_ Wight var. _majus_ Wedd. 冷清草  原生
+	1952. _Elatostema microcephalanthum_ Hayata 微頭花樓梯草 LC 原生
+	1953. _Elatostema oblongifolium_ S.H.Fu 長圓樓梯草 CR 原生
+	1954. _Elatostema parvum_ (Blume) Miq. 絨莖樓梯草 LC 原生
+	1955. _Elatostema platyphyllum_ Wedd. 巒大冷清草 LC 原生
+	1956. _Elatostema strigillosum_ B.L. Shih & Y.P. Yang 微粗毛樓梯草 VU 特有
+	1957. _Elatostema trilobulatum_ (Hayata) T. Yamaz. 裂葉樓梯草 LC 原生
+	1958. _Elatostema villosum_ B.L. Shih & Y.P. Yang 柔毛樓梯草 VU 特有
+	1959. _Girardinia diversifolia_ (Link) Friis 蠍子草 LC 原生
+	1960. _Gonostegia hirta_ (Blume) Miq. 糯米團 LC 原生
+	1961. _Lecanthus peduncularis_ (Wall. ex Royle) Wedd. 長梗盤花麻 LC 原生
+	1962. _Nanocnide japonica_ Blume 花點草 LC 原生
+	1963. _Oreocnide pedunculata_ (Shirai) Masam. 長梗紫麻 LC 原生
+	1964. _Pellionia radicans_ (Siebold & Zucc.) Wedd. 赤車使者 LC 原生
+	1965. _Pellionia scabra_ Benth. 糙葉赤車使者 LC 原生
+	1966. _Pilea angulata_ (Blume) Blume 長柄冷水麻 LC 原生
+	1967. _Pilea aquarum_ Dunn subsp. _brevicornuta_ (Hayata) C.J. Chen 短角冷水麻  原生
+	1968. _Pilea funkikensis_ Hayata 奮起湖冷水麻 LC 特有
+	1969. _Pilea japonica_ (Maxim.) Hand.-Mazz. 日本冷水麻 VU 原生
+	1970. _Pilea matsudae_ Yamamoto 細尾冷水麻 LC 原生
+	1971. _Pilea melastomoides_ (Poir.) Wedd. 大冷水麻 LC 原生
+	1972. _Pilea microphylla_ (L.) Liebm. 小葉冷水麻  歸化
+	1973. _Pilea peploides_ (Gaudich.) Hook. & Arn. var. _major_ Wedd. 齒葉矮冷水麻  原生
+	1974. _Pilea plataniflora_ C.H. Wright 西南冷水麻 LC 原生
+	1975. _Pilea pumila_ (L.) A. Gray 透莖冷水麻 LC 原生
+	1976. _Pilea rotundinucula_ Hayata 圓果冷水麻 LC 原生
+	1977. _Pouzolzia elegans_ Wedd. 水雞油 LC 原生
+	1978. _Procris laevigata_ Blume 烏來麻 LC 原生
+	1979. _Urtica thunbergiana_ Siebold & Zucc. 蕁麻 LC 原生
+191. Balanophoraceae 蛇菰科
+	1980. _Balanophora laxiflora_ Hemsl. 穗花蛇菰 LC 原生
+192. Loranthaceae 桑寄生科
+	1981. _Loranthus delavayi_ Tiegh. 椆樹桑寄生 LC 原生
+	1982. _Loranthus kaoi_ (J.M. Chao) H.S. Kiu 高氏桑寄生 NT 特有
+	1983. _Loranthus lonicerifolius_ 忍冬葉桑寄生  原生
+	1984. _Scurrula liquidambaricolus_ (Hayata) Danser 大葉桑寄生 LC 特有
+	1985. _Taxillus lonicerifolius_ (Hayata) Chiu var. _lonicerifolius_ (Hayata) Chiu 忍冬葉桑寄生  特有
+	1986. _Taxillus rhododendricolus_ (Hayata) S.T. Chiu 杜鵑桑寄生 LC 特有
+193. Santalaceae 檀香科
+	1987. _Korthalsella japonica_ (Thunb.) Engl. 檜葉寄生 LC 原生
+	1988. _Viscum alniformosanae_ Hayata 臺灣槲寄生 LC 特有
+	1989. _Viscum articulatum_ Burm. f. 椆櫟柿寄生 LC 原生
+194. Anacardiaceae 漆樹科
+	1990. _Pegia nitida_ Colobr. 藤漆  栽培
+	1991. _Rhus ambigua_ Lav. ex Dippel 臺灣藤漆 LC 原生
+	1992. _Rhus chinensis_ var. _roxburghii_ (DC.) Rehder 羅氏鹽膚木  原生
+	1993. _Rhus succedanea_ L. 木蠟樹  原生
+	1994. _Rhus succedanea_ var. _succedanea_ L. 木蠟樹  原生
+195. Meliaceae 楝科
+	1995. _Toona sinensis_ (A. Juss.) M. Roem. 香椿  歸化
+196. Rutaceae 芸香科
+	1996. _Boenninghausenia albiflora_ (Hook.) Rchb. ex Meisn. 臭節草 LC 原生
+	1997. _Citrus_ sp. 柑橘屬 
+	1998. _Murraya euchrestifolia_ Hayata 山黃皮 LC 特有
+	1999. _Phellodendron amurense_ Rupr. var. _wilsonii_ C.E. Chang 臺灣黃蘗  特有
+	2000. _Skimmia arisanensis_ Hayata 阿里山茵芋 LC 特有
+	2001. _Skimmia japonica_ Thunb. subsp. _distincte-venulosa_ (Hayata) Ho var. _orthoclada_ (Hayata) Ho 深紅茵芋  原生
+	2002. _Tetradium glabrifolium_ (Champ. ex Benth.) T.G. Hartley 賊仔樹 LC 原生
+	2003. _Tetradium ruticarpum_ (A. Juss.) T.G. Hartley 吳茱萸 LC 原生
+	2004. _Toddalia asiatica_ (L.) Lam. 飛龍掌血 LC 原生
+	2005. _Zanthoxylum ailanthoides_ Sieb. & Zucc. 食茱萸  原生
+	2006. _Zanthoxylum ailanthoides_ var. _ailanthoides_ Siebold & Zucc. 食茱萸  原生
+	2007. _Zanthoxylum armatum_ DC. 秦椒 RE 原生
+	2008. _Zanthoxylum nitidum_ (Roxb.) DC. 雙面刺 LC 原生
+	2009. _Zanthoxylum scandens_ Blume 藤花椒 LC 原生
+197. Sapindaceae 無患子科
+	2010. _Acer albopurpurascens_ Hayata 樟葉槭 LC 原生
+	2011. _Acer insulare_ Hayata var. _caudatifolium_ (Hayata) S.Y. Lu & Y.P. Yang 尖葉楓  原生
+	2012. _Acer palmatum_ Thunb. var. _pubescens_ Li 臺灣掌葉槭  特有
+	2013. _Acer rubescens_ Hayata 臺灣紅榨楓  特有
+	2014. _Acer serrulatum_ Hayata 青楓 LC 原生
+	2015. _Dodonaea viscosa_ Jacq. 車桑子 LC 原生
+198. Simaroubaceae 苦木科
+	2016. _Ailanthus altissima_ var. _tanakae_ (Hayata) Kaneh. & Sasaki 臭椿  特有
+199. Altingiaceae 蕈樹科
+	2017. _Liquidambar formosana_ Hance 楓香 LC 原生
+200. Crassulaceae 景天科
+	2018. _Hylotelephium subcapitatum_ (Hayata) H. Ohba 穗花八寶 LC 原生
+	2019. _Sedum actinocarpum_ Yamam. 星果佛甲草 LC 特有
+	2020. _Sedum cryptomerioides_ Bartlet & Yamamoto 杉葉佛甲草 DD 特有
+	2021. _Sedum erythrospermum_ Hayata 紅子佛甲草 LC 原生
+	2022. _Sedum formosanum_ N.E. Br. 臺灣佛甲草 LC 原生
+	2023. _Sedum lineare_ Thunb. 佛甲草  原生
+	2024. _Sedum mexicanum_ Britton 松葉佛甲草  歸化
+	2025. _Sedum morrisonense_ Hayata 玉山佛甲草 LC 原生
+	2026. _Sedum nokoense_ Yamam. 能高佛甲草 EN 特有
+	2027. _Sedum uniflorum_ Hook. & Arn. 疏花佛甲草 NT 原生
+201. Daphniphyllaceae 虎皮楠科
+	2028. _Daphniphyllum glaucescens_ Blume subsp. _oldhamii_ T.C. Huang 奧氏虎皮楠  原生
+	2029. _Daphniphyllum himalense_ Blume subsp. _macropodum_ (Miq.) Huang 薄葉虎皮楠  原生
+	2030. _Daphniphyllum membranaceum_ Hayata 薄葉虎皮楠  特有
+	2031. _Daphniphyllum pentandrum_ Hayata 五蕊虎皮楠  原生
+202. Grossulariaceae 茶藨子科
+	2032. _Ribes formosanum_ Hayata 臺灣茶藨子 LC 特有
+203. Haloragaceae 小二仙草科
+	2033. _Haloragis micrantha_ (Thunb.) R. Br. 小二仙草 LC 原生
+204. Hamamelidaceae 金縷梅科
+	2034. _Eustigma oblongifolium_ Gardner & Champ. 秀柱花 LC 原生
+	2035. _Sycopsis sinensis_ Oliv. 水絲梨 LC 原生
+205. Iteaceae 鼠刺科
+	2036. _Itea oldhamii_ C.K. Schneid. 鼠刺 LC 原生
+	2037. _Itea parviflora_ Hemsl. 小花鼠刺 LC 原生
+206. Saxifragaceae 虎耳草科
+	2038. _Astilbe longicarpa_ (Hayata) Hayata 落新婦 LC 原生
+	2039. _Astilbe macroflora_ Hayata 阿里山落新婦 LC 特有
+	2040. _Chrysosplenium delavayi_ Franch. 青貓兒眼睛草 LC 原生
+	2041. _Chrysosplenium hebetatum_ Ohwi 大武貓兒眼睛草 LC 特有
+	2042. _Chrysosplenium lanuginosum_ Hook. f. & Thomson var. _formosanum_ (Hayata) H. Hara 臺灣貓兒眼睛草  原生
+	2043. _Mitella formosana_ (Hayata) Masam. 臺灣嗩吶草 LC 特有
+207. Convolvulaceae 旋花科
+	2044. _Erycibe henryi_ Prain 亨利氏伊立基藤 LC 原生
+	2045. _Ipomoea cairica_ (L.) Sweet 槭葉牽牛  歸化
+	2046. _Ipomoea indica_ (Burm.) Merr. 銳葉牽牛  歸化
+208. Solanaceae 茄科
+	2047. _Lycianthes biflora_ (Lour.) Bitter 雙花龍葵 LC 原生
+	2048. _Lycianthes lysimachioides_ (Wall.) Bitter 蔓茄 LC 原生
+	2049. _Physalis angulata_ L. 燈籠草  歸化
+	2050. _Solanum americanum_ Mill. 光果龍葵  歸化
+	2051. _Solanum diphyllum_ L. 瑪瑙珠  歸化
+	2052. _Solanum lyratum_ Thunb. ex Murray 白英 LC 原生
+	2053. _Solanum nigrum_ L. 龍葵 LC 原生
+	2054. _Solanum peikuoense_ S.S. Ying 白狗大山茄 LC 特有
+	2055. _Solanum pittosporifolium_ Hemsl. 玉山茄 LC 原生
+	2056. _Solanum pseudocapsicum_ L. 珊瑚櫻  歸化
+	2057. _Solanum torvum_ Sw. 萬桃花水茄  歸化
+	2058. _Tubocapsicum anomalum_ (Franch. & Sav.) Makino 龍珠 LC 原生
+209. Trochodendraceae 昆欄樹科
+	2059. _Trochodendron aralioides_ Siebold & Zucc. 昆欄樹 LC 原生
+210. Vitaceae 葡萄科
+	2060. _Ampelopsis brevipedunculata_ (Maxim.) Trautv. var. _hancei_ (Planch.) Rehder 漢氏山葡萄  原生
+	2061. _Ampelopsis cantoniensis_ (Hook. & Arn.) Planch. var. _leecoides_ (Maxim.) Lu 大葉廣東山葡萄  原生
+	2062. _Ampelopsis cantoniensis_ (Hook. & Arn.) Planch. 廣東山葡萄  原生
+	2063. _Ampelopsis cantoniensis_ var. _cantoniensis_ (Hook. & Arn.) Planch. 廣東山葡萄  原生
+	2064. _Ampelopsis glandulosa_ (Wall.) Momiy. var. _hancei_ (Planch.) Momiy. 漢氏山葡萄  原生
+	2065. _Cayratia corniculata_ (Benth.) Gagnep. 角花烏斂莓  原生
+	2066. _Cayratia japonica_ (Thunb.) Gagnep. 虎葛 LC 原生
+	2067. _Cissus pteroclada_ Hayata 翼莖粉藤 NT 特有
+	2068. _Nekemias cantoniensis_ J.Wen & Z.L.Nie 廣東山葡萄  原生
+	2069. _Parthenocissus dalzielii_ Gagnep. 地錦  原生
+	2070. _Parthenocissus tricuspidata_ (Sieb. & Zucc.) Planch. 地錦 LC 原生
+	2071. _Tetrastigma bioritsense_ (Hayata) Hsu & Kuoh 苗栗崖爬藤 LC 特有
+	2072. _Tetrastigma formosanum_ (Hemsl.) Gagnep. 三葉崖爬藤 LC 原生
+	2073. _Tetrastigma umbellatum_ (Hemsl.) Nakai 臺灣崖爬藤 LC 特有
+	2074. _Vitis flexuosa_ Thunb. 光葉葡萄 NT 原生
+211. Musaceae 芭蕉科
+	2075. _Musa itinerans_ var. _formosana_ (Warb. ex Schum.) Hakkinen & C. L. Yeh 臺灣芭蕉  特有
+212. Zingiberaceae 薑科
+	2076. _Alpinia intermedia_ Gagnep. 山月桃 LC 原生
+	2077. _Alpinia japonica_ (Thunb.) Miq. 山薑 LC 原生
+	2078. _Alpinia pricei_ Hayata 普萊氏月桃 LC 原生
+	2079. _Alpinia pricei_ Hayata var. _sessiliflora_ (Kitam.) J.J. Yang & J.C. Wang 阿里山月桃  原生
+	2080. _Alpinia shimadae_ Hayata 島田氏月桃 LC 原生
+	2081. _Alpinia shimadae_ Hayata var. _kawakamii_ (Hayata) J.J. Yang & J.C. Wang 川上氏月桃  原生
+	2082. _Alpinia uraiensis_ Hayata 烏來月桃 LC 特有
+	2083. _Alpinia zerumbet_ (Pers.) B.L. Burtt & R.M. Sm. 月桃 LC 原生
+	2084. _Zingiber kawagoii_ Hayata 三奈 LC 原生

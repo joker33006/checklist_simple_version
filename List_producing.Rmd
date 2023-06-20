@@ -1,0 +1,78 @@
+---
+title: "雪霸植物名錄"
+author: "JokerK"
+date: "2023/06/10"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+
+######## creat the checklist
+##### 邏輯
+####  比對門、綱、目、科四層
+tb <- fread("Survey_list/plant_list.csv",encoding = "UTF-8")
+tb[,phy_name:=paste0(phylum," ",phylum_c)][,
+  fam_name:= paste0(family," ",family_c)][,
+   sci_name:= paste(scientificName_i,common_name_c,
+                         redlist_2,source,sep = " ")]
+
+tb[grep("\\n",fam_name)]
+
+list <- NULL
+phy_oName <- 0
+fam_oName <- 0
+j <- 1
+k <- 1
+
+for (i in c(1:nrow(tb))){
+
+  phy_name <- tb[i,phy_name]
+  fam_name <- tb[i,fam_name]
+  sci_name <- tb[i,sci_name]
+      if(phy_oName==phy_name){
+          if(fam_oName==fam_name){
+              if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+              list <- paste0(list,"####",k,". ",sci_name)
+              k=k+1
+              }else{next}
+          }else{
+            fam_oName <- fam_name
+            if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+                list <- paste0(list,"###",j,". ",fam_name)
+                list <- paste0(list,"####",k,". ",sci_name)
+                k=k+1
+                j=j+1}else{
+                list <- paste0(list,"###",j,". ",fam_name)
+                j=j+1
+              }
+          }
+      }else{
+        list <- paste0(list,"##","**",phy_name,"**")
+        list <- paste0(list,"###",j,". ",fam_name)
+        list <- paste0(list,"####",k,". ",sci_name)
+        j=j+1
+        k=k+1
+        fam_oName <- fam_name
+        phy_oName <- phy_name
+      }
+}
+
+list <- gsub(" NA","",list)
+list <- gsub("####","\n\t ",list)
+list <- gsub("###","\n\n",list)
+list <- gsub("##","\n\n",list)
+list <- gsub("  "," ",list)
+list <- gsub("<U\\+00A0>"," ",list)
+writexl::write_xlsx(tb,"result/checklist_table.xlsx")
+cat(list, file = "namelist.txt")
+
+```
+
+ 
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```

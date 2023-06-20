@@ -1,0 +1,29 @@
+---
+title: "科名排序"
+output: html_notebook
+---
+利用TaiCol資料將現有科名加上目名，並予以排序。
+
+#step 0 package
+```{r}
+library(data.table)
+```
+# 載入TaiCol與現有名錄
+```{r}
+tai_list <- fread("database/TaiwanSpecies20221102_UTF8.csv",encoding = "UTF-8")
+ave_list <- fread("database/aves.csv",encoding = "UTF-8")
+anima_list <- fread("database/animalia.csv",encoding = "UTF-8")
+### 製作科、目比較
+order_fam <-unique(tai_list[is_accepted_name==1,
+                            .(family,order,order_c,class,class_c)]) 
+ave_list <- order_fam[ave_list,on=.(family)]
+ave_list[class_c!=i.class]
+ave_list[,i.class:=NULL]
+anima_list <- order_fam[anima_list,on=.(family)]
+anima_list[class_c!=i.class]
+anima_list[,i.class:=NULL]
+write.csv(ave_list,"database/aves.csv",fileEncoding = "UTF-8")
+write.csv(anima_list,"database/animalia.csv",fileEncoding = "UTF-8")
+```
+
+

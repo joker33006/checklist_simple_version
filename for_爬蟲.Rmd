@@ -1,0 +1,79 @@
+---
+title: "雪霸爬蟲類名錄"
+author: "JokerK"
+date: "2023/06/10"
+output: word_document
+---
+
+```{r,echo=FALSE,results='hide',message=FALSE}
+require(data.table)
+
+######## creat the checklist
+##### 邏輯
+####  比對門、綱、目、科四層
+tb <- fread("Survey_list/爬蟲綱_list.csv",encoding = "UTF-8")
+#### 有兩筆資料高位分類階層沒有中文名，手動填入
+### 兩筆資料屬於同一科，故僅填入相同數值
+
+#### 排序
+tb <- tb[order(class,order,Suborder,family,name)]
+
+
+
+list <- NULL
+subord_oName <- 0
+phy_oName <- 0
+fam_oName <- 0
+j <- 1
+k <- 1
+
+for (i in c(1:nrow(tb))){
+  subord_name <- tb[i,Suborder]
+  fam_name <- tb[i,family]
+  sci_name <- tb[i,name]
+  if(subord_name==subord_oName){
+          if(fam_oName==fam_name){
+              if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+              list <- paste0(list,"####",k,". ",sci_name)
+              k=k+1
+              }else{next}
+          }else{
+            fam_oName <- fam_name
+            if(tb[i,rank] %in% c("Genus","Species","Subspecies"
+                                   ,"Variety","Form")){
+                list <- paste0(list,"###",j,". ",fam_name)
+                list <- paste0(list,"####",k,". ",sci_name)
+                k=k+1
+                j=j+1}else{
+                list <- paste0(list,"###",j,". ",fam_name)
+                j=j+1
+              }
+          }
+      }else{
+        list <- paste0(list,"##","**",subord_name,"**")
+        list <- paste0(list,"###",j,". ",fam_name)
+        list <- paste0(list,"####",k,". ",sci_name)
+        j=j+1
+        k=k+1
+        fam_oName <- fam_name
+        subord_oName <- subord_name
+      }
+
+}
+list <- gsub(" NA","",list)
+list <- gsub("####","\n\t ",list)
+list <- gsub("###","\n\n",list)
+list <- gsub("##","\n\n",list)
+list <- gsub("#","\n\n",list)
+list <- gsub("  "," ",list)
+writexl::write_xlsx(tb,"result/checklist_table_for_other.xlsx")
+cat(list, file = "namelist.txt")
+
+```
+
+ 
+
+```{r,echo=FALSE,results='asis',message=FALSE}
+cat(list)
+```
